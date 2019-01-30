@@ -5,6 +5,7 @@ categories:
 date: 2009-11-12 10:09:43
 guid: http://ktamas.blog.hu/2009/11/12/zene_reggelihez_tree63_sunday
 id: 1769463
+disqus_identifier: 1769463
 url: /index.php/2009/11/12/zene_reggelihez_tree63_sunday/
 permalink: /index.php/2009/11/12/zene_reggelihez_tree63_sunday/
 tags: [random, zene]

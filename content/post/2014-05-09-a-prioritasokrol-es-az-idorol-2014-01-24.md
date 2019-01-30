@@ -5,6 +5,7 @@ categories:
 date: 2014-05-09 09:39:15
 guid: http://blog.ktamas.com/?p=2365277
 id: 2365277
+disqus_identifier: 2365277
 url: /index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/
 permalink: /index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/
 tags: [énblog, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2013-12-01 06:30:29
 guid: http://blog.ktamas.com/?p=2365211
 id: 2365211
+disqus_identifier: 2365211
 url: /index.php/2013/12/01/sved-zenek-avicii-wake-me-up/
 permalink: /index.php/2013/12/01/sved-zenek-avicii-wake-me-up/
 tags: [énblog, napiloop, svédország, zene]

@@ -5,6 +5,7 @@ categories:
 date: 2013-04-03 13:39:18
 guid: http://blog.ktamas.com/?p=2364260
 id: 2364260
+disqus_identifier: 2364260
 url: /index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/
 permalink: /index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/
 tags: [megosztások, rss, sharewood]

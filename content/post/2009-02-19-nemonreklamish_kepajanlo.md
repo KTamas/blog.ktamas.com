@@ -5,6 +5,7 @@ categories:
 date: 2009-02-19 13:00:46
 guid: http://ktamas.blog.hu/2009/02/19/nemonreklamish_kepajanlo
 id: 1769328
+disqus_identifier: 1769328
 url: /index.php/2009/02/19/nemonreklamish_kepajanlo/
 permalink: /index.php/2009/02/19/nemonreklamish_kepajanlo/
 tags: [fotózás]

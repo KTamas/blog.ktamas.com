@@ -5,6 +5,7 @@ categories:
 date: 2013-02-02 10:51:06
 guid: http://blog.ktamas.com/?p=2363543
 id: 2363543
+disqus_identifier: 2363543
 url: /index.php/2013/02/02/elso-nap-az-iskolaban-ooo-irodaban/
 permalink: /index.php/2013/02/02/elso-nap-az-iskolaban-ooo-irodaban/
 tags: [énblog, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2013-02-22 21:32:22
 guid: http://blog.ktamas.com/?p=2363807
 id: 2363807
+disqus_identifier: 2363807
 url: /index.php/2013/02/22/idezetek-pentek/
 permalink: /index.php/2013/02/22/idezetek-pentek/
 tags: [énblog, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2010-08-25 12:53:14
 guid: http://ktamas.blog.hu/2010/08/25/miert_ugyanaz_zooey_deschanel
 id: 2246621
+disqus_identifier: 2246621
 url: /index.php/2010/08/25/miert_ugyanaz_zooey_deschanel/
 permalink: /index.php/2010/08/25/miert_ugyanaz_zooey_deschanel/
 title: Miért ugyanaz Zooey Deschanel?

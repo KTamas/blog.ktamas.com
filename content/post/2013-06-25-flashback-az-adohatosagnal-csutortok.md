@@ -5,6 +5,7 @@ categories:
 date: 2013-06-25 10:48:41
 guid: http://blog.ktamas.com/?p=2364856
 id: 2364856
+disqus_identifier: 2364856
 url: /index.php/2013/06/25/flashback-az-adohatosagnal-csutortok/
 permalink: /index.php/2013/06/25/flashback-az-adohatosagnal-csutortok/
 tags: [énblog, svédország]

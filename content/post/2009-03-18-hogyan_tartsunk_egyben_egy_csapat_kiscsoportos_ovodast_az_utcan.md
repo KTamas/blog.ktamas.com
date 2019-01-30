@@ -5,6 +5,7 @@ categories:
 date: 2009-03-18 13:14:16
 guid: http://ktamas.blog.hu/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan
 id: 1769349
+disqus_identifier: 1769349
 url: /index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/
 permalink: /index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/
 tags: [szlovenia, wtf]

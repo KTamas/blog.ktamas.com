@@ -5,6 +5,7 @@ categories:
 date: 2013-05-04 11:03:41
 guid: http://blog.ktamas.com/?p=2364548
 id: 2364548
+disqus_identifier: 2364548
 url: /index.php/2013/05/04/meg-egy-gomba-hetfo/
 permalink: /index.php/2013/05/04/meg-egy-gomba-hetfo/
 tags: [énblog, svédország]

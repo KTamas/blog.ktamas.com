@@ -5,6 +5,7 @@ categories:
 date: 2013-07-22 14:27:52
 guid: http://blog.ktamas.com/?p=2364988
 id: 2364988
+disqus_identifier: 2364988
 url: /index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/
 permalink: /index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/
 tags: [olvasás]

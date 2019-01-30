@@ -5,6 +5,7 @@ categories:
 date: 2013-09-06 15:39:28
 guid: http://blog.ktamas.com/?p=2365170
 id: 2365170
+disqus_identifier: 2365170
 url: /index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/
 permalink: /index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/
 tags: [énblog, magyarország, munka, svédország]

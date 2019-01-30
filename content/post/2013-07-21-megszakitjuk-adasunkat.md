@@ -5,6 +5,7 @@ categories:
 date: 2013-07-21 11:11:08
 guid: http://blog.ktamas.com/?p=2364998
 id: 2364998
+disqus_identifier: 2364998
 url: /index.php/2013/07/21/megszakitjuk-adasunkat/
 permalink: /index.php/2013/07/21/megszakitjuk-adasunkat/
 tags: [énblog, svédország]

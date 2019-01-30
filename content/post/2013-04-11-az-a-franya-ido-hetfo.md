@@ -5,6 +5,7 @@ categories:
 date: 2013-04-11 11:11:59
 guid: http://blog.ktamas.com/?p=2364324
 id: 2364324
+disqus_identifier: 2364324
 url: /index.php/2013/04/11/az-a-franya-ido-hetfo/
 permalink: /index.php/2013/04/11/az-a-franya-ido-hetfo/
 tags: [énblog, svédország]

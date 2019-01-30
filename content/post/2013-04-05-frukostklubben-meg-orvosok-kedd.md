@@ -5,6 +5,7 @@ categories:
 date: 2013-04-05 15:25:19
 guid: http://blog.ktamas.com/?p=2364251
 id: 2364251
+disqus_identifier: 2364251
 url: /index.php/2013/04/05/frukostklubben-meg-orvosok-kedd/
 permalink: /index.php/2013/04/05/frukostklubben-meg-orvosok-kedd/
 tags: [énblog, svédország]

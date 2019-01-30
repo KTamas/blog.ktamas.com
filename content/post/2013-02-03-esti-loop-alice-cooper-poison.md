@@ -5,6 +5,7 @@ categories:
 date: 2013-02-03 22:03:35
 guid: http://blog.ktamas.com/?p=2363580
 id: 2363580
+disqus_identifier: 2363580
 url: /index.php/2013/02/03/esti-loop-alice-cooper-poison/
 permalink: /index.php/2013/02/03/esti-loop-alice-cooper-poison/
 tags: [napiloop, zene]

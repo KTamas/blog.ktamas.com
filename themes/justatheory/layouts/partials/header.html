@@ -13,6 +13,7 @@
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
 	<link rel="manifest" href="/site.webmanifest" />
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
 	<meta name="msapplication-TileColor" content="#da532c" />
@@ -29,9 +30,9 @@
 	<meta name="twitter:card" content="summary">{{ end }}{{ with .Site.Params.twitter }}
 	<meta name="twitter:site" value="@{{ . }}" />
 	<meta name="twitter:creator" value="@{{ . }}" />{{ end }}
-	{{ range .AlternativeOutputFormats -}}
+	<!-- {{ range .AlternativeOutputFormats -}}
 	<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}{{ if eq .MediaType.Suffix "xml" }}+xml{{ end }}" href="{{ .Permalink | safeURL }}" title="{{ $title }}" />
-	{{ end }}
+	{{ end }} -->
 	{{- .Hugo.Generator }}
 </head>
 <body>
@@ -53,7 +54,7 @@
 					{{- if .Site.Params.github }}
 					<li class="icon"><a href="//github.com/{{ .Site.Params.github }}" title="@{{ .Site.Params.github }} on GitHub"><i class="fa fa-github"></i></a></li>
 					{{- end }}
-					<li class="icon"><a href="/feed.xml" title="Subscribe to {{ .Site.Title }}"><i class="fa fa-rss"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to {{ .Site.Title }}"><i class="fa fa-rss"></i></a></li>
 				</menu>
 			</nav>
 		</header>

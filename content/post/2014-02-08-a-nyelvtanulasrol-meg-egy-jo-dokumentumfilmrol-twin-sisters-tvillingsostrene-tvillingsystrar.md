@@ -5,6 +5,7 @@ categories:
 date: 2014-02-08 10:45:19
 guid: http://blog.ktamas.com/?p=2365304
 id: 2365304
+disqus_identifier: 2365304
 url: /index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/
 permalink: /index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/
 tags: [énblog, film, norvégia, svédország]

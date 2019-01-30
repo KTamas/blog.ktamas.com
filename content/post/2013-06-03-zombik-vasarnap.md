@@ -5,6 +5,7 @@ categories:
 date: 2013-06-03 11:11:11
 guid: http://blog.ktamas.com/?p=2364717
 id: 2364717
+disqus_identifier: 2364717
 url: /index.php/2013/06/03/zombik-vasarnap/
 permalink: /index.php/2013/06/03/zombik-vasarnap/
 tags: [énblog, svédország]

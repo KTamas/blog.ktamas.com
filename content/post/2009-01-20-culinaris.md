@@ -5,6 +5,7 @@ categories:
 date: 2009-01-20 17:46:03
 guid: http://ktamas.blog.hu/2009/01/20/culinaris
 id: 1769315
+disqus_identifier: 1769315
 url: /index.php/2009/01/20/culinaris/
 permalink: /index.php/2009/01/20/culinaris/
 tags: [gasztro]

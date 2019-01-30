@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150467011360146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"157777258638086145";}}
 guid: http://blog.ktamas.com/?p=2362923
 id: 2362923
+disqus_identifier: 2362923
 url: /index.php/2012/01/13/napi-triplaloop-the-look/
 permalink: /index.php/2012/01/13/napi-triplaloop-the-look/
 tags: [napiloop, zene]

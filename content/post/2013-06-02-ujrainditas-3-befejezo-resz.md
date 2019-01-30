@@ -5,6 +5,7 @@ categories:
 date: 2013-06-02 18:08:47
 guid: http://blog.ktamas.com/?p=2364697
 id: 2364697
+disqus_identifier: 2364697
 url: /index.php/2013/06/02/ujrainditas-3-befejezo-resz/
 permalink: /index.php/2013/06/02/ujrainditas-3-befejezo-resz/
 tags: [énblog, svédország]

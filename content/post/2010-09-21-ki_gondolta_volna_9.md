@@ -5,6 +5,7 @@ categories:
 date: 2010-09-21 09:37:00
 guid: http://ktamas.blog.hu/2010/09/21/ki_gondolta_volna_9
 id: 2311053
+disqus_identifier: 2311053
 url: /index.php/2010/09/21/ki_gondolta_volna_9/
 permalink: /index.php/2010/09/21/ki_gondolta_volna_9/
 title: Ki gondolta volna

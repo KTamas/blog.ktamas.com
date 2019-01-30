@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150474249835146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"159228573448798208";}}
 guid: http://blog.ktamas.com/?p=2362903
 id: 2362903
+disqus_identifier: 2362903
 url: /index.php/2012/01/17/olvasonaplo-negyedik-resz-dresden-files-reaper-man-mother-earth-mother-board/
 permalink: /index.php/2012/01/17/olvasonaplo-negyedik-resz-dresden-files-reaper-man-mother-earth-mother-board/
 title: 'Olvasónapló, negyedik rész: Dresden Files, Reaper Man, Mother Earth, Mother Board'

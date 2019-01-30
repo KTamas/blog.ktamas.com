@@ -5,6 +5,7 @@ categories:
 date: 2009-11-01 16:02:29
 guid: http://ktamas.blog.hu/2009/11/01/moment_of_zen_2
 id: 1769461
+disqus_identifier: 1769461
 url: /index.php/2009/11/01/moment_of_zen_2/
 permalink: /index.php/2009/11/01/moment_of_zen_2/
 tags: [random]

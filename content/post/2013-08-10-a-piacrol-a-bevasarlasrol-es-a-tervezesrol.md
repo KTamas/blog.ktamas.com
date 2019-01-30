@@ -5,6 +5,7 @@ categories:
 date: 2013-08-10 11:31:41
 guid: http://blog.ktamas.com/?p=2365064
 id: 2365064
+disqus_identifier: 2365064
 url: /index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/
 permalink: /index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/
 tags: [énblog, kaja, svédország]

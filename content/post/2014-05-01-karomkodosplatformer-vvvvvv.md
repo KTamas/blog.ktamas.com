@@ -7,6 +7,7 @@ fb-status-updater-meta:
   - a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
 guid: http://blog.ktamas.com/?p=2362709
 id: 2362709
+disqus_identifier: 2362709
 url: /index.php/2014/05/01/karomkodosplatformer-vvvvvv/
 permalink: /index.php/2014/05/01/karomkodosplatformer-vvvvvv/
 title: Káromkodósplatformer (VVVVVV)

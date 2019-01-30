@@ -5,6 +5,7 @@ categories:
 date: 2009-06-27 16:57:29
 guid: http://ktamas.blog.hu/2009/06/27/a_yorki_rendorzenekar
 id: 1769419
+disqus_identifier: 1769419
 url: /index.php/2009/06/27/a_yorki_rendorzenekar/
 permalink: /index.php/2009/06/27/a_yorki_rendorzenekar/
 tags: [bécs, fotózás, zene]

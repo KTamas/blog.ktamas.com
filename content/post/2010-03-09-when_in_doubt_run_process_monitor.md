@@ -5,6 +5,7 @@ categories:
 date: 2010-03-09 10:30:00
 guid: http://ktamas.blog.hu/2010/03/09/when_in_doubt_run_process_monitor
 id: 1823449
+disqus_identifier: 1823449
 url: /index.php/2010/03/09/when_in_doubt_run_process_monitor/
 permalink: /index.php/2010/03/09/when_in_doubt_run_process_monitor/
 tags: [random, windows]

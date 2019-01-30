@@ -5,6 +5,7 @@ categories:
 date: 2013-06-27 11:12:08
 guid: http://blog.ktamas.com/?p=2364874
 id: 2364874
+disqus_identifier: 2364874
 url: /index.php/2013/06/27/flashback-midsommar/
 permalink: /index.php/2013/06/27/flashback-midsommar/
 tags: [énblog, svédország]

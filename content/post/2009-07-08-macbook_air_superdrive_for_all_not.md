@@ -5,6 +5,7 @@ categories:
 date: 2009-07-08 09:37:43
 guid: http://ktamas.blog.hu/2009/07/08/macbook_air_superdrive_for_all_not
 id: 1769428
+disqus_identifier: 1769428
 url: /index.php/2009/07/08/macbook_air_superdrive_for_all_not/
 permalink: /index.php/2009/07/08/macbook_air_superdrive_for_all_not/
 tags: [apple, random]

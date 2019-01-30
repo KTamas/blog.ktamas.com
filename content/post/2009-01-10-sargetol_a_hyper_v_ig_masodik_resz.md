@@ -5,6 +5,7 @@ categories:
 date: 2009-01-10 13:16:01
 guid: http://ktamas.blog.hu/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz
 id: 1769305
+disqus_identifier: 1769305
 url: /index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/
 permalink: /index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/
 tags: [linux, szerverek]

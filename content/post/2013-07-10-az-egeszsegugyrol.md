@@ -5,6 +5,7 @@ categories:
 date: 2013-07-10 09:44:25
 guid: http://blog.ktamas.com/?p=2364897
 id: 2364897
+disqus_identifier: 2364897
 url: /index.php/2013/07/10/az-egeszsegugyrol/
 permalink: /index.php/2013/07/10/az-egeszsegugyrol/
 tags: [énblog, svédország]

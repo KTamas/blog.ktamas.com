@@ -5,6 +5,7 @@ categories:
 date: 2013-08-05 14:13:28
 guid: http://blog.ktamas.com/?p=2365062
 id: 2365062
+disqus_identifier: 2365062
 url: /index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/
 permalink: /index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/
 tags: [olvasás]

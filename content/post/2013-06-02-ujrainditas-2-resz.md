@@ -5,6 +5,7 @@ categories:
 date: 2013-06-02 11:11:18
 guid: http://blog.ktamas.com/?p=2364688
 id: 2364688
+disqus_identifier: 2364688
 url: /index.php/2013/06/02/ujrainditas-2-resz/
 permalink: /index.php/2013/06/02/ujrainditas-2-resz/
 tags: [énblog, svédország]

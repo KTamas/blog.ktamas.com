@@ -5,6 +5,7 @@ categories:
 date: 2009-06-02 10:13:48
 guid: http://ktamas.blog.hu/2009/06/02/minden_masra_ott_az_eurocard_mastercard
 id: 1769397
+disqus_identifier: 1769397
 url: /index.php/2009/06/02/minden_masra_ott_az_eurocard_mastercard/
 permalink: /index.php/2009/06/02/minden_masra_ott_az_eurocard_mastercard/
 tags: [random]

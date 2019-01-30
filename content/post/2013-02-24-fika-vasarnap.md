@@ -5,6 +5,7 @@ categories:
 date: 2013-02-24 18:46:18
 guid: http://blog.ktamas.com/?p=2363838
 id: 2363838
+disqus_identifier: 2363838
 url: /index.php/2013/02/24/fika-vasarnap/
 permalink: /index.php/2013/02/24/fika-vasarnap/
 tags: [énblog, svédország]

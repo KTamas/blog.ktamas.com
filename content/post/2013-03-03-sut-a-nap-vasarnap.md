@@ -5,6 +5,7 @@ categories:
 date: 2013-03-03 20:42:18
 guid: http://blog.ktamas.com/?p=2363913
 id: 2363913
+disqus_identifier: 2363913
 url: /index.php/2013/03/03/sut-a-nap-vasarnap/
 permalink: /index.php/2013/03/03/sut-a-nap-vasarnap/
 tags: [énblog, svédország]

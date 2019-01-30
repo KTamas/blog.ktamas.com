@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150109925145146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"4.79504611307E+16";}}
 guid: http://blog.ktamas.com/?p=2362399
 id: 2362399
+disqus_identifier: 2362399
 url: /index.php/2011/03/16/the-maccabeats/
 permalink: /index.php/2011/03/16/the-maccabeats/
 tags: [izraeli, zene]

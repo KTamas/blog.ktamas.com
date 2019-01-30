@@ -5,6 +5,7 @@ categories:
 date: 2013-05-23 13:29:13
 guid: http://blog.ktamas.com/?p=2364648
 id: 2364648
+disqus_identifier: 2364648
 url: /index.php/2013/05/23/megtorve-a-csendet/
 permalink: /index.php/2013/05/23/megtorve-a-csendet/
 tags: [cég, énblog, svédország]

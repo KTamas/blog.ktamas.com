@@ -5,6 +5,7 @@ categories:
 date: 2013-04-09 11:12:37
 guid: http://blog.ktamas.com/?p=2364301
 id: 2364301
+disqus_identifier: 2364301
 url: /index.php/2013/04/09/szombat-indeed/
 permalink: /index.php/2013/04/09/szombat-indeed/
 tags: [énblog, svédország]

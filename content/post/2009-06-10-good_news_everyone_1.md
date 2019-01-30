@@ -5,6 +5,7 @@ categories:
 date: 2009-06-10 07:45:13
 guid: http://ktamas.blog.hu/2009/06/10/good_news_everyone_1
 id: 1769411
+disqus_identifier: 1769411
 url: /index.php/2009/06/10/good_news_everyone_1/
 permalink: /index.php/2009/06/10/good_news_everyone_1/
 tags: [futurama, random]

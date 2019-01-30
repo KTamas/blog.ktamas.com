@@ -5,6 +5,7 @@ categories:
 date: 2009-06-03 10:48:08
 guid: http://ktamas.blog.hu/2009/06/03/ilyen_egy_jo_becsi_vacsora
 id: 1769401
+disqus_identifier: 1769401
 url: /index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/
 permalink: /index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/
 tags: [bécs, random]

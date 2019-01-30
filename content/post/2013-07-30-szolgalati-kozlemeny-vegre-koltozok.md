@@ -5,6 +5,7 @@ categories:
 date: 2013-07-30 20:55:12
 guid: http://blog.ktamas.com/?p=2365059
 id: 2365059
+disqus_identifier: 2365059
 url: /index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/
 permalink: /index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/
 tags: [énblog, svédország]

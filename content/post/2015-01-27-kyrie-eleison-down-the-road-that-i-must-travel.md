@@ -5,6 +5,7 @@ categories:
 date: 2015-01-27 20:37:51
 guid: http://blog.ktamas.com/?p=2365487
 id: 2365487
+disqus_identifier: 2365487
 url: /index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/
 permalink: /index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/
 tags: ['2015', ontheroad]

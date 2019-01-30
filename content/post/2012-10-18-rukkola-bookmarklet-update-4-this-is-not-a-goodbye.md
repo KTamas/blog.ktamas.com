@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:25:"722715145_165778770227764";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:19:"2.5888911105683E+17";}}
 guid: http://blog.ktamas.com/?p=2363333
 id: 2363333
+disqus_identifier: 2363333
 url: /index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/
 permalink: /index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/
 tags: [rukkola]

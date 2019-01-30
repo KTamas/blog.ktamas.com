@@ -5,6 +5,7 @@ categories:
 date: 2009-05-09 10:30:35
 guid: http://ktamas.blog.hu/2009/05/09/hetyke_nyultilop
 id: 1769381
+disqus_identifier: 1769381
 url: /index.php/2009/05/09/hetyke_nyultilop/
 permalink: /index.php/2009/05/09/hetyke_nyultilop/
 tags: [linux, ubuntu, windows]

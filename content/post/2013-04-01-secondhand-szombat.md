@@ -5,6 +5,7 @@ categories:
 date: 2013-04-01 16:38:17
 guid: http://blog.ktamas.com/?p=2364202
 id: 2364202
+disqus_identifier: 2364202
 url: /index.php/2013/04/01/secondhand-szombat/
 permalink: /index.php/2013/04/01/secondhand-szombat/
 tags: [énblog, svédország]

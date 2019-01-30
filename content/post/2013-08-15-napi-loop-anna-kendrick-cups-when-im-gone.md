@@ -5,6 +5,7 @@ categories:
 date: 2013-08-15 10:48:44
 guid: http://blog.ktamas.com/?p=2365154
 id: 2365154
+disqus_identifier: 2365154
 url: /index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/
 permalink: /index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/
 tags: [napiloop, zene]

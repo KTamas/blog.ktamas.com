@@ -5,6 +5,7 @@ categories:
 date: 2009-04-30 20:55:17
 guid: http://ktamas.blog.hu/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam
 id: 1769376
+disqus_identifier: 1769376
 url: /index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/
 permalink: /index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/
 tags: [enkerekelnezest, random]

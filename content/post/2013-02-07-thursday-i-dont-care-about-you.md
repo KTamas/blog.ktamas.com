@@ -5,6 +5,7 @@ categories:
 date: 2013-02-07 19:58:30
 guid: http://blog.ktamas.com/?p=2363620
 id: 2363620
+disqus_identifier: 2363620
 url: /index.php/2013/02/07/thursday-i-dont-care-about-you/
 permalink: /index.php/2013/02/07/thursday-i-dont-care-about-you/
 tags: [énblog, svédország]

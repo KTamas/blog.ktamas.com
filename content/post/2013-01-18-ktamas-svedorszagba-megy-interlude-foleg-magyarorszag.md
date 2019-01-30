@@ -5,6 +5,7 @@ categories:
 date: 2013-01-18 13:29:41
 guid: http://blog.ktamas.com/?p=2363455
 id: 2363455
+disqus_identifier: 2363455
 url: /index.php/2013/01/18/ktamas-svedorszagba-megy-interlude-foleg-magyarorszag/
 permalink: /index.php/2013/01/18/ktamas-svedorszagba-megy-interlude-foleg-magyarorszag/
 tags: [énblog, svédország]

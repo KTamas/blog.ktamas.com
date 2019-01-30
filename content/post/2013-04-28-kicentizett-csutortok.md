@@ -5,6 +5,7 @@ categories:
 date: 2013-04-28 15:39:53
 guid: http://blog.ktamas.com/?p=2364504
 id: 2364504
+disqus_identifier: 2364504
 url: /index.php/2013/04/28/kicentizett-csutortok/
 permalink: /index.php/2013/04/28/kicentizett-csutortok/
 tags: [énblog, svédország]

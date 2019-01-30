@@ -5,6 +5,7 @@ categories:
 date: 2009-03-27 12:53:36
 guid: http://ktamas.blog.hu/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni
 id: 1769356
+disqus_identifier: 1769356
 url: /index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/
 permalink: /index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/
 tags: [programozás]

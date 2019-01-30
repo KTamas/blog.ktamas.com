@@ -5,6 +5,7 @@ categories:
 date: 2009-05-13 11:20:54
 guid: http://ktamas.blog.hu/2009/05/13/pagetable_pont_com
 id: 1769384
+disqus_identifier: 1769384
 url: /index.php/2009/05/13/pagetable_pont_com/
 permalink: /index.php/2009/05/13/pagetable_pont_com/
 tags: [ajánló, geekdom]

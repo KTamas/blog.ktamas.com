@@ -5,6 +5,7 @@ categories:
 date: 2009-07-02 20:45:03
 guid: http://ktamas.blog.hu/2009/07/02/slicehosttol_a_vpsplantig
 id: 1769421
+disqus_identifier: 1769421
 url: /index.php/2009/07/02/slicehosttol_a_vpsplantig/
 permalink: /index.php/2009/07/02/slicehosttol_a_vpsplantig/
 tags: [geekdom, linux, szerverek]

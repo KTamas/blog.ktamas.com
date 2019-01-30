@@ -5,6 +5,7 @@ categories:
 date: 2013-07-23 14:25:31
 guid: http://blog.ktamas.com/?p=2365008
 id: 2365008
+disqus_identifier: 2365008
 url: /index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/
 permalink: /index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/
 tags: [olvasás]

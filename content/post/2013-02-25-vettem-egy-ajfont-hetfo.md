@@ -5,6 +5,7 @@ categories:
 date: 2013-02-25 21:38:53
 guid: http://blog.ktamas.com/?p=2363861
 id: 2363861
+disqus_identifier: 2363861
 url: /index.php/2013/02/25/vettem-egy-ajfont-hetfo/
 permalink: /index.php/2013/02/25/vettem-egy-ajfont-hetfo/
 tags: [énblog, svédország]

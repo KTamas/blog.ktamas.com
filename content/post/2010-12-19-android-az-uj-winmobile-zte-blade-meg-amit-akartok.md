@@ -5,6 +5,7 @@ categories:
 date: 2010-12-19 12:20:21
 guid: http://blog.ktamas.com/?p=2362337
 id: 2362337
+disqus_identifier: 2362337
 url: /index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/
 permalink: /index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/
 tags: [android, apple, blackberry, pda, switch, winmobile]

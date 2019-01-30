@@ -5,6 +5,7 @@ categories:
 date: 2013-06-10 15:50:38
 guid: http://blog.ktamas.com/?p=2364757
 id: 2364757
+disqus_identifier: 2364757
 url: /index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/
 permalink: /index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/
 tags: [mac, osx]

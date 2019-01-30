@@ -5,6 +5,7 @@ categories:
 date: 2009-06-18 21:00:41
 guid: http://ktamas.blog.hu/2009/06/18/ruby_meg_a_mail_eloadas
 id: 1769417
+disqus_identifier: 1769417
 url: /index.php/2009/06/18/ruby_meg_a_mail_eloadas/
 permalink: /index.php/2009/06/18/ruby_meg_a_mail_eloadas/
 tags: [előadás, programozás, ruby]

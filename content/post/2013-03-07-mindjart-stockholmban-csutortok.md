@@ -5,6 +5,7 @@ categories:
 date: 2013-03-07 20:46:19
 guid: http://blog.ktamas.com/?p=2363942
 id: 2363942
+disqus_identifier: 2363942
 url: /index.php/2013/03/07/mindjart-stockholmban-csutortok/
 permalink: /index.php/2013/03/07/mindjart-stockholmban-csutortok/
 tags: [énblog, svédország]

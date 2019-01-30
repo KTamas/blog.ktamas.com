@@ -5,6 +5,7 @@ categories:
 date: 2009-01-29 11:24:06
 guid: http://ktamas.blog.hu/2009/01/29/a_feltudasu_politikai_elit_alkonya
 id: 1769318
+disqus_identifier: 1769318
 url: /index.php/2009/01/29/a_feltudasu_politikai_elit_alkonya/
 permalink: /index.php/2009/01/29/a_feltudasu_politikai_elit_alkonya/
 tags: [politika]

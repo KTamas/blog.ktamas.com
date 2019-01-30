@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150694476620146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"1.974305938296E+17";}}
 guid: http://blog.ktamas.com/?p=2363107
 id: 2363107
+disqus_identifier: 2363107
 url: /index.php/2012/05/01/romani-ite-domum-hq-edition/
 permalink: /index.php/2012/05/01/romani-ite-domum-hq-edition/
 title: Romani Ite Domum (HQ edition)

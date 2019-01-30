@@ -5,6 +5,7 @@ categories:
 date: 2010-05-12 20:46:00
 guid: http://ktamas.blog.hu/2010/05/12/zene_vacsorahoz
 id: 1994421
+disqus_identifier: 1994421
 url: /index.php/2010/05/12/zene_vacsorahoz/
 permalink: /index.php/2010/05/12/zene_vacsorahoz/
 title: Zene vacsorához

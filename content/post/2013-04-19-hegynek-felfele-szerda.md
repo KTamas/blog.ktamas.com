@@ -5,6 +5,7 @@ categories:
 date: 2013-04-19 11:12:13
 guid: http://blog.ktamas.com/?p=2364425
 id: 2364425
+disqus_identifier: 2364425
 url: /index.php/2013/04/19/hegynek-felfele-szerda/
 permalink: /index.php/2013/04/19/hegynek-felfele-szerda/
 tags: [énblog, svédország]

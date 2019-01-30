@@ -5,6 +5,7 @@ categories:
 date: 2014-06-07 20:05:08
 guid: http://blog.ktamas.com/?p=2365452
 id: 2365452
+disqus_identifier: 2365452
 url: /index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/
 permalink: /index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/
 tags: [napiloop, svédzene, zene]

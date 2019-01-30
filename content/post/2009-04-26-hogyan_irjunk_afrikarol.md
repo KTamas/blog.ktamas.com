@@ -5,6 +5,7 @@ categories:
 date: 2009-04-26 09:05:25
 guid: http://ktamas.blog.hu/2009/04/26/hogyan_irjunk_afrikarol
 id: 1769375
+disqus_identifier: 1769375
 url: /index.php/2009/04/26/hogyan_irjunk_afrikarol/
 permalink: /index.php/2009/04/26/hogyan_irjunk_afrikarol/
 tags: [ajánló]

@@ -5,6 +5,7 @@ categories:
 date: 2013-03-05 20:19:12
 guid: http://blog.ktamas.com/?p=2363932
 id: 2363932
+disqus_identifier: 2363932
 url: /index.php/2013/03/05/szemuveg-kedd/
 permalink: /index.php/2013/03/05/szemuveg-kedd/
 tags: [énblog, svédország]

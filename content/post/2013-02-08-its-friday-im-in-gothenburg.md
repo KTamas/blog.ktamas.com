@@ -5,6 +5,7 @@ categories:
 date: 2013-02-08 22:09:13
 guid: http://blog.ktamas.com/?p=2363636
 id: 2363636
+disqus_identifier: 2363636
 url: /index.php/2013/02/08/its-friday-im-in-gothenburg/
 permalink: /index.php/2013/02/08/its-friday-im-in-gothenburg/
 tags: [énblog, svédország]

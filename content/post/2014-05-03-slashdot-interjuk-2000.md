@@ -7,6 +7,7 @@ fb-status-updater-meta:
   - a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
 guid: http://blog.ktamas.com/?p=2363105
 id: 2363105
+disqus_identifier: 2363105
 url: /index.php/2014/05/03/slashdot-interjuk-2000/
 permalink: /index.php/2014/05/03/slashdot-interjuk-2000/
 title: 'Slashdot interjúk: 2000'

@@ -5,6 +5,7 @@ categories:
 date: 2013-08-06 11:53:54
 guid: http://blog.ktamas.com/?p=2365045
 id: 2365045
+disqus_identifier: 2365045
 url: /index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/
 permalink: /index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/
 tags: [énblog, svédország, vendégek]

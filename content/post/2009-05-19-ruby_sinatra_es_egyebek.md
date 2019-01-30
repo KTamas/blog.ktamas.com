@@ -5,6 +5,7 @@ categories:
 date: 2009-05-19 20:48:48
 guid: http://ktamas.blog.hu/2009/05/19/ruby_sinatra_es_egyebek
 id: 1769387
+disqus_identifier: 1769387
 url: /index.php/2009/05/19/ruby_sinatra_es_egyebek/
 permalink: /index.php/2009/05/19/ruby_sinatra_es_egyebek/
 tags: [mail, ruby, sinatra]

@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150176531250146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"67130510761144321";}}
 guid: http://blog.ktamas.com/?p=2362424
 id: 2362424
+disqus_identifier: 2362424
 url: /index.php/2011/05/08/muszaj-valamit-talalnom-amivel-az-agyamat-organizalom/
 permalink: /index.php/2011/05/08/muszaj-valamit-talalnom-amivel-az-agyamat-organizalom/
 title: Muszaj valamit talalnom amivel az agyamat organizalom

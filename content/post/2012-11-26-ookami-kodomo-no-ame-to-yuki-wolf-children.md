@@ -5,6 +5,7 @@ categories:
 date: 2012-11-26 15:51:18
 guid: http://blog.ktamas.com/?p=2363377
 id: 2363377
+disqus_identifier: 2363377
 url: /index.php/2012/11/26/ookami-kodomo-no-ame-to-yuki-wolf-children/
 permalink: /index.php/2012/11/26/ookami-kodomo-no-ame-to-yuki-wolf-children/
 title: Ookami Kodomo no Ame to Yuki (Wolf Children)

@@ -5,6 +5,7 @@ categories:
 date: 2013-05-01 17:41:24
 guid: http://blog.ktamas.com/?p=2364509
 id: 2364509
+disqus_identifier: 2364509
 url: /index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/
 permalink: /index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/
 tags: [énblog, sorozat, svédország]

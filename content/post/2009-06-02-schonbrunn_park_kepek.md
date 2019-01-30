@@ -5,6 +5,7 @@ categories:
 date: 2009-06-02 22:46:23
 guid: http://ktamas.blog.hu/2009/06/02/schonbrunn_park_kepek
 id: 1769400
+disqus_identifier: 1769400
 url: /index.php/2009/06/02/schonbrunn_park_kepek/
 permalink: /index.php/2009/06/02/schonbrunn_park_kepek/
 tags: [bécs]

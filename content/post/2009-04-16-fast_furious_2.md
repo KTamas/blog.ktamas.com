@@ -5,6 +5,7 @@ categories:
 date: 2009-04-16 08:48:07
 guid: http://ktamas.blog.hu/2009/04/16/fast_furious_2
 id: 1769369
+disqus_identifier: 1769369
 url: /index.php/2009/04/16/fast_furious_2/
 permalink: /index.php/2009/04/16/fast_furious_2/
 tags: [mozi]

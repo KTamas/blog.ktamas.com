@@ -5,6 +5,7 @@ categories:
 date: 2013-01-19 18:54:21
 guid: http://blog.ktamas.com/?p=2363458
 id: 2363458
+disqus_identifier: 2363458
 url: /index.php/2013/01/19/kiado-lakas-a-ii-keruletben/
 permalink: /index.php/2013/01/19/kiado-lakas-a-ii-keruletben/
 title: Már nem aktuális! &#8211; Kiadó lakás a II. kerületben

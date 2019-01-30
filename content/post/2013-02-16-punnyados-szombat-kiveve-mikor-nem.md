@@ -5,6 +5,7 @@ categories:
 date: 2013-02-16 19:51:49
 guid: http://blog.ktamas.com/?p=2363750
 id: 2363750
+disqus_identifier: 2363750
 url: /index.php/2013/02/16/punnyados-szombat-kiveve-mikor-nem/
 permalink: /index.php/2013/02/16/punnyados-szombat-kiveve-mikor-nem/
 tags: [énblog, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2009-06-04 22:00:23
 guid: http://ktamas.blog.hu/2009/06/04/ez_a_dal_szol_a_fejembe_ugy_fel_napja
 id: 1769403
+disqus_identifier: 1769403
 url: /index.php/2009/06/04/ez_a_dal_szol_a_fejembe_ugy_fel_napja/
 permalink: /index.php/2009/06/04/ez_a_dal_szol_a_fejembe_ugy_fel_napja/
 tags: [hit, random]

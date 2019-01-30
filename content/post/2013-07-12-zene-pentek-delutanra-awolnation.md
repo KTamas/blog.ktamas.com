@@ -5,6 +5,7 @@ categories:
 date: 2013-07-12 14:36:16
 guid: http://blog.ktamas.com/?p=2364924
 id: 2364924
+disqus_identifier: 2364924
 url: /index.php/2013/07/12/zene-pentek-delutanra-awolnation/
 permalink: /index.php/2013/07/12/zene-pentek-delutanra-awolnation/
 tags: [zene]

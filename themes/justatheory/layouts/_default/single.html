@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
 	<main>
 {{ partial "article.html" (dict "doc" .) }}
+{{ template "_internal/disqus.html" . }}
 	</main>
 {{ partial "footer.html" . }}

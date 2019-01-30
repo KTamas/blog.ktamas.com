@@ -5,6 +5,7 @@ categories:
 date: 2013-06-25 14:12:55
 guid: http://blog.ktamas.com/?p=2364884
 id: 2364884
+disqus_identifier: 2364884
 url: /index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/
 permalink: /index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/
 tags: [napiloop, zene]

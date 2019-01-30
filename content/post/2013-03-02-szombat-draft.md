@@ -5,6 +5,7 @@ categories:
 date: 2013-03-02 21:40:28
 guid: http://blog.ktamas.com/?p=2363907
 id: 2363907
+disqus_identifier: 2363907
 url: /index.php/2013/03/02/szombat-draft/
 permalink: /index.php/2013/03/02/szombat-draft/
 tags: [énblog, svédország]

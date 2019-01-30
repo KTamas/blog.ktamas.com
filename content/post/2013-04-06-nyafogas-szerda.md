@@ -5,6 +5,7 @@ categories:
 date: 2013-04-06 11:06:15
 guid: http://blog.ktamas.com/?p=2364276
 id: 2364276
+disqus_identifier: 2364276
 url: /index.php/2013/04/06/nyafogas-szerda/
 permalink: /index.php/2013/04/06/nyafogas-szerda/
 tags: [énblog, svédország]

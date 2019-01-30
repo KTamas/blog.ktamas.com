@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:25:"722715145_420624294659801";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:19:"2.6259864539066E+17";}}
 guid: http://blog.ktamas.com/?p=2362997
 id: 2362997
+disqus_identifier: 2362997
 url: /index.php/2012/10/28/meg-tobb-king-charles/
 permalink: /index.php/2012/10/28/meg-tobb-king-charles/
 tags: [zene]

@@ -5,6 +5,7 @@ categories:
 date: 2013-06-08 11:22:57
 guid: http://blog.ktamas.com/?p=2364788
 id: 2364788
+disqus_identifier: 2364788
 url: /index.php/2013/06/08/megint-hazikoszton-pentek/
 permalink: /index.php/2013/06/08/megint-hazikoszton-pentek/
 tags: [énblog, svédország]

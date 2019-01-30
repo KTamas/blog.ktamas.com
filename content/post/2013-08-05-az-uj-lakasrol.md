@@ -5,6 +5,7 @@ categories:
 date: 2013-08-05 10:10:23
 guid: http://blog.ktamas.com/?p=2365071
 id: 2365071
+disqus_identifier: 2365071
 url: /index.php/2013/08/05/az-uj-lakasrol/
 permalink: /index.php/2013/08/05/az-uj-lakasrol/
 tags: [énblog, lakás, svédország]

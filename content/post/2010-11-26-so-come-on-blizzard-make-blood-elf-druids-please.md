@@ -5,6 +5,7 @@ categories:
 date: 2010-11-26 12:22:46
 guid: http://blog.ktamas.com/?p=2362328
 id: 2362328
+disqus_identifier: 2362328
 url: /index.php/2010/11/26/so-come-on-blizzard-make-blood-elf-druids-please/
 permalink: /index.php/2010/11/26/so-come-on-blizzard-make-blood-elf-druids-please/
 tags: [random, zene]

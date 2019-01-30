@@ -5,6 +5,7 @@ categories:
 date: 2013-03-22 19:20:01
 guid: http://blog.ktamas.com/?p=2364097
 id: 2364097
+disqus_identifier: 2364097
 url: /index.php/2013/03/22/i-need-a-regex-and-i-have-heard-you-provide-the-best-shit-around-here-pentek/
 permalink: /index.php/2013/03/22/i-need-a-regex-and-i-have-heard-you-provide-the-best-shit-around-here-pentek/
 tags: [énblog, svédország]

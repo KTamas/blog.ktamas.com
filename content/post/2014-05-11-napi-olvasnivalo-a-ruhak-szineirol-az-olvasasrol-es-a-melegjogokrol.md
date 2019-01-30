@@ -5,6 +5,7 @@ categories:
 date: 2014-05-11 10:49:22
 guid: http://blog.ktamas.com/?p=2365134
 id: 2365134
+disqus_identifier: 2365134
 url: /index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/
 permalink: /index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/
 tags: [olvasás]

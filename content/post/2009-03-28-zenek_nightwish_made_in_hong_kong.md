@@ -5,6 +5,7 @@ categories:
 date: 2009-03-28 21:30:56
 guid: http://ktamas.blog.hu/2009/03/28/zenek_nightwish_made_in_hong_kong
 id: 1769359
+disqus_identifier: 1769359
 url: /index.php/2009/03/28/zenek_nightwish_made_in_hong_kong/
 permalink: /index.php/2009/03/28/zenek_nightwish_made_in_hong_kong/
 tags: [zene]

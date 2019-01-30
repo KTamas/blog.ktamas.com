@@ -5,6 +5,7 @@ categories:
 date: 2013-04-27 17:39:54
 guid: http://blog.ktamas.com/?p=2364498
 id: 2364498
+disqus_identifier: 2364498
 url: /index.php/2013/04/27/hazicsoport-nalam-szerda/
 permalink: /index.php/2013/04/27/hazicsoport-nalam-szerda/
 tags: [énblog, svédország]

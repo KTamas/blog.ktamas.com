@@ -5,6 +5,7 @@ categories:
 date: 2009-01-11 16:41:46
 guid: http://ktamas.blog.hu/2009/01/11/visszater_a_do_as_infinity
 id: 1769308
+disqus_identifier: 1769308
 url: /index.php/2009/01/11/visszater_a_do_as_infinity/
 permalink: /index.php/2009/01/11/visszater_a_do_as_infinity/
 tags: [japán, zene]

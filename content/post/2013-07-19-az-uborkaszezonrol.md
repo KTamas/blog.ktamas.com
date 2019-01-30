@@ -5,6 +5,7 @@ categories:
 date: 2013-07-19 10:11:43
 guid: http://blog.ktamas.com/?p=2364959
 id: 2364959
+disqus_identifier: 2364959
 url: /index.php/2013/07/19/az-uborkaszezonrol/
 permalink: /index.php/2013/07/19/az-uborkaszezonrol/
 tags: [énblog, svédország]

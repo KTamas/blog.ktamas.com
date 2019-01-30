@@ -5,6 +5,7 @@ categories:
 date: 2017-09-07 14:09:02
 guid: http://blog.ktamas.com/?p=2365635
 id: 2365635
+disqus_identifier: 2365635
 url: /index.php/2017/09/07/please-subscribe/
 permalink: /index.php/2017/09/07/please-subscribe/
 title: Please Subscribe

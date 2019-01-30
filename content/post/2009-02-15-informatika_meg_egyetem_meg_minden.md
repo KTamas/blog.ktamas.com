@@ -5,6 +5,7 @@ categories:
 date: 2009-02-15 13:32:53
 guid: http://ktamas.blog.hu/2009/02/15/informatika_meg_egyetem_meg_minden
 id: 1769325
+disqus_identifier: 1769325
 url: /index.php/2009/02/15/informatika_meg_egyetem_meg_minden/
 permalink: /index.php/2009/02/15/informatika_meg_egyetem_meg_minden/
 tags: [agymenes, énblog, it, nyelvészet]

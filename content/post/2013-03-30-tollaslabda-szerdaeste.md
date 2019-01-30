@@ -5,6 +5,7 @@ categories:
 date: 2013-03-30 11:03:42
 guid: http://blog.ktamas.com/?p=2364165
 id: 2364165
+disqus_identifier: 2364165
 url: /index.php/2013/03/30/tollaslabda-szerdaeste/
 permalink: /index.php/2013/03/30/tollaslabda-szerdaeste/
 tags: [énblog, svédország]

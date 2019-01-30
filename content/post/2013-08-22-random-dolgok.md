@@ -5,6 +5,7 @@ categories:
 date: 2013-08-22 11:49:19
 guid: http://blog.ktamas.com/?p=2365160
 id: 2365160
+disqus_identifier: 2365160
 url: /index.php/2013/08/22/random-dolgok/
 permalink: /index.php/2013/08/22/random-dolgok/
 tags: [énblog, svédország, zene]

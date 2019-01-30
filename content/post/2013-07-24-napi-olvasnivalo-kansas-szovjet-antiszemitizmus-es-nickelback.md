@@ -5,6 +5,7 @@ categories:
 date: 2013-07-24 14:25:56
 guid: http://blog.ktamas.com/?p=2365010
 id: 2365010
+disqus_identifier: 2365010
 url: /index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/
 permalink: /index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/
 tags: [olvasás]

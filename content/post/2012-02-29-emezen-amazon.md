@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150563134695146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:19:"1.7477785025421E+17";}}
 guid: http://blog.ktamas.com/?p=2363041
 id: 2363041
+disqus_identifier: 2363041
 url: /index.php/2012/02/29/emezen-amazon/
 permalink: /index.php/2012/02/29/emezen-amazon/
 tags: [random]

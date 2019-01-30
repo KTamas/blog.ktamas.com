@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150486431075146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"161531299104948225";}}
 guid: http://blog.ktamas.com/?p=2362960
 id: 2362960
+disqus_identifier: 2362960
 url: /index.php/2012/01/23/kontentmegosztas-redux-tamadnak-a-linkblogok-come-and-join-the-revolution/
 permalink: /index.php/2012/01/23/kontentmegosztas-redux-tamadnak-a-linkblogok-come-and-join-the-revolution/
 tags: [énblog, linkblog]

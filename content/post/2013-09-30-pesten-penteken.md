@@ -5,6 +5,7 @@ categories:
 date: 2013-09-30 15:10:21
 guid: http://blog.ktamas.com/?p=2365187
 id: 2365187
+disqus_identifier: 2365187
 url: /index.php/2013/09/30/pesten-penteken/
 permalink: /index.php/2013/09/30/pesten-penteken/
 tags: [énblog, magyarország]

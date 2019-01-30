@@ -5,6 +5,7 @@ categories:
 date: 2009-09-22 20:00:39
 guid: http://ktamas.blog.hu/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause
 id: 1769455
+disqus_identifier: 1769455
 url: /index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/
 permalink: /index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/
 tags: [izraeli, zene]

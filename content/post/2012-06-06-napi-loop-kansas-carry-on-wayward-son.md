@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150838805140146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"2.102825260345E+17";}}
 guid: http://blog.ktamas.com/?p=2363134
 id: 2363134
+disqus_identifier: 2363134
 url: /index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/
 permalink: /index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/
 tags: [napiloop, zene]

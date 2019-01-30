@@ -5,6 +5,7 @@ categories:
 date: 2013-02-20 22:07:30
 guid: http://blog.ktamas.com/?p=2363784
 id: 2363784
+disqus_identifier: 2363784
 url: /index.php/2013/02/20/napi-zene-kiss-crazy-crazy-nights/
 permalink: /index.php/2013/02/20/napi-zene-kiss-crazy-crazy-nights/
 tags: [zene]

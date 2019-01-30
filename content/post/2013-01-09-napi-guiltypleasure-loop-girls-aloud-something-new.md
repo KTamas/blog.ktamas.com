@@ -5,6 +5,7 @@ categories:
 date: 2013-01-09 11:27:50
 guid: http://blog.ktamas.com/?p=2363430
 id: 2363430
+disqus_identifier: 2363430
 url: /index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/
 permalink: /index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/
 tags: [napiloop, zene]

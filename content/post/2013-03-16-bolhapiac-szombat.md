@@ -5,6 +5,7 @@ categories:
 date: 2013-03-16 19:44:47
 guid: http://blog.ktamas.com/?p=2364050
 id: 2364050
+disqus_identifier: 2364050
 url: /index.php/2013/03/16/bolhapiac-szombat/
 permalink: /index.php/2013/03/16/bolhapiac-szombat/
 tags: [énblog, svédország]

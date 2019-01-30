@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150183213455146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"69661966855192576";}}
 guid: http://blog.ktamas.com/?p=2362533
 id: 2362533
+disqus_identifier: 2362533
 url: /index.php/2011/05/15/hatterkep/
 permalink: /index.php/2011/05/15/hatterkep/
 tags: [random, wallpaper]

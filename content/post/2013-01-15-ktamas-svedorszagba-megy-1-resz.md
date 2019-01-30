@@ -5,6 +5,7 @@ categories:
 date: 2013-01-15 23:35:19
 guid: http://blog.ktamas.com/?p=2363444
 id: 2363444
+disqus_identifier: 2363444
 url: /index.php/2013/01/15/ktamas-svedorszagba-megy-1-resz/
 permalink: /index.php/2013/01/15/ktamas-svedorszagba-megy-1-resz/
 tags: [énblog, svédország]

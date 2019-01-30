@@ -12,6 +12,7 @@ PaginatePath = "p"
 footnoteReturnLinkContents = "↩"
 enableRobotsTXT = true
 disableKinds = ["section"]
+disqusShortname = "ktamas"
 
 [author]
     name = "KTamas"

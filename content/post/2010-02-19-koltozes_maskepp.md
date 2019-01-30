@@ -5,6 +5,7 @@ categories:
 date: 2010-02-19 21:21:00
 guid: http://ktamas.blog.hu/2010/02/19/koltozes_maskepp
 id: 1772861
+disqus_identifier: 1772861
 url: /index.php/2010/02/19/koltozes_maskepp/
 permalink: /index.php/2010/02/19/koltozes_maskepp/
 title: Költözés (másképp)

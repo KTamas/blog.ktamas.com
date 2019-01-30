@@ -5,6 +5,7 @@ categories:
 date: 2013-08-06 14:25:31
 guid: http://blog.ktamas.com/?p=2365109
 id: 2365109
+disqus_identifier: 2365109
 url: /index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/
 permalink: /index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/
 tags: [olvasás]

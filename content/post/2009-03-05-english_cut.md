@@ -5,6 +5,7 @@ categories:
 date: 2009-03-05 10:00:55
 guid: http://ktamas.blog.hu/2009/03/05/english_cut
 id: 1769340
+disqus_identifier: 1769340
 url: /index.php/2009/03/05/english_cut/
 permalink: /index.php/2009/03/05/english_cut/
 tags: [ajánló]

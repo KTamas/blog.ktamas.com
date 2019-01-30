@@ -5,6 +5,7 @@ categories:
 date: 2013-04-14 17:17:22
 guid: http://blog.ktamas.com/?p=2364356
 id: 2364356
+disqus_identifier: 2364356
 url: /index.php/2013/04/14/after-work-csutortok/
 permalink: /index.php/2013/04/14/after-work-csutortok/
 tags: [énblog, svédország]

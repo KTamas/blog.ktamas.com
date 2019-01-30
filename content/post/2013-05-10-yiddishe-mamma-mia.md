@@ -5,6 +5,7 @@ categories:
 date: 2013-05-10 14:28:05
 guid: http://blog.ktamas.com/?p=2364590
 id: 2364590
+disqus_identifier: 2364590
 url: /index.php/2013/05/10/yiddishe-mamma-mia/
 permalink: /index.php/2013/05/10/yiddishe-mamma-mia/
 tags: [kaja]

@@ -5,6 +5,7 @@ categories:
 date: 2009-03-11 20:00:35
 guid: http://ktamas.blog.hu/2009/03/11/a_mi_eseteink
 id: 1769345
+disqus_identifier: 1769345
 url: /index.php/2009/03/11/a_mi_eseteink/
 permalink: /index.php/2009/03/11/a_mi_eseteink/
 tags: [szerverek, windows]

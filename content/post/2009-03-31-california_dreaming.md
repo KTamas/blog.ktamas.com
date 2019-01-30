@@ -5,6 +5,7 @@ categories:
 date: 2009-03-31 16:13:23
 guid: http://ktamas.blog.hu/2009/03/31/california_dreaming
 id: 1769363
+disqus_identifier: 1769363
 url: /index.php/2009/03/31/california_dreaming/
 permalink: /index.php/2009/03/31/california_dreaming/
 tags: [zene]

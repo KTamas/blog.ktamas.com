@@ -5,6 +5,7 @@ categories:
 date: 2009-05-17 18:16:35
 guid: http://ktamas.blog.hu/2009/05/17/die_outlook_die
 id: 1769386
+disqus_identifier: 1769386
 url: /index.php/2009/05/17/die_outlook_die/
 permalink: /index.php/2009/05/17/die_outlook_die/
 tags: [die_outlook_die]

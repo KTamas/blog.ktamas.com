@@ -5,6 +5,7 @@ categories:
 date: 2009-03-26 19:18:43
 guid: http://ktamas.blog.hu/2009/03/26/wolf3d_for_iphone_nyalanksagok
 id: 1769355
+disqus_identifier: 1769355
 url: /index.php/2009/03/26/wolf3d_for_iphone_nyalanksagok/
 permalink: /index.php/2009/03/26/wolf3d_for_iphone_nyalanksagok/
 tags: [ajánló]

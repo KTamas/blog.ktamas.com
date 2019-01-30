@@ -5,6 +5,7 @@ categories:
 date: 2009-02-11 19:02:08
 guid: http://ktamas.blog.hu/2009/02/11/bye_bye_macbook_hello_x61s_1
 id: 1769321
+disqus_identifier: 1769321
 url: /index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/
 permalink: /index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/
 tags: [mac, switch, win7, windows]

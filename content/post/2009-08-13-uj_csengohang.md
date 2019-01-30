@@ -5,6 +5,7 @@ categories:
 date: 2009-08-13 22:21:44
 guid: http://ktamas.blog.hu/2009/08/13/uj_csengohang
 id: 1769442
+disqus_identifier: 1769442
 url: /index.php/2009/08/13/uj_csengohang/
 permalink: /index.php/2009/08/13/uj_csengohang/
 tags: [random, sorozat, vm, zene]

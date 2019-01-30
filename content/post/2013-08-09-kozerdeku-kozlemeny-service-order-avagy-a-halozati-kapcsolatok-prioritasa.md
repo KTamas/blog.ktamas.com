@@ -5,6 +5,7 @@ categories:
 date: 2013-08-09 11:01:47
 guid: http://blog.ktamas.com/?p=2365144
 id: 2365144
+disqus_identifier: 2365144
 url: /index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/
 permalink: /index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/
 tags: [osx, random, windows]

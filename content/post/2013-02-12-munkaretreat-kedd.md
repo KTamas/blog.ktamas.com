@@ -5,6 +5,7 @@ categories:
 date: 2013-02-12 19:57:25
 guid: http://blog.ktamas.com/?p=2363702
 id: 2363702
+disqus_identifier: 2363702
 url: /index.php/2013/02/12/munkaretreat-kedd/
 permalink: /index.php/2013/02/12/munkaretreat-kedd/
 tags: [énblog, svédország]

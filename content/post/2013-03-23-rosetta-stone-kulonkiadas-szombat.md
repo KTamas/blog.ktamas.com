@@ -5,6 +5,7 @@ categories:
 date: 2013-03-23 18:56:26
 guid: http://blog.ktamas.com/?p=2364111
 id: 2364111
+disqus_identifier: 2364111
 url: /index.php/2013/03/23/rosetta-stone-kulonkiadas-szombat/
 permalink: /index.php/2013/03/23/rosetta-stone-kulonkiadas-szombat/
 tags: [énblog, nyelvtanulás, svédország]

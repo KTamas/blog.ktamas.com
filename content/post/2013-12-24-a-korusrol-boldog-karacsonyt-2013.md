@@ -5,6 +5,7 @@ categories:
 date: 2013-12-24 17:22:54
 guid: http://blog.ktamas.com/?p=2365220
 id: 2365220
+disqus_identifier: 2365220
 url: /index.php/2013/12/24/a-korusrol-boldog-karacsonyt-2013/
 permalink: /index.php/2013/12/24/a-korusrol-boldog-karacsonyt-2013/
 tags: [kórus, zene]

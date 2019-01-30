@@ -5,6 +5,7 @@ categories:
 date: 2014-03-25 08:29:22
 guid: http://blog.ktamas.com/?p=2365358
 id: 2365358
+disqus_identifier: 2365358
 url: /index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/
 permalink: /index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/
 tags: [napiloop, zene]

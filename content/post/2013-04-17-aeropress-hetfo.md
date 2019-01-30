@@ -5,6 +5,7 @@ categories:
 date: 2013-04-17 11:13:53
 guid: http://blog.ktamas.com/?p=2364397
 id: 2364397
+disqus_identifier: 2364397
 url: /index.php/2013/04/17/aeropress-hetfo/
 permalink: /index.php/2013/04/17/aeropress-hetfo/
 tags: [énblog, svédország]

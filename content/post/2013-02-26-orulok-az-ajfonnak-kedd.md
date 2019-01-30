@@ -5,6 +5,7 @@ categories:
 date: 2013-02-26 20:58:50
 guid: http://blog.ktamas.com/?p=2363874
 id: 2363874
+disqus_identifier: 2363874
 url: /index.php/2013/02/26/orulok-az-ajfonnak-kedd/
 permalink: /index.php/2013/02/26/orulok-az-ajfonnak-kedd/
 tags: [énblog, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2013-05-14 09:59:50
 guid: http://blog.ktamas.com/?p=2364619
 id: 2364619
+disqus_identifier: 2364619
 url: /index.php/2013/05/14/hazafele-kedden/
 permalink: /index.php/2013/05/14/hazafele-kedden/
 tags: [énblog, magyarország, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2013-05-05 14:30:25
 guid: http://blog.ktamas.com/?p=2364535
 id: 2364535
+disqus_identifier: 2364535
 url: /index.php/2013/05/05/bowling-szerda/
 permalink: /index.php/2013/05/05/bowling-szerda/
 tags: [énblog, svédország]

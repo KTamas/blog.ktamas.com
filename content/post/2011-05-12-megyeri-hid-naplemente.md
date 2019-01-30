@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150180509845146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"68639207702269955";}}
 guid: http://blog.ktamas.com/?p=2362524
 id: 2362524
+disqus_identifier: 2362524
 url: /index.php/2011/05/12/megyeri-hid-naplemente/
 permalink: /index.php/2011/05/12/megyeri-hid-naplemente/
 tags: [fotózás, random]

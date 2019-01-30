@@ -5,6 +5,7 @@ categories:
 date: 2013-03-29 09:30:48
 guid: http://blog.ktamas.com/?p=2364155
 id: 2364155
+disqus_identifier: 2364155
 url: /index.php/2013/03/29/felmentem-a-tetore-kisszerda/
 permalink: /index.php/2013/03/29/felmentem-a-tetore-kisszerda/
 tags: [énblog, fotózás, svédország, video]

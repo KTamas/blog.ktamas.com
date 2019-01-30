@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150230503395146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"88250076685803520";}}
 guid: http://blog.ktamas.com/?p=2362595
 id: 2362595
+disqus_identifier: 2362595
 url: /index.php/2011/07/05/huawei-e1752-meg-az-osx/
 permalink: /index.php/2011/07/05/huawei-e1752-meg-az-osx/
 tags: [agymenes, mac]

@@ -5,6 +5,7 @@ categories:
 date: 2009-04-07 21:30:45
 guid: http://ktamas.blog.hu/2009/04/07/ujforditas
 id: 1769366
+disqus_identifier: 1769366
 url: /index.php/2009/04/07/ujforditas/
 permalink: /index.php/2009/04/07/ujforditas/
 tags: [hit]

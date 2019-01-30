@@ -5,6 +5,7 @@ categories:
 date: 2013-06-06 11:09:34
 guid: http://blog.ktamas.com/?p=2364734
 id: 2364734
+disqus_identifier: 2364734
 url: /index.php/2013/06/06/kubb-szerda/
 permalink: /index.php/2013/06/06/kubb-szerda/
 tags: [énblog, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2014-02-17 09:02:17
 guid: http://blog.ktamas.com/?p=2365323
 id: 2365323
+disqus_identifier: 2365323
 url: /index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/
 permalink: /index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/
 tags: [napiloop, zene]

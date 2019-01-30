@@ -5,6 +5,7 @@ categories:
 date: 2013-07-17 10:15:13
 guid: http://blog.ktamas.com/?p=2364965
 id: 2364965
+disqus_identifier: 2364965
 url: /index.php/2013/07/17/az-olvasasrol/
 permalink: /index.php/2013/07/17/az-olvasasrol/
 tags: [énblog, olvasás, svédország]

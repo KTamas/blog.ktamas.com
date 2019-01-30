@@ -5,6 +5,7 @@ categories:
 date: 2013-03-11 20:48:23
 guid: http://blog.ktamas.com/?p=2364005
 id: 2364005
+disqus_identifier: 2364005
 url: /index.php/2013/03/11/stockholm-utan-koppenhaga-elott-hetfo/
 permalink: /index.php/2013/03/11/stockholm-utan-koppenhaga-elott-hetfo/
 tags: [énblog, svédország]

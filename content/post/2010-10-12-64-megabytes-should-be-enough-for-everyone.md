@@ -5,6 +5,7 @@ categories:
 date: 2010-10-12 14:00:45
 guid: http://blog.ktamas.com/?p=2362282
 id: 2362282
+disqus_identifier: 2362282
 url: /index.php/2010/10/12/64-megabytes-should-be-enough-for-everyone/
 permalink: /index.php/2010/10/12/64-megabytes-should-be-enough-for-everyone/
 title: 64 megabytes should be enough for everyone

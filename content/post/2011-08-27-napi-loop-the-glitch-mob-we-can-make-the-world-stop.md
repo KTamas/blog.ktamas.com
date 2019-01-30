@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150271722410146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"107457812568883200";}}
 guid: http://blog.ktamas.com/?p=2362724
 id: 2362724
+disqus_identifier: 2362724
 url: /index.php/2011/08/27/napi-loop-the-glitch-mob-we-can-make-the-world-stop/
 permalink: /index.php/2011/08/27/napi-loop-the-glitch-mob-we-can-make-the-world-stop/
 tags: [napiloop, zene]

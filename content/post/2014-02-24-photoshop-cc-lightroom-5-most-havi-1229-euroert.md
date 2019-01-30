@@ -5,6 +5,7 @@ categories:
 date: 2014-02-24 13:59:30
 guid: http://blog.ktamas.com/?p=2365326
 id: 2365326
+disqus_identifier: 2365326
 url: /index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/
 permalink: /index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/
 tags: [énblog, fotózás]

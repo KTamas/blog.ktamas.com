@@ -7,6 +7,7 @@ fb-status-updater-meta:
   - a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:0:"";}
 guid: http://blog.ktamas.com/?p=2363232
 id: 2363232
+disqus_identifier: 2363232
 url: /index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/
 permalink: /index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/
 title: 'Rukkola bookmarklet update 1: görgetés a végtelenbe'

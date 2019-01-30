@@ -5,6 +5,7 @@ categories:
 date: 2013-04-13 16:02:27
 guid: http://blog.ktamas.com/?p=2364349
 id: 2364349
+disqus_identifier: 2364349
 url: /index.php/2013/04/13/dokinal-szerda-a-15-heten/
 permalink: /index.php/2013/04/13/dokinal-szerda-a-15-heten/
 tags: [énblog, svédország]

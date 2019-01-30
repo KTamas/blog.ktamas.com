@@ -5,6 +5,7 @@ categories:
 date: 2013-07-19 14:35:15
 guid: http://blog.ktamas.com/?p=2364984
 id: 2364984
+disqus_identifier: 2364984
 url: /index.php/2013/07/19/napi-olvasnivalo-2/
 permalink: /index.php/2013/07/19/napi-olvasnivalo-2/
 tags: [olvasás]

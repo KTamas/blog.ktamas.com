@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150197478740146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"75907391933267969";}}
 guid: http://blog.ktamas.com/?p=2362597
 id: 2362597
+disqus_identifier: 2362597
 url: /index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/
 permalink: /index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/
 tags: [ajánló, linux]

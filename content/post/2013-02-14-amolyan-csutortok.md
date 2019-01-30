@@ -5,6 +5,7 @@ categories:
 date: 2013-02-14 21:13:52
 guid: http://blog.ktamas.com/?p=2363735
 id: 2363735
+disqus_identifier: 2363735
 url: /index.php/2013/02/14/amolyan-csutortok/
 permalink: /index.php/2013/02/14/amolyan-csutortok/
 tags: [énblog, svédország]

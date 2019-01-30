@@ -5,6 +5,7 @@ categories:
 date: 2009-05-08 22:08:11
 guid: http://ktamas.blog.hu/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy
 id: 1769380
+disqus_identifier: 1769380
 url: /index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/
 permalink: /index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/
 tags: [gasztro]

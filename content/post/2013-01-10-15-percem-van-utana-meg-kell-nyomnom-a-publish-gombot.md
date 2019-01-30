@@ -5,6 +5,7 @@ categories:
 date: 2013-01-10 10:01:27
 guid: http://blog.ktamas.com/?p=2363432
 id: 2363432
+disqus_identifier: 2363432
 url: /index.php/2013/01/10/15-percem-van-utana-meg-kell-nyomnom-a-publish-gombot/
 permalink: /index.php/2013/01/10/15-percem-van-utana-meg-kell-nyomnom-a-publish-gombot/
 tags: [énblog, random, zene]

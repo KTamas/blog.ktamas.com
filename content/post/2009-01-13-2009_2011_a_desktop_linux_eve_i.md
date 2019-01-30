@@ -5,6 +5,7 @@ categories:
 date: 2009-01-13 09:40:59
 guid: http://ktamas.blog.hu/2009/01/13/2009_2011_a_desktop_linux_eve_i
 id: 1769310
+disqus_identifier: 1769310
 url: /index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/
 permalink: /index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/
 tags: [idézet, linux]

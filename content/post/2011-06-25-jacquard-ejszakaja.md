@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:1:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150216578260146";}}
 guid: http://blog.ktamas.com/?p=2362651
 id: 2362651
+disqus_identifier: 2362651
 url: /index.php/2011/06/25/jacquard-ejszakaja/
 permalink: /index.php/2011/06/25/jacquard-ejszakaja/
 tags: [ajánló, énblog]

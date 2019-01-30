@@ -5,6 +5,7 @@ categories:
 date: 2009-08-06 16:13:34
 guid: http://ktamas.blog.hu/2009/08/06/a_long_time_ago_we_used_to_be_friends
 id: 1769439
+disqus_identifier: 1769439
 url: /index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/
 permalink: /index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/
 tags: [random, vm, zene]

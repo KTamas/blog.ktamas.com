@@ -5,6 +5,7 @@ categories:
 date: 2013-09-28 12:23:16
 guid: http://blog.ktamas.com/?p=2365182
 id: 2365182
+disqus_identifier: 2365182
 url: /index.php/2013/09/28/pesten-kedden-es-szerdan/
 permalink: /index.php/2013/09/28/pesten-kedden-es-szerdan/
 tags: [énblog, fogorvos, magyarország]

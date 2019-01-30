@@ -5,6 +5,7 @@ categories:
 date: 2016-11-06 12:30:38
 guid: http://blog.ktamas.com/?p=2365616
 id: 2365616
+disqus_identifier: 2365616
 url: /index.php/2016/11/06/google-reader-rewired-my-brain-sorry-not-sorry/
 permalink: /index.php/2016/11/06/google-reader-rewired-my-brain-sorry-not-sorry/
 title: Google Reader rewired my brain, sorry not sorry

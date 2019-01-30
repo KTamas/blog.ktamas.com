@@ -5,6 +5,7 @@ categories:
 date: 2013-09-29 10:31:59
 guid: http://blog.ktamas.com/?p=2365185
 id: 2365185
+disqus_identifier: 2365185
 url: /index.php/2013/09/29/pesten-csutortokon/
 permalink: /index.php/2013/09/29/pesten-csutortokon/
 tags: [énblog, fogászat, magyarország]

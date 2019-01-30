@@ -5,6 +5,7 @@ categories:
 date: 2014-03-31 09:39:26
 guid: http://blog.ktamas.com/?p=2365364
 id: 2365364
+disqus_identifier: 2365364
 url: /index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/
 permalink: /index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/
 tags: [napiloop, zene]

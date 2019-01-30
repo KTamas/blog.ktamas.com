@@ -5,6 +5,7 @@ categories:
 date: 2009-11-15 23:33:54
 guid: http://ktamas.blog.hu/2009/11/15/huje_postgresql
 id: 1769464
+disqus_identifier: 1769464
 url: /index.php/2009/11/15/huje_postgresql/
 permalink: /index.php/2009/11/15/huje_postgresql/
 tags: [linux, random, szerverek]

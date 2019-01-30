@@ -5,6 +5,7 @@ categories:
 date: 2013-02-05 21:34:53
 guid: http://blog.ktamas.com/?p=2363595
 id: 2363595
+disqus_identifier: 2363595
 url: /index.php/2013/02/05/telik-az-a-rohadt-ido/
 permalink: /index.php/2013/02/05/telik-az-a-rohadt-ido/
 tags: [énblog, svédország]

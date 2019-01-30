@@ -5,6 +5,7 @@ categories:
 date: 2010-06-18 21:49:39
 guid: http://ktamas.blog.hu/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo
 id: 2092556
+disqus_identifier: 2092556
 url: /index.php/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo/
 permalink: /index.php/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo/
 title: Hogyan mentunk le egyszeruen RTMP streameket (streamelt flashvideo)

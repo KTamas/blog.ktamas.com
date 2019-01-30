@@ -5,6 +5,7 @@ categories:
 date: 2013-02-17 19:39:23
 guid: http://blog.ktamas.com/?p=2363753
 id: 2363753
+disqus_identifier: 2363753
 url: /index.php/2013/02/17/fozok-vasarnap/
 permalink: /index.php/2013/02/17/fozok-vasarnap/
 tags: [énblog, svédország]

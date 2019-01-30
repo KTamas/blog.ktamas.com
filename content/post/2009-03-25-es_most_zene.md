@@ -5,6 +5,7 @@ categories:
 date: 2009-03-25 22:14:04
 guid: http://ktamas.blog.hu/2009/03/25/es_most_zene
 id: 1769354
+disqus_identifier: 1769354
 url: /index.php/2009/03/25/es_most_zene/
 permalink: /index.php/2009/03/25/es_most_zene/
 tags: [zene]

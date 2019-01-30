@@ -5,6 +5,7 @@ categories:
 date: 2013-03-10 20:42:38
 guid: http://blog.ktamas.com/?p=2363993
 id: 2363993
+disqus_identifier: 2363993
 url: /index.php/2013/03/10/vasarnap-draft/
 permalink: /index.php/2013/03/10/vasarnap-draft/
 tags: [énblog, svédország]

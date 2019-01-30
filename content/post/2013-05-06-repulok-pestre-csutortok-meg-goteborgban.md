@@ -5,6 +5,7 @@ categories:
 date: 2013-05-06 10:26:56
 guid: http://blog.ktamas.com/?p=2364533
 id: 2364533
+disqus_identifier: 2364533
 url: /index.php/2013/05/06/repulok-pestre-csutortok-meg-goteborgban/
 permalink: /index.php/2013/05/06/repulok-pestre-csutortok-meg-goteborgban/
 tags: [énblog, svédország]

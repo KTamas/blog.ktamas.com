@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150195651590146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"75096491877859328";}}
 guid: http://blog.ktamas.com/?p=2362563
 id: 2362563
+disqus_identifier: 2362563
 url: /index.php/2011/05/30/az-ubuntu-desktop-eve/
 permalink: /index.php/2011/05/30/az-ubuntu-desktop-eve/
 tags: [linux]

@@ -5,6 +5,7 @@ categories:
 date: 2009-04-22 10:35:07
 guid: http://ktamas.blog.hu/2009/04/22/bicikli_ut
 id: 1769373
+disqus_identifier: 1769373
 url: /index.php/2009/04/22/bicikli_ut/
 permalink: /index.php/2009/04/22/bicikli_ut/
 tags: [bicikli]

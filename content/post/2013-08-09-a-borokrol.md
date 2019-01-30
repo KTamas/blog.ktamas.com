@@ -5,6 +5,7 @@ categories:
 date: 2013-08-09 10:35:50
 guid: http://blog.ktamas.com/?p=2365065
 id: 2365065
+disqus_identifier: 2365065
 url: /index.php/2013/08/09/a-borokrol/
 permalink: /index.php/2013/08/09/a-borokrol/
 tags: [bor, énblog, svédország]

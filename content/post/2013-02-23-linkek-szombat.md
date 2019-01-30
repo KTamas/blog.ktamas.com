@@ -5,6 +5,7 @@ categories:
 date: 2013-02-23 19:32:19
 guid: http://blog.ktamas.com/?p=2363828
 id: 2363828
+disqus_identifier: 2363828
 url: /index.php/2013/02/23/linkek-szombat/
 permalink: /index.php/2013/02/23/linkek-szombat/
 tags: [énblog, svédország]

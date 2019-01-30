@@ -5,6 +5,7 @@ categories:
 date: 2009-05-24 19:55:56
 guid: http://ktamas.blog.hu/2009/05/24/note_to_self_1
 id: 1769392
+disqus_identifier: 1769392
 url: /index.php/2009/05/24/note_to_self_1/
 permalink: /index.php/2009/05/24/note_to_self_1/
 tags: [ige]

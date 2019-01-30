@@ -5,6 +5,7 @@ categories:
 date: 2010-09-22 10:04:00
 guid: http://ktamas.blog.hu/2010/09/22/sarkanykazetta
 id: 2312788
+disqus_identifier: 2312788
 url: /index.php/2010/09/22/sarkanykazetta/
 permalink: /index.php/2010/09/22/sarkanykazetta/
 title: Sarkanykazetta

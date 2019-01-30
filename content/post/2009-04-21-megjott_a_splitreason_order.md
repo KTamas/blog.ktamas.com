@@ -5,6 +5,7 @@ categories:
 date: 2009-04-21 19:20:05
 guid: http://ktamas.blog.hu/2009/04/21/megjott_a_splitreason_order
 id: 1769371
+disqus_identifier: 1769371
 url: /index.php/2009/04/21/megjott_a_splitreason_order/
 permalink: /index.php/2009/04/21/megjott_a_splitreason_order/
 tags: [énblog, woohoo]

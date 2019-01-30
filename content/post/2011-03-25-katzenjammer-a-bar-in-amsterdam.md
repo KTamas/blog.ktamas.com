@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150117126920146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"5.13213086461E+16";}}
 guid: http://blog.ktamas.com/?p=2362413
 id: 2362413
+disqus_identifier: 2362413
 url: /index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/
 permalink: /index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/
 tags: [ajánló, random, zene]

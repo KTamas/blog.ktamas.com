@@ -5,6 +5,7 @@ categories:
 date: 2013-03-22 09:39:59
 guid: http://blog.ktamas.com/?p=2364081
 id: 2364081
+disqus_identifier: 2364081
 url: /index.php/2013/03/22/fotok-csutortok/
 permalink: /index.php/2013/03/22/fotok-csutortok/
 tags: [énblog, svédország]

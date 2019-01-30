@@ -5,6 +5,7 @@ categories:
 date: 2010-03-25 20:00:00
 guid: http://ktamas.blog.hu/2010/03/25/blackberry_bold_es_az_os5
 id: 1867923
+disqus_identifier: 1867923
 url: /index.php/2010/03/25/blackberry_bold_es_az_os5/
 permalink: /index.php/2010/03/25/blackberry_bold_es_az_os5/
 tags: [ajánló, blackberry, szeder]

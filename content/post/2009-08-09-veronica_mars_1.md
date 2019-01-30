@@ -5,6 +5,7 @@ categories:
 date: 2009-08-09 13:48:17
 guid: http://ktamas.blog.hu/2009/08/09/veronica_mars_1
 id: 1769440
+disqus_identifier: 1769440
 url: /index.php/2009/08/09/veronica_mars_1/
 permalink: /index.php/2009/08/09/veronica_mars_1/
 tags: [sorozat, vm]

@@ -5,6 +5,7 @@ categories:
 date: 2012-12-24 21:08:23
 guid: http://blog.ktamas.com/?p=2363413
 id: 2363413
+disqus_identifier: 2363413
 url: /index.php/2012/12/24/karacsonyi-loop-jennifer-avalon-we-three-kings/
 permalink: /index.php/2012/12/24/karacsonyi-loop-jennifer-avalon-we-three-kings/
 title: 'Karácsonyi loop: Jennifer Avalon &#8211; We Three Kings'

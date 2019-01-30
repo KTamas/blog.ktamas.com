@@ -5,6 +5,7 @@ categories:
 date: 2009-05-09 12:52:45
 guid: http://ktamas.blog.hu/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still
 id: 1769382
+disqus_identifier: 1769382
 url: /index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/
 permalink: /index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/
 tags: [random, sorozat]

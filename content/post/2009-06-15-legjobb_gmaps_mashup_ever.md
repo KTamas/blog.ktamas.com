@@ -5,6 +5,7 @@ categories:
 date: 2009-06-15 19:55:43
 guid: http://ktamas.blog.hu/2009/06/15/legjobb_gmaps_mashup_ever
 id: 1769415
+disqus_identifier: 1769415
 url: /index.php/2009/06/15/legjobb_gmaps_mashup_ever/
 permalink: /index.php/2009/06/15/legjobb_gmaps_mashup_ever/
 tags: [ajánló, hit]

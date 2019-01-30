@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:1:{i:0;a:2:{i:0;s:7:"twitter";i:1;s:19:"2.3279809238521E+17";}}
 guid: http://blog.ktamas.com/?p=2363190
 id: 2363190
+disqus_identifier: 2363190
 url: /index.php/2012/08/07/rdp-osx-alatt/
 permalink: /index.php/2012/08/07/rdp-osx-alatt/
 tags: [commandline, mac, osx]

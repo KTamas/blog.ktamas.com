@@ -5,6 +5,7 @@ categories:
 date: 2013-05-07 19:10:52
 guid: http://blog.ktamas.com/?p=2364557
 id: 2364557
+disqus_identifier: 2364557
 url: /index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/
 permalink: /index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/
 tags: [énblog, magyarország]

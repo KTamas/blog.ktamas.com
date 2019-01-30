@@ -5,6 +5,7 @@ categories:
 date: 2013-10-02 09:38:43
 guid: http://blog.ktamas.com/?p=2365189
 id: 2365189
+disqus_identifier: 2365189
 url: /index.php/2013/10/02/az-uj-alberletrol/
 permalink: /index.php/2013/10/02/az-uj-alberletrol/
 tags: [énblog, svédország]

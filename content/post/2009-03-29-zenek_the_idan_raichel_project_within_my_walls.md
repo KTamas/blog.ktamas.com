@@ -5,6 +5,7 @@ categories:
 date: 2009-03-29 22:15:30
 guid: http://ktamas.blog.hu/2009/03/29/zenek_the_idan_raichel_project_within_my_walls
 id: 1769361
+disqus_identifier: 1769361
 url: /index.php/2009/03/29/zenek_the_idan_raichel_project_within_my_walls/
 permalink: /index.php/2009/03/29/zenek_the_idan_raichel_project_within_my_walls/
 tags: [zene]

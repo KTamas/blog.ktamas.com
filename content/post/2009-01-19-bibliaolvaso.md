@@ -5,6 +5,7 @@ categories:
 date: 2009-01-19 10:45:37
 guid: http://ktamas.blog.hu/2009/01/19/bibliaolvaso
 id: 1769314
+disqus_identifier: 1769314
 url: /index.php/2009/01/19/bibliaolvaso/
 permalink: /index.php/2009/01/19/bibliaolvaso/
 tags: [hit, programozás, rails]

@@ -5,6 +5,7 @@ categories:
 date: 2013-07-25 10:29:53
 guid: http://blog.ktamas.com/?p=2365039
 id: 2365039
+disqus_identifier: 2365039
 url: /index.php/2013/07/25/allapotjelentes-es-wallander/
 permalink: /index.php/2013/07/25/allapotjelentes-es-wallander/
 tags: [énblog, sorozatok, svédország]

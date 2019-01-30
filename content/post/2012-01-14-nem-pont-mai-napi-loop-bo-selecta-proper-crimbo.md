@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150469143270146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"158230727706685441";}}
 guid: http://blog.ktamas.com/?p=2362946
 id: 2362946
+disqus_identifier: 2362946
 url: /index.php/2012/01/14/nem-pont-mai-napi-loop-bo-selecta-proper-crimbo/
 permalink: /index.php/2012/01/14/nem-pont-mai-napi-loop-bo-selecta-proper-crimbo/
 tags: [napiloop, random, zene]

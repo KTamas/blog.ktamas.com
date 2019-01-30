@@ -5,6 +5,7 @@ categories:
 date: 2013-02-06 22:00:12
 guid: http://blog.ktamas.com/?p=2363610
 id: 2363610
+disqus_identifier: 2363610
 url: /index.php/2013/02/06/meg-mindig-ido/
 permalink: /index.php/2013/02/06/meg-mindig-ido/
 tags: [énblog, svédország]

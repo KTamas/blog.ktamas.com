@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:1:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:25:"722715145_415520555176242";}}
 guid: http://blog.ktamas.com/?p=2363298
 id: 2363298
+disqus_identifier: 2363298
 url: /index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/
 permalink: /index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/
 tags: [kindle]

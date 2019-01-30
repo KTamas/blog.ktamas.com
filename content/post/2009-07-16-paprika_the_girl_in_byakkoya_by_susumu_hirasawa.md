@@ -5,6 +5,7 @@ categories:
 date: 2009-07-16 08:33:12
 guid: http://ktamas.blog.hu/2009/07/16/paprika_the_girl_in_byakkoya_by_susumu_hirasawa
 id: 1769431
+disqus_identifier: 1769431
 url: /index.php/2009/07/16/paprika_the_girl_in_byakkoya_by_susumu_hirasawa/
 permalink: /index.php/2009/07/16/paprika_the_girl_in_byakkoya_by_susumu_hirasawa/
 tags: [anime, zene]

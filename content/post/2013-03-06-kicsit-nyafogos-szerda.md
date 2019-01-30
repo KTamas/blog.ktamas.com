@@ -5,6 +5,7 @@ categories:
 date: 2013-03-06 20:32:17
 guid: http://blog.ktamas.com/?p=2363936
 id: 2363936
+disqus_identifier: 2363936
 url: /index.php/2013/03/06/kicsit-nyafogos-szerda/
 permalink: /index.php/2013/03/06/kicsit-nyafogos-szerda/
 tags: [énblog, svédország]

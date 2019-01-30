@@ -5,6 +5,7 @@ categories:
 date: 2009-11-17 14:48:51
 guid: http://ktamas.blog.hu/2009/11/17/zene_ebedhez_idan_raichel_india_arie_mai_nahar
 id: 1769466
+disqus_identifier: 1769466
 url: /index.php/2009/11/17/zene_ebedhez_idan_raichel_india_arie_mai_nahar/
 permalink: /index.php/2009/11/17/zene_ebedhez_idan_raichel_india_arie_mai_nahar/
 tags: [random, zene]

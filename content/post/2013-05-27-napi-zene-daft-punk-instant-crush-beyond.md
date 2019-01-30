@@ -5,6 +5,7 @@ categories:
 date: 2013-05-27 19:46:59
 guid: http://blog.ktamas.com/?p=2364662
 id: 2364662
+disqus_identifier: 2364662
 url: /index.php/2013/05/27/napi-zene-daft-punk-instant-crush-beyond/
 permalink: /index.php/2013/05/27/napi-zene-daft-punk-instant-crush-beyond/
 tags: [zene]

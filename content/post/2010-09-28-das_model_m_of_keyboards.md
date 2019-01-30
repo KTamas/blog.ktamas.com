@@ -5,6 +5,7 @@ categories:
 date: 2010-09-28 14:52:00
 guid: http://ktamas.blog.hu/2010/09/28/das_model_m_of_keyboards
 id: 2329672
+disqus_identifier: 2329672
 url: /index.php/2010/09/28/das_model_m_of_keyboards/
 permalink: /index.php/2010/09/28/das_model_m_of_keyboards/
 title: Das Model M of keyboards

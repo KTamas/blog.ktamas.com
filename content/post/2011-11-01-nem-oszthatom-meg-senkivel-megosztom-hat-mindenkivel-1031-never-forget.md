@@ -7,6 +7,7 @@ fb-status-updater-meta:
   - a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:0:"";s:7:"tw-push";s:0:"";s:4:"push";s:1:"1";}
 guid: http://blog.ktamas.com/?p=2362756
 id: 2362756
+disqus_identifier: 2362756
 url: /index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/
 permalink: /index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/
 tags: [agymenes]

@@ -5,6 +5,7 @@ categories:
 date: 2009-03-11 13:55:23
 guid: http://ktamas.blog.hu/2009/03/11/hogyan_tegyunk_hasznalhatatlanna_egy_mp3_lejatszot
 id: 1769344
+disqus_identifier: 1769344
 url: /index.php/2009/03/11/hogyan_tegyunk_hasznalhatatlanna_egy_mp3_lejatszot/
 permalink: /index.php/2009/03/11/hogyan_tegyunk_hasznalhatatlanna_egy_mp3_lejatszot/
 tags: [zene]

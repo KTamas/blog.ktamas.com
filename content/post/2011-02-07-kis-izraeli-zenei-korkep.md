@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:1:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:25:"722715145_124176694321001";}}
 guid: http://blog.ktamas.com/?p=2362376
 id: 2362376
+disqus_identifier: 2362376
 url: /index.php/2011/02/07/kis-izraeli-zenei-korkep/
 permalink: /index.php/2011/02/07/kis-izraeli-zenei-korkep/
 tags: [izraeli, zene]

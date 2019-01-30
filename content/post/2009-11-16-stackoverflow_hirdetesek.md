@@ -5,6 +5,7 @@ categories:
 date: 2009-11-16 10:00:45
 guid: http://ktamas.blog.hu/2009/11/16/stackoverflow_hirdetesek
 id: 1769465
+disqus_identifier: 1769465
 url: /index.php/2009/11/16/stackoverflow_hirdetesek/
 permalink: /index.php/2009/11/16/stackoverflow_hirdetesek/
 tags: [random]

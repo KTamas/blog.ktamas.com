@@ -5,6 +5,7 @@ categories:
 date: 2013-02-03 20:24:03
 guid: http://blog.ktamas.com/?p=2363574
 id: 2363574
+disqus_identifier: 2363574
 url: /index.php/2013/02/03/es-mar-vege-is-az-elso-hetvegenek/
 permalink: /index.php/2013/02/03/es-mar-vege-is-az-elso-hetvegenek/
 tags: [énblog, svédország]

@@ -5,6 +5,7 @@ categories:
 date: 2009-05-15 22:50:41
 guid: http://ktamas.blog.hu/2009/05/15/windows_7_plus
 id: 1769385
+disqus_identifier: 1769385
 url: /index.php/2009/05/15/windows_7_plus/
 permalink: /index.php/2009/05/15/windows_7_plus/
 tags: [ajánló, windows]

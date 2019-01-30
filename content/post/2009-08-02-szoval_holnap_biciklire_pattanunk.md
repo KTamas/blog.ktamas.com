@@ -5,6 +5,7 @@ categories:
 date: 2009-08-02 15:07:29
 guid: http://ktamas.blog.hu/2009/08/02/szoval_holnap_biciklire_pattanunk
 id: 1769436
+disqus_identifier: 1769436
 url: /index.php/2009/08/02/szoval_holnap_biciklire_pattanunk/
 permalink: /index.php/2009/08/02/szoval_holnap_biciklire_pattanunk/
 tags: [énblog, hurrányaralunk]

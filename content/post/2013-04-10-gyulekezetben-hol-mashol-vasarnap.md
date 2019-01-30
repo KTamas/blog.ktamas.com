@@ -5,6 +5,7 @@ categories:
 date: 2013-04-10 11:41:33
 guid: http://blog.ktamas.com/?p=2364322
 id: 2364322
+disqus_identifier: 2364322
 url: /index.php/2013/04/10/gyulekezetben-hol-mashol-vasarnap/
 permalink: /index.php/2013/04/10/gyulekezetben-hol-mashol-vasarnap/
 tags: [énblog, svédország]

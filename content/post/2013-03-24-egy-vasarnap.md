@@ -5,6 +5,7 @@ categories:
 date: 2013-03-24 19:20:09
 guid: http://blog.ktamas.com/?p=2364101
 id: 2364101
+disqus_identifier: 2364101
 url: /index.php/2013/03/24/egy-vasarnap/
 permalink: /index.php/2013/03/24/egy-vasarnap/
 tags: [énblog, svédország]

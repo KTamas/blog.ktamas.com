@@ -5,6 +5,7 @@ categories:
 date: 2009-02-24 13:06:09
 guid: http://ktamas.blog.hu/2009/02/24/jelszovaltoztatas_mediawikiben
 id: 1769333
+disqus_identifier: 1769333
 url: /index.php/2009/02/24/jelszovaltoztatas_mediawikiben/
 permalink: /index.php/2009/02/24/jelszovaltoztatas_mediawikiben/
 tags: [wtf]

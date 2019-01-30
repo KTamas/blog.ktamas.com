@@ -9,6 +9,7 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:25:"722715145_430697956987186";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"2.625972280137E+17";}}
 guid: http://blog.ktamas.com/?p=2363010
 id: 2363010
+disqus_identifier: 2363010
 url: /index.php/2012/10/28/pubsubhubbub/
 permalink: /index.php/2012/10/28/pubsubhubbub/
 title: PubSubHubBub

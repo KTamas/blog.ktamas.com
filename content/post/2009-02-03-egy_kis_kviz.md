@@ -5,6 +5,7 @@ categories:
 date: 2009-02-03 18:26:23
 guid: http://ktamas.blog.hu/2009/02/03/egy_kis_kviz
 id: 1769320
+disqus_identifier: 1769320
 url: /index.php/2009/02/03/egy_kis_kviz/
 permalink: /index.php/2009/02/03/egy_kis_kviz/
 tags: [nyelvészet]

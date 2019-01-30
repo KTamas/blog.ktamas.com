@@ -5,6 +5,7 @@ categories:
 date: 2009-03-24 21:29:45
 guid: http://ktamas.blog.hu/2009/03/24/and_now_for_something_completely_different_5
 id: 1769353
+disqus_identifier: 1769353
 url: /index.php/2009/03/24/and_now_for_something_completely_different_5/
 permalink: /index.php/2009/03/24/and_now_for_something_completely_different_5/
 tags: [gasztro]

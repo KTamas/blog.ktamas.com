@@ -5,6 +5,7 @@ categories:
 date: 2013-04-14 12:05:36
 guid: http://blog.ktamas.com/?p=2364350
 id: 2364350
+disqus_identifier: 2364350
 url: /index.php/2013/04/14/az-elet-irta-orkeny-egyperces-csutortok-kulonkiadas/
 permalink: /index.php/2013/04/14/az-elet-irta-orkeny-egyperces-csutortok-kulonkiadas/
 tags: [énblog, különkiadás, svédország]

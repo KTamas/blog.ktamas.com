@@ -5,6 +5,7 @@ categories:
 date: 2009-04-14 16:15:43
 guid: http://ktamas.blog.hu/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza
 id: 1769367
+disqus_identifier: 1769367
 url: /index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/
 permalink: /index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/
 tags: [ajánló, nocomment, újságírás]

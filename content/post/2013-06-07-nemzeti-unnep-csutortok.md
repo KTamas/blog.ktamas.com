@@ -5,6 +5,7 @@ categories:
 date: 2013-06-07 11:10:30
 guid: http://blog.ktamas.com/?p=2364739
 id: 2364739
+disqus_identifier: 2364739
 url: /index.php/2013/06/07/nemzeti-unnep-csutortok/
 permalink: /index.php/2013/06/07/nemzeti-unnep-csutortok/
 tags: [énblog, svédország]

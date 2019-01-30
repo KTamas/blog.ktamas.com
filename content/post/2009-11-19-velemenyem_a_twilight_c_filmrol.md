@@ -5,6 +5,7 @@ categories:
 date: 2009-11-19 22:54:57
 guid: http://ktamas.blog.hu/2009/11/19/velemenyem_a_twilight_c_filmrol
 id: 1769467
+disqus_identifier: 1769467
 url: /index.php/2009/11/19/velemenyem_a_twilight_c_filmrol/
 permalink: /index.php/2009/11/19/velemenyem_a_twilight_c_filmrol/
 tags: [mozi]
