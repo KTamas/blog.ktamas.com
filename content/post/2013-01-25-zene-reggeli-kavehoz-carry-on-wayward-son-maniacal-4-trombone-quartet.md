@@ -5,7 +5,6 @@ categories:
 date: 2013-01-25 11:10:47
 guid: http://blog.ktamas.com/?p=2363476
 id: 2363476
-disqus_identifier: 2363476
 url: /index.php/2013/01/25/zene-reggeli-kavehoz-carry-on-wayward-son-maniacal-4-trombone-quartet/
 permalink: /index.php/2013/01/25/zene-reggeli-kavehoz-carry-on-wayward-son-maniacal-4-trombone-quartet/
 tags: [zene]

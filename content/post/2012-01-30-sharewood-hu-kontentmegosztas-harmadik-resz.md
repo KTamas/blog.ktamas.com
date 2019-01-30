@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150500254430146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"163914573462765568";}}
 guid: http://blog.ktamas.com/?p=2362992
 id: 2362992
-disqus_identifier: 2362992
 url: /index.php/2012/01/30/sharewood-hu-kontentmegosztas-harmadik-resz/
 permalink: /index.php/2012/01/30/sharewood-hu-kontentmegosztas-harmadik-resz/
 title: Sharewood.hu (kontentmegosztás, harmadik rész)

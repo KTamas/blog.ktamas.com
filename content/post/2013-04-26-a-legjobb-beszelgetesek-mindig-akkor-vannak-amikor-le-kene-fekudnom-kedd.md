@@ -5,7 +5,6 @@ categories:
 date: 2013-04-26 11:32:08
 guid: http://blog.ktamas.com/?p=2364492
 id: 2364492
-disqus_identifier: 2364492
 url: /index.php/2013/04/26/a-legjobb-beszelgetesek-mindig-akkor-vannak-amikor-le-kene-fekudnom-kedd/
 permalink: /index.php/2013/04/26/a-legjobb-beszelgetesek-mindig-akkor-vannak-amikor-le-kene-fekudnom-kedd/
 tags: [énblog, svédország]

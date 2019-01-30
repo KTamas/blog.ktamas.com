@@ -5,7 +5,6 @@ categories:
 date: 2015-06-24 10:42:52
 guid: http://blog.ktamas.com/?p=2365536
 id: 2365536
-disqus_identifier: 2365536
 url: /index.php/2015/06/24/mid-year-status-update/
 permalink: /index.php/2015/06/24/mid-year-status-update/
 tags: ['2015', énblog, fotózás, svédország]

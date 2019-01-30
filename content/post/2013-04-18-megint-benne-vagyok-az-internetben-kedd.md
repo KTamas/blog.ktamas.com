@@ -5,7 +5,6 @@ categories:
 date: 2013-04-18 11:22:20
 guid: http://blog.ktamas.com/?p=2364400
 id: 2364400
-disqus_identifier: 2364400
 url: /index.php/2013/04/18/megint-benne-vagyok-az-internetben-kedd/
 permalink: /index.php/2013/04/18/megint-benne-vagyok-az-internetben-kedd/
 tags: [énblog, svédország]

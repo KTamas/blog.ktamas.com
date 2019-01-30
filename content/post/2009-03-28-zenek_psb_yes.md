@@ -5,7 +5,6 @@ categories:
 date: 2009-03-28 21:24:36
 guid: http://ktamas.blog.hu/2009/03/28/zenek_psb_yes
 id: 1769358
-disqus_identifier: 1769358
 url: /index.php/2009/03/28/zenek_psb_yes/
 permalink: /index.php/2009/03/28/zenek_psb_yes/
 tags: [zene]

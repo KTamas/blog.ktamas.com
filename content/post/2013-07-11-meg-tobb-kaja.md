@@ -5,7 +5,6 @@ categories:
 date: 2013-07-11 11:25:26
 guid: http://blog.ktamas.com/?p=2364908
 id: 2364908
-disqus_identifier: 2364908
 url: /index.php/2013/07/11/meg-tobb-kaja/
 permalink: /index.php/2013/07/11/meg-tobb-kaja/
 tags: [énblog, svédország]

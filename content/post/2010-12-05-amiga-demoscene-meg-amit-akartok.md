@@ -5,7 +5,6 @@ categories:
 date: 2010-12-05 16:38:08
 guid: http://blog.ktamas.com/?p=2362333
 id: 2362333
-disqus_identifier: 2362333
 url: /index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/
 permalink: /index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/
 tags: [demo, zene]

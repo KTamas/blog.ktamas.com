@@ -5,7 +5,6 @@ categories:
 date: 2010-10-17 10:40:05
 guid: http://blog.ktamas.com/?p=2362300
 id: 2362300
-disqus_identifier: 2362300
 url: /index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/
 permalink: /index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/
 tags: [ajánló, sorozat]

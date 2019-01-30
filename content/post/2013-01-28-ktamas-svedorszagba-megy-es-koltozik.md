@@ -5,7 +5,6 @@ categories:
 date: 2013-01-28 23:05:49
 guid: http://blog.ktamas.com/?p=2363498
 id: 2363498
-disqus_identifier: 2363498
 url: /index.php/2013/01/28/ktamas-svedorszagba-megy-es-koltozik/
 permalink: /index.php/2013/01/28/ktamas-svedorszagba-megy-es-koltozik/
 tags: [énblog, svédország]

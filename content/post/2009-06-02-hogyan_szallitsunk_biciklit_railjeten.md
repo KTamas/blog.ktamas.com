@@ -5,7 +5,6 @@ categories:
 date: 2009-06-02 17:12:54
 guid: http://ktamas.blog.hu/2009/06/02/hogyan_szallitsunk_biciklit_railjeten
 id: 1769399
-disqus_identifier: 1769399
 url: /index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/
 permalink: /index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/
 tags: [bécs]

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150330124920146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"127006189744701440";}}
 guid: http://blog.ktamas.com/?p=2362752
 id: 2362752
-disqus_identifier: 2362752
 url: /index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/
 permalink: /index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/
 tags: [ajánló, napiloop, zene]

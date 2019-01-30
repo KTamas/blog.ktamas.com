@@ -5,7 +5,6 @@ categories:
 date: 2013-03-21 21:30:38
 guid: http://blog.ktamas.com/?p=2364085
 id: 2364085
-disqus_identifier: 2364085
 url: /index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/
 permalink: /index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/
 tags: [napiloop, zene]

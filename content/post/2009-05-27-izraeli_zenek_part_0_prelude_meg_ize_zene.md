@@ -5,7 +5,6 @@ categories:
 date: 2009-05-27 21:32:02
 guid: http://ktamas.blog.hu/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene
 id: 1769396
-disqus_identifier: 1769396
 url: /index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/
 permalink: /index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/
 tags: [izraeli, zene]

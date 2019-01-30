@@ -5,7 +5,6 @@ categories:
 date: 2012-02-22 11:52:17
 guid: http://blog.ktamas.com/?p=2363023
 id: 2363023
-disqus_identifier: 2363023
 url: /index.php/2012/02/22/az-elso-film-a-canonetbol/
 permalink: /index.php/2012/02/22/az-elso-film-a-canonetbol/
 tags: [fotózás]

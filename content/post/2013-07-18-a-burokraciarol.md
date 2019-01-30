@@ -5,7 +5,6 @@ categories:
 date: 2013-07-18 10:12:44
 guid: http://blog.ktamas.com/?p=2364955
 id: 2364955
-disqus_identifier: 2364955
 url: /index.php/2013/07/18/a-burokraciarol/
 permalink: /index.php/2013/07/18/a-burokraciarol/
 tags: [énblog, svédország]

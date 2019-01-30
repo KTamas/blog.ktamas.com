@@ -5,7 +5,6 @@ categories:
 date: 2014-09-12 13:47:05
 guid: http://blog.ktamas.com/?p=2365472
 id: 2365472
-disqus_identifier: 2365472
 url: /index.php/2014/09/12/napi-playlist-felcsatolhato/
 permalink: /index.php/2014/09/12/napi-playlist-felcsatolhato/
 tags: [zene]

@@ -5,7 +5,6 @@ categories:
 date: 2013-02-28 20:09:49
 guid: http://blog.ktamas.com/?p=2363900
 id: 2363900
-disqus_identifier: 2363900
 url: /index.php/2013/02/28/ez-nem-az-a-poszt-csutortok/
 permalink: /index.php/2013/02/28/ez-nem-az-a-poszt-csutortok/
 tags: [énblog, svédország]

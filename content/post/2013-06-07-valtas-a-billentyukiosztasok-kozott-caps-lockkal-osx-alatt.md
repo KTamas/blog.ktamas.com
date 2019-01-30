@@ -5,7 +5,6 @@ categories:
 date: 2013-06-07 14:25:19
 guid: http://blog.ktamas.com/?p=2364753
 id: 2364753
-disqus_identifier: 2364753
 url: /index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/
 permalink: /index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/
 tags: [mac, osx]

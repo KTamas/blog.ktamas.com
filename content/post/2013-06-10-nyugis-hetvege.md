@@ -5,7 +5,6 @@ categories:
 date: 2013-06-10 13:21:50
 guid: http://blog.ktamas.com/?p=2364800
 id: 2364800
-disqus_identifier: 2364800
 url: /index.php/2013/06/10/nyugis-hetvege/
 permalink: /index.php/2013/06/10/nyugis-hetvege/
 tags: [énblog, svédország]

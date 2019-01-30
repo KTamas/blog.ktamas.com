@@ -5,7 +5,6 @@ categories:
 date: 2013-08-08 11:25:39
 guid: http://blog.ktamas.com/?p=2365085
 id: 2365085
-disqus_identifier: 2365085
 url: /index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/
 permalink: /index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/
 tags: [énblog, svédország, vendégek]

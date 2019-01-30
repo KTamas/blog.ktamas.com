@@ -5,7 +5,6 @@ categories:
 date: 2009-09-03 09:51:28
 guid: http://ktamas.blog.hu/2009/09/03/zene_reggelihez_blue_man_group_rods_and_cones
 id: 1769450
-disqus_identifier: 1769450
 url: /index.php/2009/09/03/zene_reggelihez_blue_man_group_rods_and_cones/
 permalink: /index.php/2009/09/03/zene_reggelihez_blue_man_group_rods_and_cones/
 tags: [random, zene]

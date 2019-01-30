@@ -5,7 +5,6 @@ categories:
 date: 2014-03-07 18:37:35
 guid: http://blog.ktamas.com/?p=2365349
 id: 2365349
-disqus_identifier: 2365349
 url: /index.php/2014/03/07/vindoztelefon/
 permalink: /index.php/2014/03/07/vindoztelefon/
 tags: [énblog, flamebait, telefon]

@@ -5,7 +5,6 @@ categories:
 date: 2013-04-23 15:49:28
 guid: http://blog.ktamas.com/?p=2364448
 id: 2364448
-disqus_identifier: 2364448
 url: /index.php/2013/04/23/otthonulos-szombat/
 permalink: /index.php/2013/04/23/otthonulos-szombat/
 tags: [énblog, svédország]

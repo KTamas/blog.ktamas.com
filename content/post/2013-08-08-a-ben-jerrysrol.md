@@ -5,7 +5,6 @@ categories:
 date: 2013-08-08 14:39:49
 guid: http://blog.ktamas.com/?p=2365089
 id: 2365089
-disqus_identifier: 2365089
 url: /index.php/2013/08/08/a-ben-jerrysrol/
 permalink: /index.php/2013/08/08/a-ben-jerrysrol/
 tags: [énblog, fagyi, kaja, svédország, vendégek]

@@ -5,7 +5,6 @@ categories:
 date: 2009-08-17 08:32:00
 guid: http://ktamas.blog.hu/2009/08/17/zene_reggelihez_scooter_j_adore_hardcore
 id: 1769443
-disqus_identifier: 1769443
 url: /index.php/2009/08/17/zene_reggelihez_scooter_j_adore_hardcore/
 permalink: /index.php/2009/08/17/zene_reggelihez_scooter_j_adore_hardcore/
 tags: [random, zene]

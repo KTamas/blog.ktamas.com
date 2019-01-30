@@ -5,7 +5,6 @@ categories:
 date: 2013-04-15 11:02:04
 guid: http://blog.ktamas.com/?p=2364383
 id: 2364383
-disqus_identifier: 2364383
 url: /index.php/2013/04/15/dicsoitoest-pentek/
 permalink: /index.php/2013/04/15/dicsoitoest-pentek/
 tags: [énblog, svédország]

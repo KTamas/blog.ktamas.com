@@ -5,7 +5,6 @@ categories:
 date: 2013-03-17 19:37:28
 guid: http://blog.ktamas.com/?p=2364060
 id: 2364060
-disqus_identifier: 2364060
 url: /index.php/2013/03/17/svenska-sondag/
 permalink: /index.php/2013/03/17/svenska-sondag/
 tags: [énblog, svédország]

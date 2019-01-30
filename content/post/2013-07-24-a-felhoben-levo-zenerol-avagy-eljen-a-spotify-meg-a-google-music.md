@@ -5,7 +5,6 @@ categories:
 date: 2013-07-24 11:47:00
 guid: http://blog.ktamas.com/?p=2365018
 id: 2365018
-disqus_identifier: 2365018
 url: /index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/
 permalink: /index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/
 tags: [énblog, svédország, zene]

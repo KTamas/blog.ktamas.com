@@ -5,7 +5,6 @@ categories:
 date: 2013-06-24 19:32:27
 guid: http://blog.ktamas.com/?p=2364848
 id: 2364848
-disqus_identifier: 2364848
 url: /index.php/2013/06/24/megjott-az-adoszamom-hetfo/
 permalink: /index.php/2013/06/24/megjott-az-adoszamom-hetfo/
 tags: [énblog, svédország]

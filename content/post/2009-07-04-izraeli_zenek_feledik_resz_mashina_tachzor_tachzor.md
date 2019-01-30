@@ -5,7 +5,6 @@ categories:
 date: 2009-07-04 10:21:34
 guid: http://ktamas.blog.hu/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor
 id: 1769424
-disqus_identifier: 1769424
 url: /index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/
 permalink: /index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/
 tags: [izraeli, zene]

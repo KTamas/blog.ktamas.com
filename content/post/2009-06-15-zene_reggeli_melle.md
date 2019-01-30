@@ -5,7 +5,6 @@ categories:
 date: 2009-06-15 08:38:35
 guid: http://ktamas.blog.hu/2009/06/15/zene_reggeli_melle
 id: 1769414
-disqus_identifier: 1769414
 url: /index.php/2009/06/15/zene_reggeli_melle/
 permalink: /index.php/2009/06/15/zene_reggeli_melle/
 tags: [random, zene]

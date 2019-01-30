@@ -5,7 +5,6 @@ categories:
 date: 2009-07-18 22:51:41
 guid: http://ktamas.blog.hu/2009/07/18/bee_gees_stayin_alive_ha_egyszer_megy_az_airplane
 id: 1769433
-disqus_identifier: 1769433
 url: /index.php/2009/07/18/bee_gees_stayin_alive_ha_egyszer_megy_az_airplane/
 permalink: /index.php/2009/07/18/bee_gees_stayin_alive_ha_egyszer_megy_az_airplane/
 tags: [mozi, random, zene]

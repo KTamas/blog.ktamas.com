@@ -5,7 +5,6 @@ categories:
 date: 2013-06-11 13:23:49
 guid: http://blog.ktamas.com/?p=2364816
 id: 2364816
-disqus_identifier: 2364816
 url: /index.php/2013/06/11/norvegiaban-hetfo/
 permalink: /index.php/2013/06/11/norvegiaban-hetfo/
 tags: [énblog, svédország]

@@ -5,7 +5,6 @@ categories:
 date: 2011-02-02 22:28:24
 guid: http://blog.ktamas.com/?p=2362363
 id: 2362363
-disqus_identifier: 2362363
 url: /index.php/2011/02/02/groundhog-day-legjobbabb/
 permalink: /index.php/2011/02/02/groundhog-day-legjobbabb/
 tags: [random, sorozat, stargate]

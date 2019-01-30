@@ -5,7 +5,6 @@ categories:
 date: 2009-07-20 09:30:03
 guid: http://ktamas.blog.hu/2009/07/20/a_word_spellcheckere
 id: 1769434
-disqus_identifier: 1769434
 url: /index.php/2009/07/20/a_word_spellcheckere/
 permalink: /index.php/2009/07/20/a_word_spellcheckere/
 tags: [lol, random]

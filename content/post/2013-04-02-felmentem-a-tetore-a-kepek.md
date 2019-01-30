@@ -5,7 +5,6 @@ categories:
 date: 2013-04-02 11:11:25
 guid: http://blog.ktamas.com/?p=2364180
 id: 2364180
-disqus_identifier: 2364180
 url: /index.php/2013/04/02/felmentem-a-tetore-a-kepek/
 permalink: /index.php/2013/04/02/felmentem-a-tetore-a-kepek/
 tags: [fotózás, svédország]

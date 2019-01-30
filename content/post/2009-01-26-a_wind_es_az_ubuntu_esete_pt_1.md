@@ -5,7 +5,6 @@ categories:
 date: 2009-01-26 09:43:08
 guid: http://ktamas.blog.hu/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1
 id: 1769317
-disqus_identifier: 1769317
 url: /index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/
 permalink: /index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/
 tags: [linux, ubuntu, wind]

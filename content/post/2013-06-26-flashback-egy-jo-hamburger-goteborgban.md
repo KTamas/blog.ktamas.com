@@ -5,7 +5,6 @@ categories:
 date: 2013-06-26 11:18:09
 guid: http://blog.ktamas.com/?p=2364865
 id: 2364865
-disqus_identifier: 2364865
 url: /index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/
 permalink: /index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/
 tags: [énblog, kaja, svédország]

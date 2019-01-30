@@ -5,7 +5,6 @@ categories:
 date: 2009-05-01 14:54:21
 guid: http://ktamas.blog.hu/2009/05/01/dragon_ball_evolution_3
 id: 1769378
-disqus_identifier: 1769378
 url: /index.php/2009/05/01/dragon_ball_evolution_3/
 permalink: /index.php/2009/05/01/dragon_ball_evolution_3/
 tags: [anime, mozi]

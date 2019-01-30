@@ -5,7 +5,6 @@ categories:
 date: 2013-01-25 15:26:24
 guid: http://blog.ktamas.com/?p=2363478
 id: 2363478
-disqus_identifier: 2363478
 url: /index.php/2013/01/25/last-day-at-espell/
 permalink: /index.php/2013/01/25/last-day-at-espell/
 tags: [énblog, svédország]

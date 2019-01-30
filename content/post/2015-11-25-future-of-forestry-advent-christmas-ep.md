@@ -5,7 +5,6 @@ categories:
 date: 2015-11-25 10:04:29
 guid: http://blog.ktamas.com/?p=2365580
 id: 2365580
-disqus_identifier: 2365580
 url: /index.php/2015/11/25/future-of-forestry-advent-christmas-ep/
 permalink: /index.php/2015/11/25/future-of-forestry-advent-christmas-ep/
 title: Future of Forestry &#8211; Advent Christmas EP

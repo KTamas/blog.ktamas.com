@@ -5,7 +5,6 @@ categories:
 date: 2009-01-05 14:21:51
 guid: http://ktamas.blog.hu/2009/01/05/united_states_csongrad
 id: 1769302
-disqus_identifier: 1769302
 url: /index.php/2009/01/05/united_states_csongrad/
 permalink: /index.php/2009/01/05/united_states_csongrad/
 tags: [furcsakép]

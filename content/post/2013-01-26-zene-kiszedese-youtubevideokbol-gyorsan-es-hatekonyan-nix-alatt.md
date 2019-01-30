@@ -5,7 +5,6 @@ categories:
 date: 2013-01-26 13:35:42
 guid: http://blog.ktamas.com/?p=2363369
 id: 2363369
-disqus_identifier: 2363369
 url: /index.php/2013/01/26/zene-kiszedese-youtubevideokbol-gyorsan-es-hatekonyan-nix-alatt/
 permalink: /index.php/2013/01/26/zene-kiszedese-youtubevideokbol-gyorsan-es-hatekonyan-nix-alatt/
 title: Zene kiszedése youtubevideókból gyorsan és hatékonyan *nix alatt

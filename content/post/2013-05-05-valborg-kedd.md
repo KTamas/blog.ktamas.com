@@ -5,7 +5,6 @@ categories:
 date: 2013-05-05 12:21:58
 guid: http://blog.ktamas.com/?p=2364537
 id: 2364537
-disqus_identifier: 2364537
 url: /index.php/2013/05/05/valborg-kedd/
 permalink: /index.php/2013/05/05/valborg-kedd/
 tags: [énblog, svédország]

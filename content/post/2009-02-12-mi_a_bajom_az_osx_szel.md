@@ -5,7 +5,6 @@ categories:
 date: 2009-02-12 19:34:43
 guid: http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel
 id: 1769322
-disqus_identifier: 1769322
 url: /index.php/2009/02/12/mi_a_bajom_az_osx_szel/
 permalink: /index.php/2009/02/12/mi_a_bajom_az_osx_szel/
 tags: [mac, switch, win7, windows]

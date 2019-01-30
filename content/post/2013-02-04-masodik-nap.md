@@ -5,7 +5,6 @@ categories:
 date: 2013-02-04 22:53:19
 guid: http://blog.ktamas.com/?p=2363583
 id: 2363583
-disqus_identifier: 2363583
 url: /index.php/2013/02/04/masodik-nap/
 permalink: /index.php/2013/02/04/masodik-nap/
 tags: [énblog, svédország]

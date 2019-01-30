@@ -5,7 +5,6 @@ categories:
 date: 2009-06-30 10:11:42
 guid: http://ktamas.blog.hu/2009/06/30/kedves_olvasok_16
 id: 1769420
-disqus_identifier: 1769420
 url: /index.php/2009/06/30/kedves_olvasok_16/
 permalink: /index.php/2009/06/30/kedves_olvasok_16/
 tags: [random]

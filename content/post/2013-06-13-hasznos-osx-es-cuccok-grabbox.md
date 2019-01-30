@@ -5,7 +5,6 @@ categories:
 date: 2013-06-13 13:37:44
 guid: http://blog.ktamas.com/?p=2364829
 id: 2364829
-disqus_identifier: 2364829
 url: /index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/
 permalink: /index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/
 tags: [mac, osx]

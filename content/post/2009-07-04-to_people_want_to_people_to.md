@@ -5,7 +5,6 @@ categories:
 date: 2009-07-04 16:35:51
 guid: http://ktamas.blog.hu/2009/07/04/to_people_want_to_people_to
 id: 1769426
-disqus_identifier: 1769426
 url: /index.php/2009/07/04/to_people_want_to_people_to/
 permalink: /index.php/2009/07/04/to_people_want_to_people_to/
 tags: [fotózás, random]

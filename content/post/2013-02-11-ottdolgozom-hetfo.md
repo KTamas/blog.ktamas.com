@@ -5,7 +5,6 @@ categories:
 date: 2013-02-11 21:32:58
 guid: http://blog.ktamas.com/?p=2363695
 id: 2363695
-disqus_identifier: 2363695
 url: /index.php/2013/02/11/ottdolgozom-hetfo/
 permalink: /index.php/2013/02/11/ottdolgozom-hetfo/
 tags: [énblog, svédország]

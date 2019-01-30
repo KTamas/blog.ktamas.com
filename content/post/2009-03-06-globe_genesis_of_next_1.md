@@ -5,7 +5,6 @@ categories:
 date: 2009-03-06 08:32:37
 guid: http://ktamas.blog.hu/2009/03/06/globe_genesis_of_next_1
 id: 1769341
-disqus_identifier: 1769341
 url: /index.php/2009/03/06/globe_genesis_of_next_1/
 permalink: /index.php/2009/03/06/globe_genesis_of_next_1/
 tags: [zene]

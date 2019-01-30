@@ -5,7 +5,6 @@ categories:
 date: 2011-01-08 17:31:18
 guid: http://blog.ktamas.com/?p=2362358
 id: 2362358
-disqus_identifier: 2362358
 url: /index.php/2011/01/08/chiddy-bang-opposite-of-adults/
 permalink: /index.php/2011/01/08/chiddy-bang-opposite-of-adults/
 tags: [random, zene]

@@ -5,7 +5,6 @@ categories:
 date: 2013-07-25 14:20:23
 guid: http://blog.ktamas.com/?p=2365013
 id: 2365013
-disqus_identifier: 2365013
 url: /index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/
 permalink: /index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/
 tags: [olvasás]

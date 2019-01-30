@@ -5,7 +5,6 @@ categories:
 date: 2013-04-29 11:02:08
 guid: http://blog.ktamas.com/?p=2364507
 id: 2364507
-disqus_identifier: 2364507
 url: /index.php/2013/04/29/megvannak-a-jegyek-pentek/
 permalink: /index.php/2013/04/29/megvannak-a-jegyek-pentek/
 tags: [énblog, svédország]

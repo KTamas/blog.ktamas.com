@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150847976350146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:19:"2.1211297548037E+17";}}
 guid: http://blog.ktamas.com/?p=2363143
 id: 2363143
-disqus_identifier: 2363143
 url: /index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/
 permalink: /index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/
 tags: [napiloop, zene]

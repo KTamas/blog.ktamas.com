@@ -5,7 +5,6 @@ categories:
 date: 2013-06-11 15:29:55
 guid: http://blog.ktamas.com/?p=2364761
 id: 2364761
-disqus_identifier: 2364761
 url: /index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/
 permalink: /index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/
 tags: [mac, osx]

@@ -5,7 +5,6 @@ categories:
 date: 2010-01-17 17:26:25
 guid: http://ktamas.blog.hu/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer
 id: 1769470
-disqus_identifier: 1769470
 url: /index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/
 permalink: /index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/
 tags: [geekdom, linux, windows]

@@ -5,7 +5,6 @@ categories:
 date: 2009-08-12 20:16:51
 guid: http://ktamas.blog.hu/2009/08/12/miner_szuletesnap
 id: 1769441
-disqus_identifier: 1769441
 url: /index.php/2009/08/12/miner_szuletesnap/
 permalink: /index.php/2009/08/12/miner_szuletesnap/
 tags: [fotózás, geekdom]

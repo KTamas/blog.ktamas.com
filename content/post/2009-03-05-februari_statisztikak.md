@@ -5,7 +5,6 @@ categories:
 date: 2009-03-05 09:00:28
 guid: http://ktamas.blog.hu/2009/03/05/februari_statisztikak
 id: 1769339
-disqus_identifier: 1769339
 url: /index.php/2009/03/05/februari_statisztikak/
 permalink: /index.php/2009/03/05/februari_statisztikak/
 tags: [stats]

@@ -5,7 +5,6 @@ categories:
 date: 2013-05-14 08:55:13
 guid: http://blog.ktamas.com/?p=2364599
 id: 2364599
-disqus_identifier: 2364599
 url: /index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/
 permalink: /index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/
 tags: [rukkola]

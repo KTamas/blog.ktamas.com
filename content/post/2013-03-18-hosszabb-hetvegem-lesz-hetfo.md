@@ -5,7 +5,6 @@ categories:
 date: 2013-03-18 20:55:15
 guid: http://blog.ktamas.com/?p=2364069
 id: 2364069
-disqus_identifier: 2364069
 url: /index.php/2013/03/18/hosszabb-hetvegem-lesz-hetfo/
 permalink: /index.php/2013/03/18/hosszabb-hetvegem-lesz-hetfo/
 tags: [énblog, svédország]

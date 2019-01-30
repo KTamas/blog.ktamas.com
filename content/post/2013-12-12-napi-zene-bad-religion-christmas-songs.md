@@ -5,7 +5,6 @@ categories:
 date: 2013-12-12 13:52:45
 guid: http://blog.ktamas.com/?p=2365216
 id: 2365216
-disqus_identifier: 2365216
 url: /index.php/2013/12/12/napi-zene-bad-religion-christmas-songs/
 permalink: /index.php/2013/12/12/napi-zene-bad-religion-christmas-songs/
 tags: [zene]

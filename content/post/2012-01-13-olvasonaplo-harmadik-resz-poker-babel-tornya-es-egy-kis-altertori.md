@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150467031030146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"157782944663089152";}}
 guid: http://blog.ktamas.com/?p=2362884
 id: 2362884
-disqus_identifier: 2362884
 url: /index.php/2012/01/13/olvasonaplo-harmadik-resz-poker-babel-tornya-es-egy-kis-altertori/
 permalink: /index.php/2012/01/13/olvasonaplo-harmadik-resz-poker-babel-tornya-es-egy-kis-altertori/
 tags: [énblog, könyv]

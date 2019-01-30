@@ -5,7 +5,6 @@ categories:
 date: 2014-02-06 14:34:58
 guid: http://blog.ktamas.com/?p=2365301
 id: 2365301
-disqus_identifier: 2365301
 url: /index.php/2014/02/06/napi-zene-everything-everything/
 permalink: /index.php/2014/02/06/napi-zene-everything-everything/
 tags: [énblog, zene]

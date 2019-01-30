@@ -5,7 +5,6 @@ categories:
 date: 2013-08-07 11:35:42
 guid: http://blog.ktamas.com/?p=2365054
 id: 2365054
-disqus_identifier: 2365054
 url: /index.php/2013/08/07/hono-szigeten-pentek/
 permalink: /index.php/2013/08/07/hono-szigeten-pentek/
 tags: [énblog, svédország, vendégek]

@@ -5,7 +5,6 @@ categories:
 date: 2009-07-24 22:09:24
 guid: http://ktamas.blog.hu/2009/07/24/ekonyvekrol_es_olvasokrol_most_leginkabb_pda_krol
 id: 1769435
-disqus_identifier: 1769435
 url: /index.php/2009/07/24/ekonyvekrol_es_olvasokrol_most_leginkabb_pda_krol/
 permalink: /index.php/2009/07/24/ekonyvekrol_es_olvasokrol_most_leginkabb_pda_krol/
 tags: [ebook, pda]

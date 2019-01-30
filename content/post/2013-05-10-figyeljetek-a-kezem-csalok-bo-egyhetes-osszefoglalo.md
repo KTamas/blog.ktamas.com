@@ -5,7 +5,6 @@ categories:
 date: 2013-05-10 12:29:09
 guid: http://blog.ktamas.com/?p=2364575
 id: 2364575
-disqus_identifier: 2364575
 url: /index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/
 permalink: /index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/
 tags: [énblog, magyarország, svédország]

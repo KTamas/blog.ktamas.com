@@ -5,7 +5,6 @@ categories:
 date: 2013-04-12 11:23:01
 guid: http://blog.ktamas.com/?p=2364341
 id: 2364341
-disqus_identifier: 2364341
 url: /index.php/2013/04/12/kedd-draft/
 permalink: /index.php/2013/04/12/kedd-draft/
 tags: [énblog, svédország]

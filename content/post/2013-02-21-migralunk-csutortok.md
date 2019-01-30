@@ -5,7 +5,6 @@ categories:
 date: 2013-02-21 20:56:44
 guid: http://blog.ktamas.com/?p=2363802
 id: 2363802
-disqus_identifier: 2363802
 url: /index.php/2013/02/21/migralunk-csutortok/
 permalink: /index.php/2013/02/21/migralunk-csutortok/
 tags: [énblog, svédország]

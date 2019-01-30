@@ -5,7 +5,6 @@ categories:
 date: 2011-02-06 15:16:58
 guid: http://blog.ktamas.com/?p=2362373
 id: 2362373
-disqus_identifier: 2362373
 url: /index.php/2011/02/06/the-naked-and-famous-young-blood/
 permalink: /index.php/2011/02/06/the-naked-and-famous-young-blood/
 tags: [random, sorozat, zene]

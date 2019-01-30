@@ -5,7 +5,6 @@ categories:
 date: 2013-03-29 16:25:32
 guid: http://blog.ktamas.com/?p=2364159
 id: 2364159
-disqus_identifier: 2364159
 url: /index.php/2013/03/29/pasklunch-kepriport/
 permalink: /index.php/2013/03/29/pasklunch-kepriport/
 tags: [énblog, kaja, svédország]

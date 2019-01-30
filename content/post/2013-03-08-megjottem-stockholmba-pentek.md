@@ -5,7 +5,6 @@ categories:
 date: 2013-03-08 20:38:04
 guid: http://blog.ktamas.com/?p=2363948
 id: 2363948
-disqus_identifier: 2363948
 url: /index.php/2013/03/08/megjottem-stockholmba-pentek/
 permalink: /index.php/2013/03/08/megjottem-stockholmba-pentek/
 tags: [énblog, svédország]

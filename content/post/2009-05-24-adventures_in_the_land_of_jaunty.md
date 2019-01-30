@@ -5,7 +5,6 @@ categories:
 date: 2009-05-24 17:01:46
 guid: http://ktamas.blog.hu/2009/05/24/adventures_in_the_land_of_jaunty
 id: 1769391
-disqus_identifier: 1769391
 url: /index.php/2009/05/24/adventures_in_the_land_of_jaunty/
 permalink: /index.php/2009/05/24/adventures_in_the_land_of_jaunty/
 tags: [linux]

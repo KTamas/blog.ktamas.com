@@ -5,7 +5,6 @@ categories:
 date: 2014-05-10 10:10:02
 guid: http://blog.ktamas.com/?p=2365313
 id: 2365313
-disqus_identifier: 2365313
 url: /index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/
 permalink: /index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/
 tags: [én, énblog, svédország]

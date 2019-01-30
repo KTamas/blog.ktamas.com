@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150491987475146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"162478207591923712";}}
 guid: http://blog.ktamas.com/?p=2362985
 id: 2362985
-disqus_identifier: 2362985
 url: /index.php/2012/01/26/napi-loop-gryllus-vilmos-skot/
 permalink: /index.php/2012/01/26/napi-loop-gryllus-vilmos-skot/
 tags: [napiloop, zene]

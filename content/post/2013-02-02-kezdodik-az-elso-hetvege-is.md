@@ -5,7 +5,6 @@ categories:
 date: 2013-02-02 22:10:16
 guid: http://blog.ktamas.com/?p=2363557
 id: 2363557
-disqus_identifier: 2363557
 url: /index.php/2013/02/02/kezdodik-az-elso-hetvege-is/
 permalink: /index.php/2013/02/02/kezdodik-az-elso-hetvege-is/
 tags: [énblog, svédország]

@@ -5,7 +5,6 @@ categories:
 date: 2013-01-14 15:40:23
 guid: http://blog.ktamas.com/?p=2363437
 id: 2363437
-disqus_identifier: 2363437
 url: /index.php/2013/01/14/coffee-oclock/
 permalink: /index.php/2013/01/14/coffee-oclock/
 tags: [fotózás]

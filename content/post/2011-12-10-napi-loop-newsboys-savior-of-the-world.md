@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150407511780146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"145619902701633536";}}
 guid: http://blog.ktamas.com/?p=2362810
 id: 2362810
-disqus_identifier: 2362810
 url: /index.php/2011/12/10/napi-loop-newsboys-savior-of-the-world/
 permalink: /index.php/2011/12/10/napi-loop-newsboys-savior-of-the-world/
 tags: [napiloop, zene]

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150229930320146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"87949466312777728";}}
 guid: http://blog.ktamas.com/?p=2362681
 id: 2362681
-disqus_identifier: 2362681
 url: /index.php/2011/07/04/duck-tales/
 permalink: /index.php/2011/07/04/duck-tales/
 tags: [ajánló, random, zene]

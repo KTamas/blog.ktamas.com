@@ -5,7 +5,6 @@ categories:
 date: 2013-03-12 21:09:28
 guid: http://blog.ktamas.com/?p=2364012
 id: 2364012
-disqus_identifier: 2364012
 url: /index.php/2013/03/12/egy-kis-koppenhaga-kedd/
 permalink: /index.php/2013/03/12/egy-kis-koppenhaga-kedd/
 tags: [énblog, svédország]

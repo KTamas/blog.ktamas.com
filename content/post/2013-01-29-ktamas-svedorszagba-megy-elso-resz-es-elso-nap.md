@@ -5,7 +5,6 @@ categories:
 date: 2013-01-29 18:51:50
 guid: http://blog.ktamas.com/?p=2363517
 id: 2363517
-disqus_identifier: 2363517
 url: /index.php/2013/01/29/ktamas-svedorszagba-megy-elso-resz-es-elso-nap/
 permalink: /index.php/2013/01/29/ktamas-svedorszagba-megy-elso-resz-es-elso-nap/
 tags: [énblog, svédország]

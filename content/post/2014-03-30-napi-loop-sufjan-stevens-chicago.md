@@ -5,7 +5,6 @@ categories:
 date: 2014-03-30 18:18:24
 guid: http://blog.ktamas.com/?p=2365356
 id: 2365356
-disqus_identifier: 2365356
 url: /index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/
 permalink: /index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/
 tags: [napiloop, zene]

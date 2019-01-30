@@ -5,7 +5,6 @@ categories:
 date: 2009-06-05 15:51:24
 guid: http://ktamas.blog.hu/2009/06/05/rock_me_amadeus_3
 id: 1769404
-disqus_identifier: 1769404
 url: /index.php/2009/06/05/rock_me_amadeus_3/
 permalink: /index.php/2009/06/05/rock_me_amadeus_3/
 tags: [bécs, random]

@@ -5,7 +5,6 @@ categories:
 date: 2013-12-30 09:36:40
 guid: http://blog.ktamas.com/?p=2365226
 id: 2365226
-disqus_identifier: 2365226
 url: /index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/
 permalink: /index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/
 tags: [énblog, fotózás]

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150566694865146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:19:"1.7559929508765E+17";}}
 guid: http://blog.ktamas.com/?p=2363043
 id: 2363043
-disqus_identifier: 2363043
 url: /index.php/2012/03/02/szolgaltatas-tortenik/
 permalink: /index.php/2012/03/02/szolgaltatas-tortenik/
 title: Szolgáltatás történik

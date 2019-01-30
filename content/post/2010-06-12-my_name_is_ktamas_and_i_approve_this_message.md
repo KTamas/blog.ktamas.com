@@ -5,7 +5,6 @@ categories:
 date: 2010-06-12 11:00:00
 guid: http://ktamas.blog.hu/2010/06/12/my_name_is_ktamas_and_i_approve_this_message
 id: 2075147
-disqus_identifier: 2075147
 url: /index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/
 permalink: /index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/
 tags: [geekdom, linux, mac, random, windows]

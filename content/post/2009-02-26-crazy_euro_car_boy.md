@@ -5,7 +5,6 @@ categories:
 date: 2009-02-26 09:58:05
 guid: http://ktamas.blog.hu/2009/02/26/crazy_euro_car_boy
 id: 1769335
-disqus_identifier: 1769335
 url: /index.php/2009/02/26/crazy_euro_car_boy/
 permalink: /index.php/2009/02/26/crazy_euro_car_boy/
 tags: [újságírás]

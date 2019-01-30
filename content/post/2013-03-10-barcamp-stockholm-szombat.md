@@ -5,7 +5,6 @@ categories:
 date: 2013-03-10 11:16:29
 guid: http://blog.ktamas.com/?p=2363967
 id: 2363967
-disqus_identifier: 2363967
 url: /index.php/2013/03/10/barcamp-stockholm-szombat/
 permalink: /index.php/2013/03/10/barcamp-stockholm-szombat/
 tags: [énblog, svédország]

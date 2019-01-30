@@ -5,7 +5,6 @@ categories:
 date: 2013-03-14 20:36:31
 guid: http://blog.ktamas.com/?p=2364039
 id: 2364039
-disqus_identifier: 2364039
 url: /index.php/2013/03/14/kinyirtak-a-readert-csutortok/
 permalink: /index.php/2013/03/14/kinyirtak-a-readert-csutortok/
 tags: [énblog, svédország]

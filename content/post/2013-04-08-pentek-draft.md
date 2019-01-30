@@ -5,7 +5,6 @@ categories:
 date: 2013-04-08 11:21:14
 guid: http://blog.ktamas.com/?p=2364298
 id: 2364298
-disqus_identifier: 2364298
 url: /index.php/2013/04/08/pentek-draft/
 permalink: /index.php/2013/04/08/pentek-draft/
 tags: [énblog, svédország]

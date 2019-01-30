@@ -5,7 +5,6 @@ categories:
 date: 2009-08-20 19:00:12
 guid: http://ktamas.blog.hu/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk
 id: 1769447
-disqus_identifier: 1769447
 url: /index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/
 permalink: /index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/
 tags: [agymenes, random, zene]

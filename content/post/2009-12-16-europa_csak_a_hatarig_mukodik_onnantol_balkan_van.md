@@ -5,7 +5,6 @@ categories:
 date: 2009-12-16 19:58:02
 guid: http://ktamas.blog.hu/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van
 id: 1769469
-disqus_identifier: 1769469
 url: /index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/
 permalink: /index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/
 tags: [agymenes, balkan]

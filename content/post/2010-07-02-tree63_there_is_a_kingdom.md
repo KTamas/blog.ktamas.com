@@ -5,7 +5,6 @@ categories:
 date: 2010-07-02 07:31:53
 guid: http://ktamas.blog.hu/2010/07/02/tree63_there_is_a_kingdom
 id: 2124581
-disqus_identifier: 2124581
 url: /index.php/2010/07/02/tree63_there_is_a_kingdom/
 permalink: /index.php/2010/07/02/tree63_there_is_a_kingdom/
 tags: [random, zene]

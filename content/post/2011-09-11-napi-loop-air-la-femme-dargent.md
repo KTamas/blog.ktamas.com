@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:1:{i:0;a:2:{i:0;s:7:"twitter";i:1;s:18:"112964275752022017";}}
 guid: http://blog.ktamas.com/?p=2362730
 id: 2362730
-disqus_identifier: 2362730
 url: /index.php/2011/09/11/napi-loop-air-la-femme-dargent/
 permalink: /index.php/2011/09/11/napi-loop-air-la-femme-dargent/
 tags: [napiloop, vm, zene]

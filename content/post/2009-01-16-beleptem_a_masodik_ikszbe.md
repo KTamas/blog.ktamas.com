@@ -5,7 +5,6 @@ categories:
 date: 2009-01-16 09:11:17
 guid: http://ktamas.blog.hu/2009/01/16/beleptem_a_masodik_ikszbe
 id: 1769311
-disqus_identifier: 1769311
 url: /index.php/2009/01/16/beleptem_a_masodik_ikszbe/
 permalink: /index.php/2009/01/16/beleptem_a_masodik_ikszbe/
 tags: [énblog]

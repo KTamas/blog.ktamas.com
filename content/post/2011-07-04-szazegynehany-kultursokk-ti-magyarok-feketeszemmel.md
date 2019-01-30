@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150229786810146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"87888305009594368";}}
 guid: http://blog.ktamas.com/?p=2362664
 id: 2362664
-disqus_identifier: 2362664
 url: /index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/
 permalink: /index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/
 tags: [ajánló, könyv]

@@ -5,7 +5,6 @@ categories:
 date: 2013-01-26 10:33:24
 guid: http://blog.ktamas.com/?p=2363484
 id: 2363484
-disqus_identifier: 2363484
 url: /index.php/2013/01/26/bucsuk-ajandekok/
 permalink: /index.php/2013/01/26/bucsuk-ajandekok/
 tags: [énblog, svédország]

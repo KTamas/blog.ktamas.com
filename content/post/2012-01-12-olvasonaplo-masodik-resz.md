@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150465349615146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"157455679387480064";}}
 guid: http://blog.ktamas.com/?p=2362868
 id: 2362868
-disqus_identifier: 2362868
 url: /index.php/2012/01/12/olvasonaplo-masodik-resz/
 permalink: /index.php/2012/01/12/olvasonaplo-masodik-resz/
 tags: [énblog, könyv]

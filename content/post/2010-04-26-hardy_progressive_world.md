@@ -5,7 +5,6 @@ categories:
 date: 2010-04-26 19:30:00
 guid: http://ktamas.blog.hu/2010/04/26/hardy_progressive_world
 id: 1952486
-disqus_identifier: 1952486
 url: /index.php/2010/04/26/hardy_progressive_world/
 permalink: /index.php/2010/04/26/hardy_progressive_world/
 title: Hardy &#8211; Progressive World

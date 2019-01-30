@@ -5,7 +5,6 @@ categories:
 date: 2013-04-24 17:30:00
 guid: http://blog.ktamas.com/?p=2364487
 id: 2364487
-disqus_identifier: 2364487
 url: /index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/
 permalink: /index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/
 tags: [napiloop, zene]

@@ -5,7 +5,6 @@ categories:
 date: 2009-04-17 09:19:08
 guid: http://ktamas.blog.hu/2009/04/17/furcsa_performansz_a_moszkva_teren_meg_egy_kis_japan
 id: 1769370
-disqus_identifier: 1769370
 url: /index.php/2009/04/17/furcsa_performansz_a_moszkva_teren_meg_egy_kis_japan/
 permalink: /index.php/2009/04/17/furcsa_performansz_a_moszkva_teren_meg_egy_kis_japan/
 tags: [wtf]

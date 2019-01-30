@@ -5,7 +5,6 @@ categories:
 date: 2010-12-25 14:25:25
 guid: http://blog.ktamas.com/?p=2362347
 id: 2362347
-disqus_identifier: 2362347
 url: /index.php/2010/12/25/best-of-def-con-18/
 permalink: /index.php/2010/12/25/best-of-def-con-18/
 tags: [ajánló]

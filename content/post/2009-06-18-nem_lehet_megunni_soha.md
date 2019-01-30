@@ -5,7 +5,6 @@ categories:
 date: 2009-06-18 10:53:01
 guid: http://ktamas.blog.hu/2009/06/18/nem_lehet_megunni_soha
 id: 1769416
-disqus_identifier: 1769416
 url: /index.php/2009/06/18/nem_lehet_megunni_soha/
 permalink: /index.php/2009/06/18/nem_lehet_megunni_soha/
 tags: [random, zene]

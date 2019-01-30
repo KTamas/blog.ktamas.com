@@ -5,7 +5,6 @@ categories:
 date: 2013-04-22 21:04:52
 guid: http://blog.ktamas.com/?p=2364456
 id: 2364456
-disqus_identifier: 2364456
 url: /index.php/2013/04/22/german-csutortok/
 permalink: /index.php/2013/04/22/german-csutortok/
 tags: [énblog, svédország]

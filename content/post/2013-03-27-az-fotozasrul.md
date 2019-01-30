@@ -5,7 +5,6 @@ categories:
 date: 2013-03-27 16:26:58
 guid: http://blog.ktamas.com/?p=2364143
 id: 2364143
-disqus_identifier: 2364143
 url: /index.php/2013/03/27/az-fotozasrul/
 permalink: /index.php/2013/03/27/az-fotozasrul/
 tags: [fotózás, random]

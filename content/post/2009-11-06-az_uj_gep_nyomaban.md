@@ -5,7 +5,6 @@ categories:
 date: 2009-11-06 10:04:40
 guid: http://ktamas.blog.hu/2009/11/06/az_uj_gep_nyomaban
 id: 1769462
-disqus_identifier: 1769462
 url: /index.php/2009/11/06/az_uj_gep_nyomaban/
 permalink: /index.php/2009/11/06/az_uj_gep_nyomaban/
 title: Az új gép nyomában

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150849843545146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:19:"2.1245977900261E+17";}}
 guid: http://blog.ktamas.com/?p=2363145
 id: 2363145
-disqus_identifier: 2363145
 url: /index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/
 permalink: /index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/
 tags: [napiloop, zene]

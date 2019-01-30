@@ -5,7 +5,6 @@ categories:
 date: 2013-06-05 10:33:34
 guid: http://blog.ktamas.com/?p=2364726
 id: 2364726
-disqus_identifier: 2364726
 url: /index.php/2013/06/05/otthonrol-dolgozos-kedd/
 permalink: /index.php/2013/06/05/otthonrol-dolgozos-kedd/
 tags: [énblog, svédország]

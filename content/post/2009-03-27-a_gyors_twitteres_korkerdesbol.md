@@ -5,7 +5,6 @@ categories:
 date: 2009-03-27 18:40:35
 guid: http://ktamas.blog.hu/2009/03/27/a_gyors_twitteres_korkerdesbol
 id: 1769357
-disqus_identifier: 1769357
 url: /index.php/2009/03/27/a_gyors_twitteres_korkerdesbol/
 permalink: /index.php/2009/03/27/a_gyors_twitteres_korkerdesbol/
 tags: [random]

@@ -5,7 +5,6 @@ categories:
 date: 2010-02-19 19:24:00
 guid: http://ktamas.blog.hu/2010/02/19/hacking_netpincer
 id: 1772778
-disqus_identifier: 1772778
 url: /index.php/2010/02/19/hacking_netpincer/
 permalink: /index.php/2010/02/19/hacking_netpincer/
 tags: [netpincér, programozás]

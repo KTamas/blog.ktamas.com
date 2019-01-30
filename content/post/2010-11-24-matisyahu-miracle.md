@@ -5,7 +5,6 @@ categories:
 date: 2010-11-24 16:07:50
 guid: http://blog.ktamas.com/?p=2362324
 id: 2362324
-disqus_identifier: 2362324
 url: /index.php/2010/11/24/matisyahu-miracle/
 permalink: /index.php/2010/11/24/matisyahu-miracle/
 tags: [random, zene]

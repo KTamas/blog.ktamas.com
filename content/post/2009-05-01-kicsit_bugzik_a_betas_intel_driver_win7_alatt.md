@@ -5,7 +5,6 @@ categories:
 date: 2009-05-01 09:33:11
 guid: http://ktamas.blog.hu/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt
 id: 1769377
-disqus_identifier: 1769377
 url: /index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/
 permalink: /index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/
 tags: [agymenes, nocomment, win7, windows, wtf]

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150230505840146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"88251583393038336";}}
 guid: http://blog.ktamas.com/?p=2362690
 id: 2362690
-disqus_identifier: 2362690
 url: /index.php/2011/07/05/soknapppal-ezelotti-loop-snoop-dogg-my-medicine/
 permalink: /index.php/2011/07/05/soknapppal-ezelotti-loop-snoop-dogg-my-medicine/
 tags: [napiloop, zene]

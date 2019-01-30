@@ -5,7 +5,6 @@ categories:
 date: 2009-01-25 12:50:52
 guid: http://ktamas.blog.hu/2009/01/25/5_minutes_of_fame
 id: 1769316
-disqus_identifier: 1769316
 url: /index.php/2009/01/25/5_minutes_of_fame/
 permalink: /index.php/2009/01/25/5_minutes_of_fame/
 tags: [random]

@@ -5,7 +5,6 @@ categories:
 date: 2013-02-28 08:36:20
 guid: http://blog.ktamas.com/?p=2363890
 id: 2363890
-disqus_identifier: 2363890
 url: /index.php/2013/02/28/tollaslabda-szerda/
 permalink: /index.php/2013/02/28/tollaslabda-szerda/
 tags: [énblog, svédország]

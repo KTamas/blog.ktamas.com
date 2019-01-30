@@ -5,7 +5,6 @@ categories:
 date: 2013-04-24 11:55:30
 guid: http://blog.ktamas.com/?p=2364438
 id: 2364438
-disqus_identifier: 2364438
 url: /index.php/2013/04/24/megint-foztem-vasarnap/
 permalink: /index.php/2013/04/24/megint-foztem-vasarnap/
 tags: [énblog, svédország]

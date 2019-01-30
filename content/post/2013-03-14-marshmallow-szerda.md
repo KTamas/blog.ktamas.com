@@ -5,7 +5,6 @@ categories:
 date: 2013-03-14 09:25:08
 guid: http://blog.ktamas.com/?p=2364030
 id: 2364030
-disqus_identifier: 2364030
 url: /index.php/2013/03/14/marshmallow-szerda/
 permalink: /index.php/2013/03/14/marshmallow-szerda/
 tags: [énblog, svédország]

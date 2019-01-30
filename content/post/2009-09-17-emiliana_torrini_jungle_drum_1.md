@@ -5,7 +5,6 @@ categories:
 date: 2009-09-17 11:09:23
 guid: http://ktamas.blog.hu/2009/09/17/emiliana_torrini_jungle_drum_1
 id: 1769453
-disqus_identifier: 1769453
 url: /index.php/2009/09/17/emiliana_torrini_jungle_drum_1/
 permalink: /index.php/2009/09/17/emiliana_torrini_jungle_drum_1/
 tags: [random, zene]

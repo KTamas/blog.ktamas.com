@@ -5,7 +5,6 @@ categories:
 date: 2013-02-13 18:56:27
 guid: http://blog.ktamas.com/?p=2363719
 id: 2363719
-disqus_identifier: 2363719
 url: /index.php/2013/02/13/kint-van-a-nevem-szerda/
 permalink: /index.php/2013/02/13/kint-van-a-nevem-szerda/
 tags: [énblog, svédország]

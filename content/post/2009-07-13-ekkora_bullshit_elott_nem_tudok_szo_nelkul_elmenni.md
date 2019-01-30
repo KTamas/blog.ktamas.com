@@ -5,7 +5,6 @@ categories:
 date: 2009-07-13 16:00:42
 guid: http://ktamas.blog.hu/2009/07/13/ekkora_bullshit_elott_nem_tudok_szo_nelkul_elmenni
 id: 1769429
-disqus_identifier: 1769429
 url: /index.php/2009/07/13/ekkora_bullshit_elott_nem_tudok_szo_nelkul_elmenni/
 permalink: /index.php/2009/07/13/ekkora_bullshit_elott_nem_tudok_szo_nelkul_elmenni/
 tags: [random, wtf]

@@ -5,7 +5,6 @@ categories:
 date: 2013-04-04 11:12:35
 guid: http://blog.ktamas.com/?p=2364246
 id: 2364246
-disqus_identifier: 2364246
 url: /index.php/2013/04/04/tardis-hetfo/
 permalink: /index.php/2013/04/04/tardis-hetfo/
 tags: [énblog, svédország]

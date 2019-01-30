@@ -5,7 +5,6 @@ categories:
 date: 2013-03-16 10:43:38
 guid: http://blog.ktamas.com/?p=2364046
 id: 2364046
-disqus_identifier: 2364046
 url: /index.php/2013/03/16/pancake-night-pentek/
 permalink: /index.php/2013/03/16/pancake-night-pentek/
 tags: [énblog, svédország]

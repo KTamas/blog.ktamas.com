@@ -5,7 +5,6 @@ categories:
 date: 2013-02-05 13:28:33
 guid: http://blog.ktamas.com/?p=2363592
 id: 2363592
-disqus_identifier: 2363592
 url: /index.php/2013/02/05/napi-loop-liquido-narcotic/
 permalink: /index.php/2013/02/05/napi-loop-liquido-narcotic/
 tags: [napiloop, zene]

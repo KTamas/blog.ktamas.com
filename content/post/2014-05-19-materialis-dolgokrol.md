@@ -5,7 +5,6 @@ categories:
 date: 2014-05-19 10:10:08
 guid: http://blog.ktamas.com/?p=2365437
 id: 2365437
-disqus_identifier: 2365437
 url: /index.php/2014/05/19/materialis-dolgokrol/
 permalink: /index.php/2014/05/19/materialis-dolgokrol/
 tags: [én]

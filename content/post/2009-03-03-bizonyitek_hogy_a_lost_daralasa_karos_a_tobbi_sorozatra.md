@@ -5,7 +5,6 @@ categories:
 date: 2009-03-03 19:10:47
 guid: http://ktamas.blog.hu/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra
 id: 1769337
-disqus_identifier: 1769337
 url: /index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/
 permalink: /index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/
 tags: [sorozat]

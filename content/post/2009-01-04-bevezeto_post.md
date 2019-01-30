@@ -5,7 +5,6 @@ categories:
 date: 2009-01-04 16:20:25
 guid: http://ktamas.blog.hu/2009/01/04/bevezeto_post
 id: 1769298
-disqus_identifier: 1769298
 url: /index.php/2009/01/04/bevezeto_post/
 permalink: /index.php/2009/01/04/bevezeto_post/
 tags: [énblog]

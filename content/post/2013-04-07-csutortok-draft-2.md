@@ -5,7 +5,6 @@ categories:
 date: 2013-04-07 15:11:04
 guid: http://blog.ktamas.com/?p=2364291
 id: 2364291
-disqus_identifier: 2364291
 url: /index.php/2013/04/07/csutortok-draft-2/
 permalink: /index.php/2013/04/07/csutortok-draft-2/
 tags: [énblog, svédország]

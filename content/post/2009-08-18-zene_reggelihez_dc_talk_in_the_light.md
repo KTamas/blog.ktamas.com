@@ -5,7 +5,6 @@ categories:
 date: 2009-08-18 09:15:18
 guid: http://ktamas.blog.hu/2009/08/18/zene_reggelihez_dc_talk_in_the_light
 id: 1769445
-disqus_identifier: 1769445
 url: /index.php/2009/08/18/zene_reggelihez_dc_talk_in_the_light/
 permalink: /index.php/2009/08/18/zene_reggelihez_dc_talk_in_the_light/
 tags: [random, zene]

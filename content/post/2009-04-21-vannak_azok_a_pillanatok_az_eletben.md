@@ -5,7 +5,6 @@ categories:
 date: 2009-04-21 22:27:34
 guid: http://ktamas.blog.hu/2009/04/21/vannak_azok_a_pillanatok_az_eletben
 id: 1769372
-disqus_identifier: 1769372
 url: /index.php/2009/04/21/vannak_azok_a_pillanatok_az_eletben/
 permalink: /index.php/2009/04/21/vannak_azok_a_pillanatok_az_eletben/
 tags: [wtf, zene]

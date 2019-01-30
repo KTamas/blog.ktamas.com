@@ -5,7 +5,6 @@ categories:
 date: 2013-01-02 16:43:40
 guid: http://blog.ktamas.com/?p=2363416
 id: 2363416
-disqus_identifier: 2363416
 url: /index.php/2013/01/02/enblog-munka-karacsony-elet-rukkola-es-vegul-zombik/
 permalink: /index.php/2013/01/02/enblog-munka-karacsony-elet-rukkola-es-vegul-zombik/
 tags: [énblog]

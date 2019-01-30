@@ -5,7 +5,6 @@ categories:
 date: 2014-05-07 09:32:49
 guid: http://blog.ktamas.com/?p=2365178
 id: 2365178
-disqus_identifier: 2365178
 url: /index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/
 permalink: /index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/
 tags: [énblog, svédország]

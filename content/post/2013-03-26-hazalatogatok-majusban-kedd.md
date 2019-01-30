@@ -5,7 +5,6 @@ categories:
 date: 2013-03-26 19:33:20
 guid: http://blog.ktamas.com/?p=2364135
 id: 2364135
-disqus_identifier: 2364135
 url: /index.php/2013/03/26/hazalatogatok-majusban-kedd/
 permalink: /index.php/2013/03/26/hazalatogatok-majusban-kedd/
 tags: [énblog, svédország]

@@ -5,7 +5,6 @@ categories:
 date: 2013-05-17 11:26:47
 guid: http://blog.ktamas.com/?p=2364630
 id: 2364630
-disqus_identifier: 2364630
 url: /index.php/2013/05/17/egy-atlagosan-jo-szerda/
 permalink: /index.php/2013/05/17/egy-atlagosan-jo-szerda/
 tags: [énblog, svédország]

@@ -5,7 +5,6 @@ categories:
 date: 2009-03-16 15:03:57
 guid: http://ktamas.blog.hu/2009/03/16/napi_karomkodas
 id: 1769347
-disqus_identifier: 1769347
 url: /index.php/2009/03/16/napi_karomkodas/
 permalink: /index.php/2009/03/16/napi_karomkodas/
 tags: [agymenes, windows]

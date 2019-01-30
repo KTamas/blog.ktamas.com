@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150203091125146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"78379630385573888";}}
 guid: http://blog.ktamas.com/?p=2362637
 id: 2362637
-disqus_identifier: 2362637
 url: /index.php/2011/06/08/tenth-avenue-north-healing-begins/
 permalink: /index.php/2011/06/08/tenth-avenue-north-healing-begins/
 tags: [ajánló, random, zene]

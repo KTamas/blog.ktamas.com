@@ -5,7 +5,6 @@ categories:
 date: 2013-05-21 09:42:31
 guid: http://blog.ktamas.com/?p=2364641
 id: 2364641
-disqus_identifier: 2364641
 url: /index.php/2013/05/21/napi-loopok-eurovision-2013/
 permalink: /index.php/2013/05/21/napi-loopok-eurovision-2013/
 tags: [énblog, napiloop, svédország, zene]

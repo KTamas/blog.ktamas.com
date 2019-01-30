@@ -5,7 +5,6 @@ categories:
 date: 2009-10-09 14:15:40
 guid: http://ktamas.blog.hu/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja
 id: 1769458
-disqus_identifier: 1769458
 url: /index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/
 permalink: /index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/
 tags: [kaja, random]

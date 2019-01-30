@@ -5,7 +5,6 @@ categories:
 date: 2013-05-16 14:12:13
 guid: http://blog.ktamas.com/?p=2364621
 id: 2364621
-disqus_identifier: 2364621
 url: /index.php/2013/05/16/ujra-itthon-kedden/
 permalink: /index.php/2013/05/16/ujra-itthon-kedden/
 tags: [énblog, svédország]

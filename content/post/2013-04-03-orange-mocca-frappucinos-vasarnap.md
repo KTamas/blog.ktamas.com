@@ -5,7 +5,6 @@ categories:
 date: 2013-04-03 11:19:59
 guid: http://blog.ktamas.com/?p=2364244
 id: 2364244
-disqus_identifier: 2364244
 url: /index.php/2013/04/03/orange-mocca-frappucinos-vasarnap/
 permalink: /index.php/2013/04/03/orange-mocca-frappucinos-vasarnap/
 tags: [énblog, svédország]

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150170515360146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"64393066534019072";}}
 guid: http://blog.ktamas.com/?p=2362437
 id: 2362437
-disqus_identifier: 2362437
 url: /index.php/2011/04/30/koltozes-a-felhobe/
 permalink: /index.php/2011/04/30/koltozes-a-felhobe/
 tags: [énblog, linux, meta, programozás, szerverek]

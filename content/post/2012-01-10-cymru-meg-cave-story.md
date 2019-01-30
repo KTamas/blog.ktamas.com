@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150461257160146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"156677034918166528";}}
 guid: http://blog.ktamas.com/?p=2362830
 id: 2362830
-disqus_identifier: 2362830
 url: /index.php/2012/01/10/cymru-meg-cave-story/
 permalink: /index.php/2012/01/10/cymru-meg-cave-story/
 tags: [énblog]

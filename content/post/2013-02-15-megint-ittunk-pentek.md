@@ -5,7 +5,6 @@ categories:
 date: 2013-02-15 21:32:28
 guid: http://blog.ktamas.com/?p=2363742
 id: 2363742
-disqus_identifier: 2363742
 url: /index.php/2013/02/15/megint-ittunk-pentek/
 permalink: /index.php/2013/02/15/megint-ittunk-pentek/
 tags: [énblog, svédország]

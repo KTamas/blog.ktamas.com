@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150186569440146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"71205296990720000";}}
 guid: http://blog.ktamas.com/?p=2362551
 id: 2362551
-disqus_identifier: 2362551
 url: /index.php/2011/05/19/ez-van-kern/
 permalink: /index.php/2011/05/19/ez-van-kern/
 tags: [ajánló, zene]

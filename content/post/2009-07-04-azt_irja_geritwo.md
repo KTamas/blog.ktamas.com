@@ -5,7 +5,6 @@ categories:
 date: 2009-07-04 08:41:26
 guid: http://ktamas.blog.hu/2009/07/04/azt_irja_geritwo
 id: 1769423
-disqus_identifier: 1769423
 url: /index.php/2009/07/04/azt_irja_geritwo/
 permalink: /index.php/2009/07/04/azt_irja_geritwo/
 tags: [random]

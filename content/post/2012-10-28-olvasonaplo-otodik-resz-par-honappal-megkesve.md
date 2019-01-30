@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:25:"722715145_432269170155971";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"2.626038909676E+17";}}
 guid: http://blog.ktamas.com/?p=2362944
 id: 2362944
-disqus_identifier: 2362944
 url: /index.php/2012/10/28/olvasonaplo-otodik-resz-par-honappal-megkesve/
 permalink: /index.php/2012/10/28/olvasonaplo-otodik-resz-par-honappal-megkesve/
 title: Olvasónapló, ötödik rész, pár hónappal megkésve

@@ -5,7 +5,6 @@ categories:
 date: 2013-10-19 20:40:38
 guid: http://blog.ktamas.com/?p=2365199
 id: 2365199
-disqus_identifier: 2365199
 url: /index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/
 permalink: /index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/
 tags: [énblog, munka, svédország]

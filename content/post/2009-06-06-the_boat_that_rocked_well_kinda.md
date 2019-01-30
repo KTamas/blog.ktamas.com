@@ -5,7 +5,6 @@ categories:
 date: 2009-06-06 11:17:55
 guid: http://ktamas.blog.hu/2009/06/06/the_boat_that_rocked_well_kinda
 id: 1769406
-disqus_identifier: 1769406
 url: /index.php/2009/06/06/the_boat_that_rocked_well_kinda/
 permalink: /index.php/2009/06/06/the_boat_that_rocked_well_kinda/
 tags: [bécs, mozi]

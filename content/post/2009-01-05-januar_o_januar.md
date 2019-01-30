@@ -5,7 +5,6 @@ categories:
 date: 2009-01-05 10:19:24
 guid: http://ktamas.blog.hu/2009/01/05/januar_o_januar
 id: 1769300
-disqus_identifier: 1769300
 url: /index.php/2009/01/05/januar_o_januar/
 permalink: /index.php/2009/01/05/januar_o_januar/
 tags: [sorozat]

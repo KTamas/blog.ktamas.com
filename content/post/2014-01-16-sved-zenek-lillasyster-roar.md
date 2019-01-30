@@ -5,7 +5,6 @@ categories:
 date: 2014-01-16 09:09:05
 guid: http://blog.ktamas.com/?p=2365258
 id: 2365258
-disqus_identifier: 2365258
 url: /index.php/2014/01/16/sved-zenek-lillasyster-roar/
 permalink: /index.php/2014/01/16/sved-zenek-lillasyster-roar/
 tags: [napiloop, svédország, svédzenes, zene]

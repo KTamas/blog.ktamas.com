@@ -5,7 +5,6 @@ categories:
 date: 2013-04-23 11:16:08
 guid: http://blog.ktamas.com/?p=2364453
 id: 2364453
-disqus_identifier: 2364453
 url: /index.php/2013/04/23/kortars-pentek/
 permalink: /index.php/2013/04/23/kortars-pentek/
 tags: [énblog, svédország]

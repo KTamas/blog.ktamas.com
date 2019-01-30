@@ -5,7 +5,6 @@ categories:
 date: 2009-09-10 23:54:58
 guid: http://ktamas.blog.hu/2009/09/10/infected_mushroom_koncert
 id: 1769452
-disqus_identifier: 1769452
 url: /index.php/2009/09/10/infected_mushroom_koncert/
 permalink: /index.php/2009/09/10/infected_mushroom_koncert/
 tags: [koncert, zene]

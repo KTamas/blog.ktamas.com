@@ -5,7 +5,6 @@ categories:
 date: 2013-01-31 19:57:25
 guid: http://blog.ktamas.com/?p=2363538
 id: 2363538
-disqus_identifier: 2363538
 url: /index.php/2013/01/31/ktamas-svedorszagban-holnap-dolgozni-megy/
 permalink: /index.php/2013/01/31/ktamas-svedorszagban-holnap-dolgozni-megy/
 tags: [énblog, svédország]

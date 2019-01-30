@@ -5,7 +5,6 @@ categories:
 date: 2013-01-30 21:03:30
 guid: http://blog.ktamas.com/?p=2363532
 id: 2363532
-disqus_identifier: 2363532
 url: /index.php/2013/01/30/ktamas-svedorszagban-van-mar-2-resz-es-lassan-kell-valami-kreativabb-cimadas/
 permalink: /index.php/2013/01/30/ktamas-svedorszagban-van-mar-2-resz-es-lassan-kell-valami-kreativabb-cimadas/
 tags: [énblog, svédország]

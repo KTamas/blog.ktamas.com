@@ -5,7 +5,6 @@ categories:
 date: 2013-03-31 16:45:44
 guid: http://blog.ktamas.com/?p=2364192
 id: 2364192
-disqus_identifier: 2364192
 url: /index.php/2013/03/31/vendegseg-nagypentek/
 permalink: /index.php/2013/03/31/vendegseg-nagypentek/
 tags: [énblog, svédország]

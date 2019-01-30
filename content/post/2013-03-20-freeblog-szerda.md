@@ -5,7 +5,6 @@ categories:
 date: 2013-03-20 17:46:57
 guid: http://blog.ktamas.com/?p=2364076
 id: 2364076
-disqus_identifier: 2364076
 url: /index.php/2013/03/20/freeblog-szerda/
 permalink: /index.php/2013/03/20/freeblog-szerda/
 tags: [énblog, svédország]

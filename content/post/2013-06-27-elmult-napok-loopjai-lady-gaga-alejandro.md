@@ -5,7 +5,6 @@ categories:
 date: 2013-06-27 14:27:35
 guid: http://blog.ktamas.com/?p=2364889
 id: 2364889
-disqus_identifier: 2364889
 url: /index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/
 permalink: /index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/
 tags: [napiloop, zene]

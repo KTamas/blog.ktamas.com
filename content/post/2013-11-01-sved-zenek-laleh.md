@@ -5,7 +5,6 @@ categories:
 date: 2013-11-01 20:18:33
 guid: http://blog.ktamas.com/?p=2365207
 id: 2365207
-disqus_identifier: 2365207
 url: /index.php/2013/11/01/sved-zenek-laleh/
 permalink: /index.php/2013/11/01/sved-zenek-laleh/
 tags: [énblog, svédország, svédzene, zene]

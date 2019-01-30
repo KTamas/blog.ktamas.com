@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150346833125146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"132374688138674176";}}
 guid: http://blog.ktamas.com/?p=2362777
 id: 2362777
-disqus_identifier: 2362777
 url: /index.php/2011/11/04/internetmegosztas/
 permalink: /index.php/2011/11/04/internetmegosztas/
 tags: [random, tech]

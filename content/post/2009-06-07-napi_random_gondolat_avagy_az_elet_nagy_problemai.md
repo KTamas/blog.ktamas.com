@@ -5,7 +5,6 @@ categories:
 date: 2009-06-07 13:00:37
 guid: http://ktamas.blog.hu/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai
 id: 1769408
-disqus_identifier: 1769408
 url: /index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/
 permalink: /index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/
 tags: [bécs, random]

@@ -5,7 +5,6 @@ categories:
 date: 2013-07-16 10:10:53
 guid: http://blog.ktamas.com/?p=2364950
 id: 2364950
-disqus_identifier: 2364950
 url: /index.php/2013/07/16/a-munkarol/
 permalink: /index.php/2013/07/16/a-munkarol/
 tags: [énblog, svédország, vállalkozunk]

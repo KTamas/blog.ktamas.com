@@ -5,7 +5,6 @@ categories:
 date: 2013-02-27 21:47:04
 guid: http://blog.ktamas.com/?p=2363887
 id: 2363887
-disqus_identifier: 2363887
 url: /index.php/2013/02/27/napi-zene-sabaton-metal-ripper/
 permalink: /index.php/2013/02/27/napi-zene-sabaton-metal-ripper/
 tags: [zene]

@@ -5,7 +5,6 @@ categories:
 date: 2013-02-09 18:40:46
 guid: http://blog.ktamas.com/?p=2363659
 id: 2363659
-disqus_identifier: 2363659
 url: /index.php/2013/02/09/untitled-szombat/
 permalink: /index.php/2013/02/09/untitled-szombat/
 tags: [énblog, svédország]

@@ -5,7 +5,6 @@ categories:
 date: 2013-03-25 19:51:16
 guid: http://blog.ktamas.com/?p=2364130
 id: 2364130
-disqus_identifier: 2364130
 url: /index.php/2013/03/25/visszahato-birtokos-nevmas-hetfo/
 permalink: /index.php/2013/03/25/visszahato-birtokos-nevmas-hetfo/
 tags: [énblog, nyelvtanulás, svédország]

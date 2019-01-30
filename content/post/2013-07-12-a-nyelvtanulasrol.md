@@ -5,7 +5,6 @@ categories:
 date: 2013-07-12 10:59:44
 guid: http://blog.ktamas.com/?p=2364919
 id: 2364919
-disqus_identifier: 2364919
 url: /index.php/2013/07/12/a-nyelvtanulasrol/
 permalink: /index.php/2013/07/12/a-nyelvtanulasrol/
 tags: [énblog, nyelvtanulás, svédország]

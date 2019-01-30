@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150177441775146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"67520452582576128";}}
 guid: http://blog.ktamas.com/?p=2362495
 id: 2362495
-disqus_identifier: 2362495
 url: /index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/
 permalink: /index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/
 tags: [ajánló, izraeli, zene]

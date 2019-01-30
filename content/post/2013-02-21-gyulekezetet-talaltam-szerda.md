@@ -5,7 +5,6 @@ categories:
 date: 2013-02-21 09:01:42
 guid: http://blog.ktamas.com/?p=2363779
 id: 2363779
-disqus_identifier: 2363779
 url: /index.php/2013/02/21/gyulekezetet-talaltam-szerda/
 permalink: /index.php/2013/02/21/gyulekezetet-talaltam-szerda/
 tags: [énblog, svédország]

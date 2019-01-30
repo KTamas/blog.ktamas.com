@@ -5,7 +5,6 @@ categories:
 date: 2014-01-29 22:23:14
 guid: http://blog.ktamas.com/?p=2365287
 id: 2365287
-disqus_identifier: 2365287
 url: /index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/
 permalink: /index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/
 tags: [énblog, évforduló, svédország]

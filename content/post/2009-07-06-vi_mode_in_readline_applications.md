@@ -5,7 +5,6 @@ categories:
 date: 2009-07-06 10:09:22
 guid: http://ktamas.blog.hu/2009/07/06/vi_mode_in_readline_applications
 id: 1769427
-disqus_identifier: 1769427
 url: /index.php/2009/07/06/vi_mode_in_readline_applications/
 permalink: /index.php/2009/07/06/vi_mode_in_readline_applications/
 tags: [geekdom, linux, random]

@@ -5,7 +5,6 @@ categories:
 date: 2009-07-17 12:13:51
 guid: http://ktamas.blog.hu/2009/07/17/netta_skog_dead_to_the_world_nightwish_cover
 id: 1769432
-disqus_identifier: 1769432
 url: /index.php/2009/07/17/netta_skog_dead_to_the_world_nightwish_cover/
 permalink: /index.php/2009/07/17/netta_skog_dead_to_the_world_nightwish_cover/
 tags: [nightwish, zene]

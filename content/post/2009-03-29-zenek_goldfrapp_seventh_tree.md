@@ -5,7 +5,6 @@ categories:
 date: 2009-03-29 17:35:34
 guid: http://ktamas.blog.hu/2009/03/29/zenek_goldfrapp_seventh_tree
 id: 1769360
-disqus_identifier: 1769360
 url: /index.php/2009/03/29/zenek_goldfrapp_seventh_tree/
 permalink: /index.php/2009/03/29/zenek_goldfrapp_seventh_tree/
 tags: [zene]

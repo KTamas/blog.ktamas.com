@@ -5,7 +5,6 @@ categories:
 date: 2013-05-19 10:12:08
 guid: http://blog.ktamas.com/?p=2364632
 id: 2364632
-disqus_identifier: 2364632
 url: /index.php/2013/05/19/kultursokk-es-honvagy-napok/
 permalink: /index.php/2013/05/19/kultursokk-es-honvagy-napok/
 tags: [énblog, magyarország, svédország]

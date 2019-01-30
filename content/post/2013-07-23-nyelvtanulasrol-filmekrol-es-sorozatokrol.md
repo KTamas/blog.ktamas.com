@@ -5,7 +5,6 @@ categories:
 date: 2013-07-23 11:20:45
 guid: http://blog.ktamas.com/?p=2364994
 id: 2364994
-disqus_identifier: 2364994
 url: /index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/
 permalink: /index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/
 tags: [énblog, film, sorozat, svédország]

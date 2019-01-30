@@ -5,7 +5,6 @@ categories:
 date: 2013-02-18 21:00:47
 guid: http://blog.ktamas.com/?p=2363767
 id: 2363767
-disqus_identifier: 2363767
 url: /index.php/2013/02/18/nem-talalok-jo-cimet-hetfo/
 permalink: /index.php/2013/02/18/nem-talalok-jo-cimet-hetfo/
 tags: [énblog, svédország]

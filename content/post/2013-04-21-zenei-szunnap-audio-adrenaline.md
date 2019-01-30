@@ -5,7 +5,6 @@ categories:
 date: 2013-04-21 21:05:02
 guid: http://blog.ktamas.com/?p=2364441
 id: 2364441
-disqus_identifier: 2364441
 url: /index.php/2013/04/21/zenei-szunnap-audio-adrenaline/
 permalink: /index.php/2013/04/21/zenei-szunnap-audio-adrenaline/
 tags: [zene]

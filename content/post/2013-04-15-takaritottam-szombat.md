@@ -5,7 +5,6 @@ categories:
 date: 2013-04-15 15:27:24
 guid: http://blog.ktamas.com/?p=2364375
 id: 2364375
-disqus_identifier: 2364375
 url: /index.php/2013/04/15/takaritottam-szombat/
 permalink: /index.php/2013/04/15/takaritottam-szombat/
 tags: [énblog, svédország]

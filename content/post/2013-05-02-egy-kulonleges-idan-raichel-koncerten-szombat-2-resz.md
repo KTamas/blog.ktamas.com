@@ -5,7 +5,6 @@ categories:
 date: 2013-05-02 12:28:08
 guid: http://blog.ktamas.com/?p=2364524
 id: 2364524
-disqus_identifier: 2364524
 url: /index.php/2013/05/02/egy-kulonleges-idan-raichel-koncerten-szombat-2-resz/
 permalink: /index.php/2013/05/02/egy-kulonleges-idan-raichel-koncerten-szombat-2-resz/
 tags: [énblog, svédország, zene]

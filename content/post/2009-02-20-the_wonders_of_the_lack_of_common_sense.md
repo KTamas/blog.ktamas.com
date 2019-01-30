@@ -5,7 +5,6 @@ categories:
 date: 2009-02-20 16:45:44
 guid: http://ktamas.blog.hu/2009/02/20/the_wonders_of_the_lack_of_common_sense
 id: 1769329
-disqus_identifier: 1769329
 url: /index.php/2009/02/20/the_wonders_of_the_lack_of_common_sense/
 permalink: /index.php/2009/02/20/the_wonders_of_the_lack_of_common_sense/
 tags: [linux, wtf]

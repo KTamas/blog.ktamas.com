@@ -5,7 +5,6 @@ categories:
 date: 2013-03-05 09:36:37
 guid: http://blog.ktamas.com/?p=2363922
 id: 2363922
-disqus_identifier: 2363922
 url: /index.php/2013/03/05/talalkoztam-az-elodommel-hetfo/
 permalink: /index.php/2013/03/05/talalkoztam-az-elodommel-hetfo/
 tags: [énblog, svédország]

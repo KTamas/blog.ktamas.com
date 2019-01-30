@@ -5,7 +5,6 @@ categories:
 date: 2013-01-16 22:33:10
 guid: http://blog.ktamas.com/?p=2363451
 id: 2363451
-disqus_identifier: 2363451
 url: /index.php/2013/01/16/ktamas-svedorszagba-megy-0-resz-foleg-penz-meg-random-dolgok/
 permalink: /index.php/2013/01/16/ktamas-svedorszagba-megy-0-resz-foleg-penz-meg-random-dolgok/
 tags: [énblog, svédország]

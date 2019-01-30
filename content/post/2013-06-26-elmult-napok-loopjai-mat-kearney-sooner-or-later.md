@@ -5,7 +5,6 @@ categories:
 date: 2013-06-26 14:25:04
 guid: http://blog.ktamas.com/?p=2364886
 id: 2364886
-disqus_identifier: 2364886
 url: /index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/
 permalink: /index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/
 tags: [napiloop, zene]

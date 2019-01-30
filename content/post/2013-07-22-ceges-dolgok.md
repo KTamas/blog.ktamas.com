@@ -5,7 +5,6 @@ categories:
 date: 2013-07-22 10:30:25
 guid: http://blog.ktamas.com/?p=2364990
 id: 2364990
-disqus_identifier: 2364990
 url: /index.php/2013/07/22/ceges-dolgok/
 permalink: /index.php/2013/07/22/ceges-dolgok/
 tags: [énblog, svédország, vállalkozunk]

@@ -5,7 +5,6 @@ categories:
 date: 2013-07-13 11:37:15
 guid: http://blog.ktamas.com/?p=2364931
 id: 2364931
-disqus_identifier: 2364931
 url: /index.php/2013/07/13/a-tarsasjatekozasrol/
 permalink: /index.php/2013/07/13/a-tarsasjatekozasrol/
 tags: [énblog, svédország, társasjáték]

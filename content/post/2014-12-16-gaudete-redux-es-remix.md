@@ -5,7 +5,6 @@ categories:
 date: 2014-12-16 12:07:03
 guid: http://blog.ktamas.com/?p=2365479
 id: 2365479
-disqus_identifier: 2365479
 url: /index.php/2014/12/16/gaudete-redux-es-remix/
 permalink: /index.php/2014/12/16/gaudete-redux-es-remix/
 tags: [napiloop, zene]

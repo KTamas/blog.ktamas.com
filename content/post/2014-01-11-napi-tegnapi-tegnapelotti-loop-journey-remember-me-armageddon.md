@@ -5,7 +5,6 @@ categories:
 date: 2014-01-11 09:15:08
 guid: http://blog.ktamas.com/?p=2365248
 id: 2365248
-disqus_identifier: 2365248
 url: /index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/
 permalink: /index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/
 tags: [film, napiloop, zene]

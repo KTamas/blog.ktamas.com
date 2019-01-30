@@ -5,7 +5,6 @@ categories:
 date: 2010-12-26 16:44:03
 guid: http://blog.ktamas.com/?p=2362352
 id: 2362352
-disqus_identifier: 2362352
 url: /index.php/2010/12/26/fanboysag/
 permalink: /index.php/2010/12/26/fanboysag/
 tags: [ajánló, doctorwho, sorozat]

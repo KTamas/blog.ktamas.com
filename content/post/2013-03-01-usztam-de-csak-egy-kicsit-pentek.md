@@ -5,7 +5,6 @@ categories:
 date: 2013-03-01 21:20:52
 guid: http://blog.ktamas.com/?p=2363903
 id: 2363903
-disqus_identifier: 2363903
 url: /index.php/2013/03/01/usztam-de-csak-egy-kicsit-pentek/
 permalink: /index.php/2013/03/01/usztam-de-csak-egy-kicsit-pentek/
 tags: [énblog, svédország]

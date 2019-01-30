@@ -5,7 +5,6 @@ categories:
 date: 2010-12-19 22:09:15
 guid: http://blog.ktamas.com/?p=2362342
 id: 2362342
-disqus_identifier: 2362342
 url: /index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/
 permalink: /index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/
 tags: [demo, random, zene]

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150320799785146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"124071459101478912";}}
 guid: http://blog.ktamas.com/?p=2362745
 id: 2362745
-disqus_identifier: 2362745
 url: /index.php/2011/10/12/benne-vagyok-az-internetben-meetup/
 permalink: /index.php/2011/10/12/benne-vagyok-az-internetben-meetup/
 tags: [előadás, énblog, szakma]

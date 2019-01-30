@@ -5,7 +5,6 @@ categories:
 date: 2014-01-31 10:53:21
 guid: http://blog.ktamas.com/?p=2365271
 id: 2365271
-disqus_identifier: 2365271
 url: /index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/
 permalink: /index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/
 tags: [énblog, fotózás, svédország]

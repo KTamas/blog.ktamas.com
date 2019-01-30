@@ -5,7 +5,6 @@ categories:
 date: 2013-04-05 10:12:54
 guid: http://blog.ktamas.com/?p=2364285
 id: 2364285
-disqus_identifier: 2364285
 url: /index.php/2013/04/05/napi-eloado-avishai-cohen/
 permalink: /index.php/2013/04/05/napi-eloado-avishai-cohen/
 tags: [zene]

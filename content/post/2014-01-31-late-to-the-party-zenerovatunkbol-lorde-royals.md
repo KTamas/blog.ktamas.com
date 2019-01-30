@@ -5,7 +5,6 @@ categories:
 date: 2014-01-31 11:31:48
 guid: http://blog.ktamas.com/?p=2365294
 id: 2365294
-disqus_identifier: 2365294
 url: /index.php/2014/01/31/late-to-the-party-zenerovatunkbol-lorde-royals/
 permalink: /index.php/2014/01/31/late-to-the-party-zenerovatunkbol-lorde-royals/
 tags: [zene]

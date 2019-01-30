@@ -5,7 +5,6 @@ categories:
 date: 2009-09-03 14:18:37
 guid: http://ktamas.blog.hu/2009/09/03/szitazatlan_usb_s_ibm_billentyuzet_lav
 id: 1769451
-disqus_identifier: 1769451
 url: /index.php/2009/09/03/szitazatlan_usb_s_ibm_billentyuzet_lav/
 permalink: /index.php/2009/09/03/szitazatlan_usb_s_ibm_billentyuzet_lav/
 tags: [keyboard]

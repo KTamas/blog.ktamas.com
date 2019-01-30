@@ -5,7 +5,6 @@ categories:
 date: 2009-03-06 12:55:00
 guid: http://ktamas.blog.hu/2009/03/06/marciusi_meetup_kepek
 id: 1769342
-disqus_identifier: 1769342
 url: /index.php/2009/03/06/marciusi_meetup_kepek/
 permalink: /index.php/2009/03/06/marciusi_meetup_kepek/
 tags: [fotózás]

@@ -5,7 +5,6 @@ categories:
 date: 2013-02-10 20:39:50
 guid: http://blog.ktamas.com/?p=2363691
 id: 2363691
-disqus_identifier: 2363691
 url: /index.php/2013/02/10/es-lassan-vege-a-vasarnapnak-is/
 permalink: /index.php/2013/02/10/es-lassan-vege-a-vasarnapnak-is/
 tags: [énblog, svédország]

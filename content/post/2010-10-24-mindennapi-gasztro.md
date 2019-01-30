@@ -5,7 +5,6 @@ categories:
 date: 2010-10-24 15:36:34
 guid: http://blog.ktamas.com/?p=2362309
 id: 2362309
-disqus_identifier: 2362309
 url: /index.php/2010/10/24/mindennapi-gasztro/
 permalink: /index.php/2010/10/24/mindennapi-gasztro/
 tags: [ajánló, gasztro]

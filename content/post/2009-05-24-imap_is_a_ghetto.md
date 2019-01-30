@@ -5,7 +5,6 @@ categories:
 date: 2009-05-24 12:16:24
 guid: http://ktamas.blog.hu/2009/05/24/imap_is_a_ghetto
 id: 1769389
-disqus_identifier: 1769389
 url: /index.php/2009/05/24/imap_is_a_ghetto/
 permalink: /index.php/2009/05/24/imap_is_a_ghetto/
 tags: [imap, linux, mail]

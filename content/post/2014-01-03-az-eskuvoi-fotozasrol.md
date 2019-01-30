@@ -5,7 +5,6 @@ categories:
 date: 2014-01-03 09:12:03
 guid: http://blog.ktamas.com/?p=2365239
 id: 2365239
-disqus_identifier: 2365239
 url: /index.php/2014/01/03/az-eskuvoi-fotozasrol/
 permalink: /index.php/2014/01/03/az-eskuvoi-fotozasrol/
 tags: [énblog, fotózás, svédország]

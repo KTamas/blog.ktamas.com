@@ -5,7 +5,6 @@ categories:
 date: 2009-01-06 13:56:54
 guid: http://ktamas.blog.hu/2009/01/06/az_fotozasrul_avagy_fotozni_jo
 id: 1769303
-disqus_identifier: 1769303
 url: /index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/
 permalink: /index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/
 tags: [fotózás]

@@ -5,7 +5,6 @@ categories:
 date: 2013-05-03 18:01:27
 guid: http://blog.ktamas.com/?p=2364512
 id: 2364512
-disqus_identifier: 2364512
 url: /index.php/2013/05/03/technika-vasarnap/
 permalink: /index.php/2013/05/03/technika-vasarnap/
 tags: [énblog, svédország]

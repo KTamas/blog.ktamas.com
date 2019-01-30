@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150179313210146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"68320754462240768";}}
 guid: http://blog.ktamas.com/?p=2362516
 id: 2362516
-disqus_identifier: 2362516
 url: /index.php/2011/05/11/we-interrupt-our-regularly-scheduled-programming-to-bring-you-this-very-important-image/
 permalink: /index.php/2011/05/11/we-interrupt-our-regularly-scheduled-programming-to-bring-you-this-very-important-image/
 tags: [énblog, mac]

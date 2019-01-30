@@ -5,7 +5,6 @@ categories:
 date: 2013-03-23 09:34:16
 guid: http://blog.ktamas.com/?p=2364107
 id: 2364107
-disqus_identifier: 2364107
 url: /index.php/2013/03/23/ez-itt-nem-a-reklam-helye-najo-egy-kicsit-akcios-a-ynab/
 permalink: /index.php/2013/03/23/ez-itt-nem-a-reklam-helye-najo-egy-kicsit-akcios-a-ynab/
 tags: [random]

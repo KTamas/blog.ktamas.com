@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150844483555146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:19:"2.1141540035168E+17";}}
 guid: http://blog.ktamas.com/?p=2363152
 id: 2363152
-disqus_identifier: 2363152
 url: /index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/
 permalink: /index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/
 tags: [napiloop, zene]

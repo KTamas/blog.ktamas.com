@@ -5,7 +5,6 @@ categories:
 date: 2013-07-13 16:03:16
 guid: http://blog.ktamas.com/?p=2364935
 id: 2364935
-disqus_identifier: 2364935
 url: /index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/
 permalink: /index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/
 tags: [napiloop, zene]

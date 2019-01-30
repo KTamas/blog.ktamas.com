@@ -5,7 +5,6 @@ categories:
 date: 2013-04-16 10:23:39
 guid: http://blog.ktamas.com/?p=2364380
 id: 2364380
-disqus_identifier: 2364380
 url: /index.php/2013/04/16/fodrasz-vasarnap/
 permalink: /index.php/2013/04/16/fodrasz-vasarnap/
 tags: [énblog, svédország]

@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150175921280146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"66847771617017856";}}
 guid: http://blog.ktamas.com/?p=2362357
 id: 2362357
-disqus_identifier: 2362357
 url: /index.php/2011/05/07/john-boutte-the-treme-song/
 permalink: /index.php/2011/05/07/john-boutte-the-treme-song/
 tags: [ajánló, sorozat, zene]

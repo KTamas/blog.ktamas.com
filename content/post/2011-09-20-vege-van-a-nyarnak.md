@@ -9,7 +9,6 @@ fb-status-updater-sn-reference:
   - a:1:{i:0;a:2:{i:0;s:7:"twitter";i:1;s:18:"116063345219604480";}}
 guid: http://blog.ktamas.com/?p=2362735
 id: 2362735
-disqus_identifier: 2362735
 url: /index.php/2011/09/20/vege-van-a-nyarnak/
 permalink: /index.php/2011/09/20/vege-van-a-nyarnak/
 tags: [random, zene]

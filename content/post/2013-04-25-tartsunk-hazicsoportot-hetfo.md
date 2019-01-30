@@ -5,7 +5,6 @@ categories:
 date: 2013-04-25 11:27:23
 guid: http://blog.ktamas.com/?p=2364468
 id: 2364468
-disqus_identifier: 2364468
 url: /index.php/2013/04/25/tartsunk-hazicsoportot-hetfo/
 permalink: /index.php/2013/04/25/tartsunk-hazicsoportot-hetfo/
 tags: [énblog, svédország]

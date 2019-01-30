@@ -5,7 +5,6 @@ categories:
 date: 2009-01-11 12:00:19
 guid: http://ktamas.blog.hu/2009/01/11/we_re_not_gonna_take_it
 id: 1769306
-disqus_identifier: 1769306
 url: /index.php/2009/01/11/we_re_not_gonna_take_it/
 permalink: /index.php/2009/01/11/we_re_not_gonna_take_it/
 tags: [zene]

@@ -5,7 +5,6 @@ categories:
 date: 2013-02-19 21:33:36
 guid: http://blog.ktamas.com/?p=2363774
 id: 2363774
-disqus_identifier: 2363774
 url: /index.php/2013/02/19/ujra-kondizunk-kedd/
 permalink: /index.php/2013/02/19/ujra-kondizunk-kedd/
 tags: [énblog, svédország]

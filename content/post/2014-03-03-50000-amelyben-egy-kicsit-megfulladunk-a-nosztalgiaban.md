@@ -5,7 +5,6 @@ categories:
 date: 2014-03-03 20:31:33
 guid: http://blog.ktamas.com/?p=2365334
 id: 2365334
-disqus_identifier: 2365334
 url: /index.php/2014/03/03/50000-amelyben-egy-kicsit-megfulladunk-a-nosztalgiaban/
 permalink: /index.php/2014/03/03/50000-amelyben-egy-kicsit-megfulladunk-a-nosztalgiaban/
 tags: [énblog]

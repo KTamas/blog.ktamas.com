@@ -5,7 +5,6 @@ categories:
 date: 2009-01-31 10:50:36
 guid: http://ktamas.blog.hu/2009/01/31/napi_kinzo_kerdes_4
 id: 1769319
-disqus_identifier: 1769319
 url: /index.php/2009/01/31/napi_kinzo_kerdes_4/
 permalink: /index.php/2009/01/31/napi_kinzo_kerdes_4/
 tags: [wtf]

@@ -5,7 +5,6 @@ categories:
 date: 2014-05-12 15:07:12
 guid: http://blog.ktamas.com/?p=2365434
 id: 2365434
-disqus_identifier: 2365434
 url: /index.php/2014/05/12/bezar-a-sharewood/
 permalink: /index.php/2014/05/12/bezar-a-sharewood/
 tags: [sharewood]
