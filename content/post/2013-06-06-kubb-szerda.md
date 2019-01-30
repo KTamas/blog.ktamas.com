@@ -1,0 +1,20 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-06-06 11:09:34
+guid: http://blog.ktamas.com/?p=2364734
+id: 2364734
+url: /index.php/2013/06/06/kubb-szerda/
+permalink: /index.php/2013/06/06/kubb-szerda/
+tags: [énblog, svédország]
+title: Kubb szerda
+---
+
+Este a házicsoportban elbúcsúztattuk a szlovák lányt, aki sajnos vasárnap délután hazautazik, emiatt az alkalom is kicsit kevésbé volt formális, beszélgettünk, elvoltunk, játszottunk. Talán már leírtam, hogy ennek a gyülekezetnek ez a legnagyobb előnye és hátránya is egyben: megismerkedhetsz egy csomó remek új emberrel, barátokat szerezhet, akik azonban sokszor csak pár hónapig vannak itt. 
+
+Apropó játszottunk: múlt héten szintén ugyanitt ismerkedtem meg a [Kubb](http://en.wikipedia.org/wiki/Kubb)-bal, ami egy egészen szórakoztató kültéri játék. A részletes szabályok fent vannak a wikipedián, de az alapok egyszerűek. A pályán öt-öt kubb (15 centi magas fahasáb) van két sorban egymással szemben, a kettő között félúton meg a király. Két csapat van, akik felváltva próbálják egy 30 centis henger alakú botot, szigorúan függőlegesen dobva ledönteni először a másik csapat kubbjait, majd legvégén a királyt. A csapat ledöntött kubbjait a kör elején át kell dobni az ellenfél térfelére, majd ott felállítva először azokat kell ledönteni, és csak utána lehet a többit.
+
+[<img src="/wp-content/uploads/2013/06/kubb.jpg" alt="kubb" width="600" height="455" class="aligncenter size-full wp-image-2364736" srcset="/wp-content/uploads/2013/06/kubb.jpg 600w, /wp-content/uploads/2013/06/kubb-300x227.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2013/06/kubb.jpg)
+
+Törzsgyökeres svéd játék egyébként, [Gotland](http://en.wikipedia.org/wiki/Gotland) szigetéről származik, ott rendezik minden évben a világbajnokságot.

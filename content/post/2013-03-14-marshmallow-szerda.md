@@ -1,0 +1,24 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-03-14 09:25:08
+guid: http://blog.ktamas.com/?p=2364030
+id: 2364030
+url: /index.php/2013/03/14/marshmallow-szerda/
+permalink: /index.php/2013/03/14/marshmallow-szerda/
+tags: [énblog, svédország]
+title: Marshmallow szerda
+---
+
+A szerdát azzal kezdtem, hogy elvesztem egy-két órára a [svéd nyelv](http://en.wikipedia.org/wiki/Swedish_language) [wikipedia](en.wikipedia.org/wiki/Swedish_grammar)&#8211;[szócikkjeiben](http://en.wikipedia.org/wiki/Swedish_phonology), mert mostanában egyre inkább érik bennem, hogy meg kéne tanulni. Így másfél hónap után elkezdtem apró nyelvmorzsákat felszedni, de leginkább csak megértek dolgokat, beszélni abszolút nem tudok, a kiejtés különöböző buktatóit sem tudom még teljesen. A mostani terv az, hogy egyrészt beszereztem egy Rosetta Stone-t, másrészt keresek valakit, aki hajlandó hetente párszor kávé mellett tanítani.
+
+A munkában délután majdnem megírtam egy új programot, ma még be kell fejeznem, mindenesetre haladunk. Sokkal fontosabb dolog, hogy a munkaidőm vége előtt pár perccel robbant a bomba, hogy [Kickstarter indul](http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project) egy Veronica Mars mozifilm elkészítésere, a nap további részben erősen vissza kellett fognom magam, hogy ne ugorjak ki a bőrömből, és tízpercenként néztem meg, hogy hol tart a számláló, mennyi pénz van már meg a dologból. Mikor lefeküdtem aludni, már másfél milliónál járt.<figure id="attachment_2364031" style="width: 612px" class="wp-caption aligncenter">
+
+[<img src="/wp-content/uploads/2013/03/e131e59c8bff11e2ab6822000a1fbc38_7.jpg" alt="félmilka, mindez kb. 2 órával az indulás után" width="612" height="612" class="size-full wp-image-2364031" srcset="/wp-content/uploads/2013/03/e131e59c8bff11e2ab6822000a1fbc38_7.jpg 612w, /wp-content/uploads/2013/03/e131e59c8bff11e2ab6822000a1fbc38_7-150x150.jpg 150w, /wp-content/uploads/2013/03/e131e59c8bff11e2ab6822000a1fbc38_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/03/e131e59c8bff11e2ab6822000a1fbc38_7.jpg)<figcaption class="wp-caption-text">félmilka, mindez kb. 2 órával az indulás után</figcaption></figure> 
+
+Aztán elmentem a Stockholmban meglátogatott scifiboltnak az itteni kirendeltségébe, ismét csorgattam a nyálam egy kört, volt például csinos TARDIS-os kulcstartó, meg minden, fogok még én ide visszajárni, az biztos.
+
+[<img src="/wp-content/uploads/2013/03/cd7ca1308bf611e2b4b422000a1f903d_7.jpg" alt="cd7ca1308bf611e2b4b422000a1f903d_7" width="612" height="612" class="aligncenter size-full wp-image-2364032" srcset="/wp-content/uploads/2013/03/cd7ca1308bf611e2b4b422000a1f903d_7.jpg 612w, /wp-content/uploads/2013/03/cd7ca1308bf611e2b4b422000a1f903d_7-150x150.jpg 150w, /wp-content/uploads/2013/03/cd7ca1308bf611e2b4b422000a1f903d_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/03/cd7ca1308bf611e2b4b422000a1f903d_7.jpg)
+
+Este pedig szokásás szerdai (ami hamarosan változni fog) cell group volt a gyülekezetben, megnéztünk és kibeszéltünk [két](https://www.youtube.com/watch?feature=player_embedded&v=KGlx11BxF24) [videót](https://www.youtube.com/watch?v=K942zo_QTkI), valamint megtudtam, hogy itt a szemészek általában magánpraxisban vannak, úgyhogy még ha lenne is svéd TB-m, akkor is fizetnem kéne, szóval most kicsit dilemmába vagyok, mert nem csak lehet, hogy új szemüveg kell, hanem más miatt is meg kéne nézetni a szemem. Ezenfelül megismerkedtem megint 1-2 emberrel és úgy általában jó volt megint társaságban lenni.

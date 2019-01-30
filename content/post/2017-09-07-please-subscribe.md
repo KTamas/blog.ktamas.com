@@ -1,0 +1,15 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2017-09-07 14:09:02
+guid: http://blog.ktamas.com/?p=2365635
+id: 2365635
+url: /index.php/2017/09/07/please-subscribe/
+permalink: /index.php/2017/09/07/please-subscribe/
+title: Please Subscribe
+---
+
+[A Reader lecsapja a megosztásokat](http://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/). [Hivemined remények](http://blog.ktamas.com/index.php/2011/11/04/kontentmegosztas/). [Linkblogok indulnak](http://blog.ktamas.com/index.php/2012/01/23/kontentmegosztas-redux-tamadnak-a-linkblogok-come-and-join-the-revolution/). [Megszületik a Sharewood](http://blog.ktamas.com/index.php/2012/01/30/sharewood-hu-kontentmegosztas-harmadik-resz/). [Bezár a Reader](http://blog.ktamas.com/index.php/2013/03/14/kinyirtak-a-readert-csutortok/). [Bezár a Posterous, és amúgy is megyünk Newsblurre](http://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/). [Bezár a Sharewood](http://sharewoodgephaz.tumblr.com/post/85517500870/bezar-a-sharewood). [Linkblog: 2016-06-22(ish)](http://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-22ish/). [Linkblog: 2016-06-23](http://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-23/). [Uj linkblog.](http://blog.ktamas.com/index.php/2016/11/06/google-reader-rewired-my-brain-sorry-not-sorry/)
+
+Tovább igyekszek fejlődni kontentmegosztásban, így indítottam egy tinylettert, amire [itt lehet feliratkozni](http://tinyletter.com/ktamas). A legelső level ízelítőnek [itt található](http://tinyletter.com/KTamas/letters/sharing-anxiety). Iratkozzatok fel, jó lesz.

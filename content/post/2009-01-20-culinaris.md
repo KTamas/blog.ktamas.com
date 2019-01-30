@@ -1,0 +1,22 @@
+---
+author: KTamas
+categories:
+  - Export
+date: 2009-01-20 17:46:03
+guid: http://ktamas.blog.hu/2009/01/20/culinaris
+id: 1769315
+url: /index.php/2009/01/20/culinaris/
+permalink: /index.php/2009/01/20/culinaris/
+tags: [gasztro]
+title: Culinaris
+---
+
+Szóval mi az a <a href="http://www.culinaris.hu/" target="_blank">Culinaris</a>? Egy (igazábol mostmár három) bolt, ahol mindenféle importkaját/piát lehet kapni a világ legkülönbözőbb pontjairól. Mint az sejthető, nem éppen egy olcsó hely, de néha-néha bemenni egy-egy finomságért abszolút megéri azoknak akik egy kicsit is gasztrobuzik (pl. én). A tegnapi bevásárlás eredménye:
+
+  * 1 doboz Strawberry Milk. Kicsit hülye hasonlat, de olyan, mint az instant kakaó, csak eperízű, mostanában rászoktam, amivel az a baj, hogy egy doboz kb. egy hétig tart nálam, lévén nagy tejivó vagyok (ahogy az egész család)
+  * 1 üveg Almdudler. Ezt asszem 10-15 éve itthon is lehett kapni de aztán eltűnt a boltok polcairól&#8230;szóval _gyömbér done right,_ ilyen mindenféle gyógynövény van benne.
+  * 3 doboz Cup Noodles. Olyasmi, mint a boltba kapható Smack / Visom etc. távolkeleti instant tésztáslevesek, csak jobb, és ez tényleg kész van forró vízzel és 2 perc alatt
+  * 15 dkg Cheddar sajt. Igazából valami fiatalabbfajta Goudát kerestem de azt ők nem tartanak (bűn!). Úgyhogy Cheddar lett, ez azonban menni fog a reggeli tojásrántottákba, amiben igen jó (tegnap este tesztelük)
+  * Daim csoki: Az McD fagyiját lehet ilyen ízesítéssel kapni, tömény mandula-karamell-tejcsoki keverék, remélem nem kell részltezni miért jó ez D:
+
+Amit most kivételesen nem vettem mert még volt otthon, de általában szoktam az az Oreo, ami kis túlzással az amerikai nemzeti pilótakeksz: csokis kekszek között tejes krém. Az Oreo kötelező jelleggel hideg tejjel fogyasztandó.

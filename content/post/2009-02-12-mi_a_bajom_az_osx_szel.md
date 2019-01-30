@@ -1,0 +1,48 @@
+---
+author: KTamas
+categories:
+  - Export
+date: 2009-02-12 19:34:43
+guid: http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel
+id: 1769322
+url: /index.php/2009/02/12/mi_a_bajom_az_osx_szel/
+permalink: /index.php/2009/02/12/mi_a_bajom_az_osx_szel/
+tags: [mac, switch, win7, windows]
+title: Mi a bajom az OSX-szel?
+---
+
+Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel. 
+
+**Miért** 
+
+Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon faszán megcsinált UI-t, valamint egy nagyon jó kis POSIX-implementációt a darwin személyében. Egy mozdulattal előhívhatjuk a Terminalt, és kedvünkre futtathatjuk kedvenc *nixes tooljainkat, programjainkat, ezáltal ideális platform jópár programnyelvhez is. Van nem egy killer app is rá (pl. Textmate), és alapjába vége egy gyors és tényleg felhasználóbarát rendszer. A hardvernek is vannak pozitív oldalai, a kétujjas görgetés például a világ egyik legjobb dolga, és a macbook touchpadja messze, messze felette van bármi más notiénak, foleg OSX alatt (Boot Camp alatt egy másik történet, az Apple baszik rendes wines drivereket írni, valszeg nem veletlen). De. 
+
+**Miért ne?** 
+
+Mint már említettem: az UI-t nagyon egérre tervezték. Én viszont billentyűzetbuzi vagyok. Természetsen sokmindent lehet csinálni egér nélkül, a menüt elő lehet venni ctrl+f2-vel (vagy megtanulhatod az összes program billkombóit, de mindegyik rendszerint saját logikát követ egy ponton túl), a dockhoz asszem ctrl+f3 van, meg ott a quicksilver, mégse tűnik annyira természetesnek mint mondjuk egy alt+f+a a wordben. És Windowsba, ha kell, aztán tényleg majdnem mindent meg lehet csinálni egérmentesen. Tudom, megszokás kérdése, de én több, mint egy év alatt nem tudtam igazan megszokni az OSX-nek ezt a részét. 
+
+Másrészt. Nincs egy normális fájlkezelő. Najó, kimondom: nincs rá Total Commander. Vannak programok, amik valamilyen szinten közelítenek, de egy sem adja meg azt a _flow-t,_ ami megvan a Total Commanderrel nekem, márpedig az a program win alatt nekem nagyjából non-stop fut és szerves részét képezi az életemnek meg a munkámnak. A Finder valamivel jobb, mint pl. a vanilla windowsos Explorer, de mégis, fájt a szívem használni akárhányszor leültem mondjuk a munkahelyi gépem után. 
+
+Ritkán esik szól a teljesen el&#8217;szott _mouse curve_-ról, ami touchpadnál egyáltalán nem zavaró, de rendes egérnél NAGYON: olyan, mintha valami sűrű mocsáron keresztül kéne húznod a kurzort, laaaaassú, nem gyorsul eléggé. Ezt részben orvosolni lehet bizonyos third-party cuccokkal, de sose lesz olyan, mint Win alatt. 
+
+Hardveres oldalon: a glossy képernyő. Nem, nem, nem és nem, nem érdekel hogy _vivid colors, higher contrast,_ meg szeretik a júzerek, __meg minden, de nem a saját arcomat akarom látni a képernyőn mikor a nap valamiért rásüt a képernyőre. Egyszerűen nem és kész. És mostmár lassan minden laptopba ezt rakják, sőt, ami rosszabb, már az iMacekbe is. 
+
+Nem tudom, hogy hardveres vagy szoftveres baj volt-e, de sosem sikerült normálisan lejátsznanom HD felbontású videókat rendesen, vagy szaggatak, vagy a kép meg a hang csúszott el, mindig volt valami. Win alatt MPC HomeCinema, FFDShow, CoreAVC, szevasztok. 
+
+Ezenfelül nincs rendes Torrent kliens. A Transmission egy <a href="http://trac.transmissionbt.com/ticket/1201" target="_blank">aranyos bug</a> miatt kiesik (szétfagyasztja a rendszert bizonyos gépeken, az enyémen is ezt tette), és az uTorrent erősen alfás még, marad a Vuze ami Javás, nagy, és lassú. 
+
+Ja, és Firefox. Van, de még mindig jelentősen lassabb a Webkit/Safarinál, amihez viszont nincsenek extensionok, csak pár kvázi-plugin változó minőséggel. 
+
+Plusz az egyetlen, jatek, amivel jatszani szoktam, Win-only&#8230; 
+
+**Postmortem** 
+
+Adtam megint egy esélyt az ubuntunak az x61s-en, sajnos megint megakadtam a korábban már a winden is előjövő videólejátszási bugon, miszerint vagy tearing van, vagy megy, de 10-ből egyszer el fog szállni az egész rendszer egy random színű képernyővel. Köszönjük szépen, majd ha lesz rendes Intel driver, megpróbáljuk újra, addig repül megint a /dev/nullba, én tényleg akarom szeretni ezt a desktop linux dolgot de ha egyszer. 
+
+És valaki mondja meg már nekik, hogy a naracssárga-barna kombó egyszerűen RONDA. Plusz ha a Gnomeba tennének valami normális Control Panelt&#8230; 
+
+**ATM** 
+
+Szóval most így vagyok, boldog Win7 júzer, bár lesz még egy hackintosh kitérő, mivel az adataim egy Time Machine backupban vannak, és Leo nélkül NAGYON problémás visszaállítani az adatokat. 
+
+Minden hibája ellenére továbbra is egy alapjába véve jó oprendszernek tartom az OSX-et (bár távolról se tökéletes lásd fentebb), lehet Snow Leo kap majd valamilyen módon egy esélyt, de a fenti okok miatt egyelőre nem hiszem, hogy egyhamar újra primary oprendszer lehetne. Tudom, a Win se tokeletes, de jelenleg teljesen megfelel, amire kell.

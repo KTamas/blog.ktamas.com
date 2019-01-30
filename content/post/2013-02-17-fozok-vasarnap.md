@@ -1,0 +1,64 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-02-17 19:39:23
+guid: http://blog.ktamas.com/?p=2363753
+id: 2363753
+url: /index.php/2013/02/17/fozok-vasarnap/
+permalink: /index.php/2013/02/17/fozok-vasarnap/
+tags: [énblog, svédország]
+title: Főzök vasárnap
+---
+
+Azt nem írtam meg tegnap, hogy kicsit takarítottam is végre, leginkább felsepertem a sok kis kavicsszerűséget, amikkel felszórják az utakat télen, és belemennek az ember cipőtalpába, illetve a nadrágjának a felhajtókájába. Ez megmagyarázza azt is, miért van tele a [helyi craigslist](http://blocket.se/) Mountain Bike-okkal: az ennél vékonyabb kerekek ugyanis nagyon hamar defektet kapnak, annyira hegyesek ezek a kis kövek. Bár szerencsére eltakarítják őket tavasszal.
+
+Délelőtt elmentem a [New Life Göteborg](http://www.newlife.nu/index.php?option=com_content&view=frontpage&Itemid=310&lang=en)ba, és bár a gyülekezet igehirdetés része hagyott némi kivánnivalót maga után, a közösség nagyon megtetszett, főleg, mert van egy jó adag korombeli ember. A végén félig-meddig be is szerveztek az angol nyelvű _cell group_ba, szerdán valószínű megyek hozzájuk, vagy éppen velük, tollasozni meg bowlingozni, ez még megbeszélés alatt van.
+
+Hazafele bevásároltam, és úgy döntöttem, főzők Bolognai Spagettit: megvan ugyanis a recept ahhoz, amit anno amerikában ettem, be is kopizom nektek, megtaláljátok a poszt végén.
+
+[<img src="/wp-content/uploads/2013/02/959b76ee790711e2b20722000a1f97fa_7.jpg" alt="959b76ee790711e2b20722000a1f97fa_7" width="612" height="612" class="aligncenter size-full wp-image-2363756" srcset="/wp-content/uploads/2013/02/959b76ee790711e2b20722000a1f97fa_7.jpg 612w, /wp-content/uploads/2013/02/959b76ee790711e2b20722000a1f97fa_7-150x150.jpg 150w, /wp-content/uploads/2013/02/959b76ee790711e2b20722000a1f97fa_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/02/959b76ee790711e2b20722000a1f97fa_7.jpg)
+
+Ez volt a harmadik próbálkozásom a reprodukálására, és úgy érzem, a legsikeresebb: bár még mindig messze van a tökéletestől &#8212; túl édes lett, elfelejtettem parmezánt venni hozzá, és még mindig nem álltak össze igazán az ízek &#8212; de mintha jó irányba haladnánk.
+
+[<img src="/wp-content/uploads/2013/02/f9a8261c790e11e2a9de22000a1f92c9_7.jpg" alt="f9a8261c790e11e2a9de22000a1f92c9_7" width="612" height="612" class="aligncenter size-full wp-image-2363757" srcset="/wp-content/uploads/2013/02/f9a8261c790e11e2a9de22000a1f92c9_7.jpg 612w, /wp-content/uploads/2013/02/f9a8261c790e11e2a9de22000a1f92c9_7-150x150.jpg 150w, /wp-content/uploads/2013/02/f9a8261c790e11e2a9de22000a1f92c9_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/02/f9a8261c790e11e2a9de22000a1f92c9_7.jpg)
+
+Holnap pedig hétfő, kezdődik több projekt is a munkában, jó lesz.
+
+* * *
+
+**Bolognai recept**
+
+> For 6 people
+> 
+> 1 lbs (1/2 kilograms) of ground beef.
+  
+> one 15 ounce (425 grams) can tomato sauce.
+  
+> one 6 ounce (170 grams) can of tomato paste.
+  
+> 1 clove of minced garlic.
+  
+> 3 teaspoons of dried onion powder, or 2 pieces or scallion/green onion minced.
+  
+> 2 teaspoons of dried basil or about 5 fresh basil leaves finely chopped.
+  
+> 1/2 teaspoon of dried oregano.
+  
+> 1,5-2 teaspoons of white granulated sugar.
+  
+> Black pepper to taste.
+  
+> 1/4 cup or 2 ounces (56 grams) of parmesan shredded cheese.
+  
+> 1 tablespoon of olive oil.
+  
+> A pinch of baking soda. the tiny amount helps to neutralize some of
+  
+> the acidity, but too much will make the sauce taste like soup. Better
+  
+> too little baking soda than too much.
+> 
+> First cook the meat the add the rest of the ingredients and microwave
+  
+> or simmer for a 5-7 minutes just to meld the the flavors together.

@@ -9,7 +9,7 @@
 -------------------------------------------------------------------------------
 
 {{ .Site.Params.bug }} {{ .Date.Format "Monday, 2 Jan 2006"}}
-By {{ with (or .Params.author.name .Site.Author.name) }}{{ . }}{{ end }}{{ with .Params.via }}
+By {{ with .Site.Author.name }}{{ . }}{{ end }}{{ with .Params.via }}
 Via [{{ .name }}]({{ .href }}{{ with .title }} "{{ . }}"{{ end }}){{ end }}
 {{ .Permalink }}{{ with .Params.tags }}
 {{- $.Scratch.Set "taglen" 0 }}

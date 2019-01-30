@@ -1,0 +1,24 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-04-15 15:27:24
+guid: http://blog.ktamas.com/?p=2364375
+id: 2364375
+url: /index.php/2013/04/15/takaritottam-szombat/
+permalink: /index.php/2013/04/15/takaritottam-szombat/
+tags: [énblog, svédország]
+title: Takarítottam szombat
+---
+
+Szombaton egész nap takarítottam. Gyertek vissza holnap valami érdekesebb posztért.
+
+Najó, nem, szóval _az úgy volt_, hogy este születésnapi buliba mentünk házicsoportilag, ami ráadásul tematikus volt: valami cirkuszosnak kellett beöltözni. Jelmezem egyáltalán nem volt, ellenben napokkal korábban kiderült, hogy Julia, a csoportvezető felesége tud arcot festeni.Úgy döntöttünk, hogy akkor a parti előtt nálam találkozunk, itt mindenki megkapja a megfelelő állatot az arcára, és úgy megyunk át együtt a szülinaposokhoz. Azért nálam, mert egyrészt én laktam a legközelebb a helyhez, másrészt ez egy jó motiváció volt arra, hogy nagyjából két hónap után kitakarítsak.
+
+<del>Ez az első lakásom, ami poros.</del> _Update: Gazs felvilágosított, hogy az előző kettő is az volt, szóval módosítanám a dolgot arra, hogy ez az első lakásom, aminél nem tudom lefizetni az egyik hugomat, hogy takarítson helyettem zsebpénzért._ Mindenhol. A seprűvel nem is igazán koszt söportem fel a padlóról, hanem masszív pormacskákat, ami elég frusztráló, de ez van, ezt kell szeretni. A többórás művelet legvégén kiöntött felmosóvíz színe konvergált a fekete felé, szóval úgy érzem, valóban szükséges volt már a dolog.
+
+Aztán megjöttek a vendégek, mindenki ki lett festve, és átvonultunk a két villamosmegállóra lévő partira, ami egy iszonyat régi és iszonyat nagy házban volt tartva, mindenféle furcsábbnál furcsább dekorációkkal. Volt ellenben jó társaság, színes sütemények, zseléfelesek (jello shots) és emberek furcsábbnál furcsább jelmezekben.
+
+Zárásképpen berakom önmagamat, oroszlánként, egyszer ezt kis ki kellett próbálni:
+
+[<img class="aligncenter size-full wp-image-2364376" alt="faaed9d0a45a11e2899a22000a9f4dc8_7" src="/wp-content/uploads/2013/04/faaed9d0a45a11e2899a22000a9f4dc8_7.jpg" width="612" height="612" srcset="/wp-content/uploads/2013/04/faaed9d0a45a11e2899a22000a9f4dc8_7.jpg 612w, /wp-content/uploads/2013/04/faaed9d0a45a11e2899a22000a9f4dc8_7-150x150.jpg 150w, /wp-content/uploads/2013/04/faaed9d0a45a11e2899a22000a9f4dc8_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/04/faaed9d0a45a11e2899a22000a9f4dc8_7.jpg)

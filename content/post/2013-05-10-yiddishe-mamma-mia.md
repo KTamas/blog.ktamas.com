@@ -1,0 +1,28 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-05-10 14:28:05
+guid: http://blog.ktamas.com/?p=2364590
+id: 2364590
+url: /index.php/2013/05/10/yiddishe-mamma-mia/
+permalink: /index.php/2013/05/10/yiddishe-mamma-mia/
+tags: [kaja]
+title: Yiddishe Mamma Mia
+---
+
+Úgy gondoltam, hogy ez az étterem megérdemel egy külön irományt <del datetime="2013-05-10T12:08:25+00:00">(leginkább, mert elfelejtettem megírni az előző posztba)</del>. Még szerdán voltunk a [Yiddishe Mamma Mia](http://ymmrestaurant.com) nevű étteremben pár jelenlegi és pár volt kollégával (és jelenlegi baráttal), és egy hatalmas élmény volt. 
+
+Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar _fúziós konyha_ (tudom, sznobul hangzik). Van tehát mindenféle tészta, a húsoknál jogosan túlreprezentált a liba, és még ki tudja, mennyiféle étel, jó sok oldalból áll [a menüjük](http://ymmrestaurant.com/?page_id=14), nagyon széles a választék, érdemes végigböngészni.
+
+A csapat egyik fele sóletet evett, abból is a drágább, &#8220;Rotschild&#8221; verziót: ez köretnek ad egész libacombot, tömött libanyakat, marhanyelvet és egy egész főtt tojást. Az ételről alapvetően csak szuperlatívuszokban tudok nyilatkozni: ilyen finom sóletet én még nem ettem. Tegyük azt hozzá, hogy kis mintából dolgozok, a másik hely, ahol volt alkalmam erre, az a [Kádár étkezde](http://varosban.blog.hu/2012/05/15/a_legjobb_magyaros_budapesten_kadar_etkezde) volt a klauzál téren, ahol minden szombaton a menü szerves része: ott is nagyon finom volt (plusz alapvetően ebédelőhely, szóval olcsóbb), de ez egy kategóriával egyértelműen feljebb volt.
+
+A többiek változatosabban ettek, volt sült libacomb, rántott libamáj, vagy éppen paradicsomos-kecskesajtos-bélszínes tészta: ez utóbbit megkóstoltam, és a saját legnagyobb meglepetésemre szintén nagyon ízlett.
+
+Nagyon nehezen tudok negatív dolgokat felhozni, a pincér által ajánlott vörösbor alapvetően nem jött be, de ez is inkább csak izlésbeli dolog, mert mindenképpen minőségi volt.
+
+A hely semmiképpen sem olcsó: egy főétel átlagosan 3-4 ezer forint között mozog, de minden egyes fillérjét megéri. Képeket sajnos nem csináltam, mert elég sötét volt már ahhoz, valamint túlságosan is el voltam foglalva a társasággal meg az étellel.
+
+Azt nézem viszont most, hogy [van ebédmenüjük](http://ymmrestaurant.com/?page_id=25), szóval aki a környéken dolgozik, annak még az is opció lehet pluszba.
+
+_(disclosure: ezért a posztért nem fizetett nekem senki. sajnos.)_

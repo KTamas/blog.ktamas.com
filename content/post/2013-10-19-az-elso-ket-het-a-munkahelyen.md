@@ -1,0 +1,30 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-10-19 20:40:38
+guid: http://blog.ktamas.com/?p=2365199
+id: 2365199
+url: /index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/
+permalink: /index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/
+tags: [énblog, munka, svédország]
+title: Az első két hét a munkahelyen
+---
+
+_(igen megint ugrottunk az időben, ezvan.)_
+
+Az első két hét az új munkahelyen leginkább úgy telt, mint az első két hét az országban: az idő sokkal lassabban telt érzésre. Figyelembe véve, hogy ez volt az eddigi legnagyobb váltás a karrieremben, azt hiszem, ez normális.
+
+Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is [a semmi közepén](https://www.google.com/maps/preview#!q=Kr%C3%A5ketorpsgatan+26%2C+M%C3%B6lndal%2C+Sverige&data=!1m4!1m3!1d30200!2d12.0071262!3d57.6497729!4m15!2m14!1m13!1s0x464ff21e30ccf45b%3A0xb7338839f04112bd!3m8!1m3!1d23059126!2d-95.677068!3d37.0625!3m2!1i1280!2i679!4f13.1!4m2!3d57.6362189!4d12.0289487), pontosabban egy olyan környéken, ahol sok más cégnek is van irodája (a legnagyobb azt hiszem az AstraZeneca, saját buszmegállójuk van). Ennek a hátránya, hogy a legközelebbi buszmegálló cirka 900 méter, a környéken kevés kajálda van (és ami van, az is rossz), és úgy általában, a semmi közepe, na. Szerencsére mindig van valaki, aki kimegy ebédelni, és az emberek legalább felének van kocsija, akihez be lehet társulni. A semmi közepe ellenére fél óra alatt be tudok érni, szóval igazából nem panaszkodhatok.
+
+A cég minden tekintetben más: egyrészt kisebb, ha jól számoltam, mindenkivel együtt 17 ember, és ebből kettő az alapító emberek. Bár nincs explicit kettéosztva, mindenképpen van egy viszonylag nagy választóvonal: a főleg programozók, meg a főleg rendszergazda-support-satöbbi. Az előbbiek vannak túlnyomó többségben, ők dolgoznak az egyik főnökkel. Én az utóbbiba kerültem, viszonylag kis csapatba: van egy főleg hardveres srác, aki az ügyfelekhez jár ki sokat felszerelni dolgokat, van egy elsővonalbeli supportos, aki felveszi a telefont, megoldja a problémákat, a többit pedig továbbirányítja Rickardhoz, az én főnökömhöz, a másik alapítóhoz, aki pedig mostanában egyre több dolgot irányít hozzám. Ez persze egy hatalmas egyszerűsítés, valamint mindenki ért nagyosokmindenhez, de a fő munkakörök valahogy így vannak nagyon nagyjából elosztva. Mindenképp érdemes megjegyezni demográfiailag, hogy az irodában gyakorlatilag csak férfiak vannak, ami nekem iszonyat furcsa és új, mert eddig csak olyan munkahelyem volt, ahol a nők voltak többségben. Ez persze ebben az iparágban &#8212; sajnos &#8212; érthető.
+
+A munkából nagyon sok van, elvégre majdnem minden kiszámlázott kliensmeló, ellenben egyelőre iszonyat változatosak és egy csomó mindent tanultam: az első két hétben csináltam mindent az egyszerű géptelepítéstől, domainek mozgatásától kezdve mindenféle szervertermi feladatokon át odáig, hogy aktívan segédkeztem összerakni, majd beüzemelni az ügyfélnél egy sok szinten redundáns SAN-switchek-router-szerverek rendszert. Az ügyfélhez kiszállós részeket élvezem a legjobban, meglepően sok volt belőlük ebben a két hétben, és bár lehet, hogy valamennyit csökkenni fog, egészen biztosan nem fog eltűnni, pláne, ha szerzek egy jogsit.
+
+Már ha lesz rá energiám, mert rendszerint úgy érek haza este, hogy hullafáradt vagyok. Kvantitatív rég dolgoztam ennyit, vagyishát más jellegű munkahelyeim voltak eddig. Valahol jó érzés, valahol meg szokni kell. Túlóra nincs, sőt, szigorúan tiltott, kivéve, ha explicit van valami teendő (vö. az ügyfél kifizeti). Ilyen volt is a héten, egyik este egy szervertermet kezdtünk rendberakni, kiszedtünk belőle egy rakat már nem használt hardvert, kábelt, aztán hamarosan újra is kábelezzük, mert még mindig elég káosz.
+
+Az IT-környezetről csak annyit, hogy minden Windows és minden HP, ez van, és ez jól működik. Persze, szívesebben dolgoznék Macen, de ezzel sincs semmi baj, van egy bivalyerős gépem három 24&#8243;-es 1920&#215;1200-as monitorral, nem panaszkodhatok. A Windows 8.1-et már majdnem megszoktam, bár még mindig az idegrángás kerülget, mikor a Metro felület előkerül valamiért; szerencsére nagyrészt ki lehet kerülni.
+
+Ja, igen, a főnököm, ő (is) nagyon remek, én iszonyat hálás vagyok azért, hogy sorozatban a sokadik iszonyat jó főnököt kapom így az utóbbi években. Nagyon jól megértjük egymást és hatékonyan tudunk együtt dolgozni.
+
+Ez volt nagyjából az első két hét, nem tudok jó befejezést a posztnak.

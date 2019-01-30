@@ -1,0 +1,42 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-02-26 20:58:50
+guid: http://blog.ktamas.com/?p=2363874
+id: 2363874
+url: /index.php/2013/02/26/orulok-az-ajfonnak-kedd/
+permalink: /index.php/2013/02/26/orulok-az-ajfonnak-kedd/
+tags: [énblog, svédország]
+title: Örülök az ájfónnak kedd
+---
+
+Reggel arra ébredtem, hogy a gyomrom továbbra se tolerálja a laktózmentes tejet, annak ellenére, hogy elvben laktózérzékeny vagyok, gyakorlatban meg tuti nem az, hanem valami allergia a tej valamelik komponensére, már csak az a kérdés, hogy melyikre. Játszottam is tíz perc guglidoktort, amit tízből tizenegy orvos nem ajánl, és eljutottam oda, hogy kerítenem kell egy allergológust, az elméleteim letesztelésére és, nos, aki egy igazi orvos, ellentétben a guglival.
+
+A nap felfedezése, vagy inkább játéka az, hogy az ájfón kamerája tényleg kurvajó. Bizonyos szituációkban szereti túlszaturálni a képeket, és igen, zajos már a legalacsonyabb ISO-n is, de még így is durván jó.<figure id="attachment_2363879" style="width: 612px" class="wp-caption aligncenter">
+
+[<img src="/wp-content/uploads/2013/02/d2f50f2e7fe111e2af4522000a1f8f13_7.jpg" alt="Ne szépítsük, ez túl van bizony szaturálva" width="612" height="612" class="size-full wp-image-2363879" srcset="/wp-content/uploads/2013/02/d2f50f2e7fe111e2af4522000a1f8f13_7.jpg 612w, /wp-content/uploads/2013/02/d2f50f2e7fe111e2af4522000a1f8f13_7-150x150.jpg 150w, /wp-content/uploads/2013/02/d2f50f2e7fe111e2af4522000a1f8f13_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/02/d2f50f2e7fe111e2af4522000a1f8f13_7.jpg)<figcaption class="wp-caption-text">Ne szépítsük, ez túl van bizony szaturálva</figcaption></figure> 
+
+Eljátszottam több kameraalkalmazással is. A [Hueless](http://curioussatellite.com/hueless/) kifejezetten fekete-fehér képek készítésére szakosodott, és nagyon menő, amikor épp nem bugzik rondán. <figure id="attachment_2363881" style="width: 480px" class="wp-caption aligncenter">
+
+[<img src="/wp-content/uploads/2013/02/2013-02-26-16.30.09.jpg" alt="Hueless önarckép" width="480" height="640" class="size-full wp-image-2363881" srcset="/wp-content/uploads/2013/02/2013-02-26-16.30.09.jpg 480w, /wp-content/uploads/2013/02/2013-02-26-16.30.09-225x300.jpg 225w" sizes="(max-width: 480px) 100vw, 480px" />](/wp-content/uploads/2013/02/2013-02-26-16.30.09.jpg)<figcaption class="wp-caption-text">Hueless önarckép</figcaption></figure> 
+
+Az [1-Bit Camera](http://lindecrantz.com/onebitcamera/) az első Maceken használt Atkinson-ditheringet implementálja, ami sajnos csak nem skálázva néz ki jól, így az ezzel készült képek 320&#215;480-asak csak:<figure id="attachment_2363878" style="width: 480px" class="wp-caption aligncenter">
+
+[<img src="/wp-content/uploads/2013/02/2013-02-26-20.27.00.png" alt="Két pulóverem szárad éppen" width="480" height="320" class="size-full wp-image-2363878" srcset="/wp-content/uploads/2013/02/2013-02-26-20.27.00.png 480w, /wp-content/uploads/2013/02/2013-02-26-20.27.00-300x200.png 300w" sizes="(max-width: 480px) 100vw, 480px" />](/wp-content/uploads/2013/02/2013-02-26-20.27.00.png)<figcaption class="wp-caption-text">Két pulóverem szárad éppen tesztképnek</figcaption></figure> 
+
+A harmadik pedig a [KitCam](http://kitcamapp.com/), ami mindenféle testreszabásokat tesz lehetővé, de egyelőre nem vett meg, főleg, mert az effekteket külön kell megvenni hozzá, bár azt az egyet lehet, hogy kipróbálom, ami érdekel (Ilford-filmek). Helyette itt egy kép, amit hazafele készítettem, ez Instagramos. 
+
+[<img src="/wp-content/uploads/2013/02/3b92d05e802611e2ae2122000a9e0911_7.jpg" alt="3b92d05e802611e2ae2122000a9e0911_7" width="612" height="612" class="aligncenter size-full wp-image-2363875" srcset="/wp-content/uploads/2013/02/3b92d05e802611e2ae2122000a9e0911_7.jpg 612w, /wp-content/uploads/2013/02/3b92d05e802611e2ae2122000a9e0911_7-150x150.jpg 150w, /wp-content/uploads/2013/02/3b92d05e802611e2ae2122000a9e0911_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/02/3b92d05e802611e2ae2122000a9e0911_7.jpg)
+
+Továbbá fájdalmasan konstatáltam, hogy a Dropbox Camera Uploadhoz el kell kézzel indítani az appot, mert az Apple máshogy nem engedi.
+
+Rendeltem egy tokot is, mivel ismerem magamat, és azt, hogy szokásom lejteni a telefonjaimat. Eredetileg a [Mophie](http://mophie.com) akkumulátoros tokjai között nézelődtem, de mivel a teljes internet azt mondja, hogy a microUSB port nagyon szeret róla letörni, ezért végül vettem egy [Mojo Armor](http://www.ibattz.com/products_power_armor.php)t:
+
+[<img src="/wp-content/uploads/2013/02/13_image004.jpg" alt="13_image004" width="600" height="365" class="aligncenter size-full wp-image-2363882" srcset="/wp-content/uploads/2013/02/13_image004.jpg 600w, /wp-content/uploads/2013/02/13_image004-300x182.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2013/02/13_image004.jpg)
+
+Igen, a narancssárga ezen kicsit csúnya, meg az egész nagyon bumszli, ellenben cserélhető akkumulátoros és a gumírozott atombiztos részt nem kötelező rárakni, lehet anélkül is használni, természetesen akkor kevésbé védi. Meglátjuk majd a gyakorlatban, hogy lesz.
+
+Hogy ne legyen teljesen ájfónbuzulás a blogposzt, reggel bebizonyosodott mostmár, hogy sikeresen elsajátítottam az eszpresszógép bemelegítését, valamint bebizonyosodott, hogy a fordítóipar iszonyat kicsi, egy teljesen váratlan emberbe botlottam bele ma az irodában. Egyébként meg programozgattam, és voltam kondizni is Gregerrel, egy másik kollégával.
+
+Napi _svédségünk_ a [Crisp bread](http://en.wikipedia.org/wiki/Crisp_bread) (knäckebröd): errefele nagyon népszerű kétszersültszerű kenyérhelyettesítő, az irodában mindig van, kollégák előszeretettel reggelizik, eszik ebédhez, délután, bármikor, én most vettem egy csomaggal, konkrétan [ilyet](http://www.scandikitchen.co.uk/products/Wasa-Falu-Rag%252dRut-235g.html), vajjal és egy szelet sajttal remek.

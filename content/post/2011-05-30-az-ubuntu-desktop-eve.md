@@ -1,0 +1,40 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2011-05-30 09:09:28
+fb-status-updater-meta:
+  - a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
+fb-status-updater-sn-reference:
+  - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150195651590146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"75096491877859328";}}
+guid: http://blog.ktamas.com/?p=2362563
+id: 2362563
+url: /index.php/2011/05/30/az-ubuntu-desktop-eve/
+permalink: /index.php/2011/05/30/az-ubuntu-desktop-eve/
+tags: [linux]
+title: Az Ubuntu desktop eve
+---
+
+> Tegnap belenéztem a tegnapelőtt megjelent [15-ös Fedorába](http://fedoraproject.org/hu/get-fedora) — milyen naprakész vagyok, mi —, ami már ezt az új Gnome-ot használja alapból, és a kipróbálása közben többször akaratlan szolmizáláson kaptam magam: dó-ré-mi-mi-mi? Bemutatnék nektek néhány showstopper jelenséget, fenntartva annak lehetőségét, hogy mégis én vagyok ehhez túl hülye.
+
+([nfol irt a Gnome Shelles elmenyeirol](http://nfol.hu/post/1477/gnome-in-the-shell/), erre irtam egy kommentet, amit kicsit atszerkesztettem blogpostra, mert jol leirja a velemenyem a jelenlegi desktoplinux-ecosystemrol)
+
+Hogy is allunk is most desktoplinuxilag?
+
+Van a Unity, amivel az tortent, hogy &#8212; legalabbis kivulrol ez latszik &#8212; egyszeruen a Canonicalnal fent nagyon toltak, hogy kell gyerekek ez 11.04-be, ha beleszakadunk is, hat benyomtak nagy nehezen, es latszik hogy igen, ez igy, ebben a formaban nem jo. A launcher resze peldaul konkretan lagolt nekem egy viszonylag jo gepen (jo kis Thinkpad x61). Igen, beirtam az app nevenek elso par betujet, nyomtam volna az entert, de a rendszer meg keresett. Gnome Classicon bezzeg ott a jo kis gnome-do, [super]+[space], beirom, enter, indul, tiszta workflow, tiszta sor. Itt meg varnom kell a programinditasra, na, ilyet nem jatszunk. Lehetne ez jo is, csak kell meg legalabb egy ev neki, kar hogy igy bele lett eroszakolva a rendszerbe.
+
+Masik oldalon ott van a Gnome 3 (Gnome Shell), amit viszont UX-es sajnos nem latott. Mikor meglattam az elso screenshotokat, akkor az elso gondolatom az volt, hogy ez igy ugye komoly, mert viccnek igen durva lenne. Nem fogom reszletezni vele a problemakat, mert egyreszt hasznalni &#8212; szerencsere &#8212; nem hasznaltam, csak a screenshotokat es az irasokat lattam, de epp eleg is volt, a fent linkelt posztban nfol reszletesen bemutatja es kifejti a dolgot.
+
+Az UX-hez ertes hianya persze altalanos problema linuxon: gimp, pidgin, rhytmbox, banshee, gwibber, mondjammondjammondjam meg? Es ez az upstreamen hatvanyozottan ervenyesul.
+
+Es hogy miert szuletett a Unity, es miert nem a Gnome Shell kerult az Ubuntuba? a Canonicalnak es az upstreamnek vannak, khm, kisebb nezetelteresei mostansag, az elobbi folyamatosan huz el sajat iranyba. Volt az a nezetelteres a libappindicatorral, amit, nos, mindenki a szivere vett, one thing led to another, akit erdekel a teljes sztori az [innen induljon ki](http://blogs.gnome.org/bolsh/2011/03/07/has-gnome-rejected-canonical-help/) es kovesse a linkeket. De az Ubuntu amugyis huz el evek ota az upstreamtol egy sajat iranyba.
+
+A Unitys felrelepes ellenere mindenesetre szerintem latszik, hogy a Canonicalnal helyenkent lattak mar UX-et. Hangsulyozom a helyenkentet, az Ubuntu is verzik ezer sebbol ilyen szempontbol, de az upstreamnel fenyevekkel jobb mar most, sot, mar evek ota. Legutobb tan Fedora 12-ot hasznaltam, abban peldaul defaultbol bunronda font smoothing volt, mig az Canonicalnak az elmult egy-ket evben sikerult addig reszelni az Ubuntut, hogy jelenleg szebbnek tartom a font smoothingjat, mint az OSX-et (es valahol ez is a szo szoros ertelmebe vett User Experience resze). De hozhatnek meg fel olyan peldakat, hogy az Ubuntu kovetkezetesen raallt az elejetol a sudora &#8212; ami az atlagfelhasznalonak jo &#8211;, mig a Fedora, as far as I know, mai napig su-zik, kulon root jelszoval, mindennel, na ezt a modelt se az OSX (programtelepiteskor kvazi sudo van) se a Windows (UAC) nem koveti jelenleg, okkal. Vagy az Ubuntu default kinezete koroket ver a mostani vanilla Gnome Shellen alapulo Fedorara, tudom, ez szubjektiv, meg meg lehet persze valtoztatni, de szamitanak a defaultok, nem is keveset. Meg sok egyeb apro dolog. Mindezek miatt mindenkepp az Ubuntut tartom a helyes desktoplinux-iranynak.
+
+Es ha mar linux&#8230; az Ubuntusok csinaltak egy sajat shellt (Unity), par honapja [jelentettek be](http://www.markshuttleworth.com/archives/551) hogy az X-et is le akarjak cserelni hosszutavon. Namost, innen mar csak egy lepes lehet az, hogy a monolitikus linux kernel felol elmozdulnak valami tisztesseges &#8212; termeszetesen posix-kompatibilis &#8212; hibrid es/vagy teljesen mikrokernel iranyba, nem veletlen hasznal hibrid kernelt mindket masik nagy platform a Windows NT illetve az OSX ota.
+
+Es egyszercsak azt vesszuk eszre, hogy eljott a desktop linux eve, ami mar nem is linux, hanem az Ubuntu OS. </csillogoszem>
+
+_Disclaimer: az iromany helyenkent csunyan altalanosit, valamint a tobbi disztribuciot es pl. a teljes KDE-s ecosystemet egyaltalan nem ismerem, ezert nem is emlitem._
+
+_Update: [irt az ars is par, khm, problemarol.](http://blog.ktamas.com/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/)_

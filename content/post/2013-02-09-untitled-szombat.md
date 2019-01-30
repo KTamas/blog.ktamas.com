@@ -1,0 +1,60 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-02-09 18:40:46
+guid: http://blog.ktamas.com/?p=2363659
+id: 2363659
+url: /index.php/2013/02/09/untitled-szombat/
+permalink: /index.php/2013/02/09/untitled-szombat/
+tags: [énblog, svédország]
+title: Untitled Szombat
+---
+
+Eljött hát a második hétvége, amelynek az első napja összességében jó volt, bár felemásan záródott.
+
+Reggel meglett a [legújabb twitteres mérföldkövem](http://blog.ktamas.com/index.php/2013/02/09/45000/), majd agonizáltam egy kört azon, hogy mit is kéne csinálni aznap. Jobb híján foglaltam jegyet a moziba az [Argó](http://www.rottentomatoes.com/m/argo_2012/)ra, és úgy döntöttem, addig majd bóklászok a városban. Már majdnem összeszedtem volna magam az induláshoz amikor megjelent a readeremben, hogy lesz [Barcamp Stockholm](http://barcampstockholm.com) márciusban, a [Thoughtbot](http://robots.thoughtbot.com/) szervezi és a [Spotify](http://www.spotify.com)nál lesz, ez két cég akiket amúgyis kedvelek, menjünk hát el, leglalább lesz alkalmunk megnézni a fővárost kicsit. Úgyhogy amellett, hogy lefoglaltam a jegyemet, megnéztem, mennyi a vonat oda-vissza (~650-750 SEK), két nap szállás (Hostel: ~400 SEK, AirBnB: ~900 SEK), meg a helyi közlekedés (72 órás kártya 230 SEK, de valószínű olcsóbb lesz sétálni és jegyet venni, mikor kell). Szóval március második hétvégéjén úgy tűnik, irány Stockholm.
+
+Ezután tényleg elindultam, ezúttal gyalog, és útközben fotózgattam mindenfélét, többek közt egy jópofa óriáshőmérőt (lásd lejjebb), közbep pedig megebédeltem egy közepesen jót valamelik random gyorsétteremben.
+
+<div id='gallery-5' class='gallery galleryid-2363659 gallery-columns-3 gallery-size-thumbnail'>
+  <figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/02/09/untitled-szombat/6885855872ab11e2902222000a1fa52b_7/'><img width="150" height="150" src="/wp-content/uploads/2013/02/6885855872ab11e2902222000a1fa52b_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2013/02/6885855872ab11e2902222000a1fa52b_7-150x150.jpg 150w, /wp-content/uploads/2013/02/6885855872ab11e2902222000a1fa52b_7-300x300.jpg 300w, /wp-content/uploads/2013/02/6885855872ab11e2902222000a1fa52b_7.jpg 612w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/02/09/untitled-szombat/9d3b916672ab11e2900c22000a1fb715_7/'><img width="150" height="150" src="/wp-content/uploads/2013/02/9d3b916672ab11e2900c22000a1fb715_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2013/02/9d3b916672ab11e2900c22000a1fb715_7-150x150.jpg 150w, /wp-content/uploads/2013/02/9d3b916672ab11e2900c22000a1fb715_7-300x300.jpg 300w, /wp-content/uploads/2013/02/9d3b916672ab11e2900c22000a1fb715_7.jpg 612w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/02/09/untitled-szombat/7732e98272ac11e2bbd422000a1f9ab2_7/'><img width="150" height="150" src="/wp-content/uploads/2013/02/7732e98272ac11e2bbd422000a1f9ab2_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2013/02/7732e98272ac11e2bbd422000a1f9ab2_7-150x150.jpg 150w, /wp-content/uploads/2013/02/7732e98272ac11e2bbd422000a1f9ab2_7-300x300.jpg 300w, /wp-content/uploads/2013/02/7732e98272ac11e2bbd422000a1f9ab2_7.jpg 612w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/02/09/untitled-szombat/68f23bb072b211e28b3822000a9f15fd_7/'><img width="150" height="150" src="/wp-content/uploads/2013/02/68f23bb072b211e28b3822000a9f15fd_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2013/02/68f23bb072b211e28b3822000a9f15fd_7-150x150.jpg 150w, /wp-content/uploads/2013/02/68f23bb072b211e28b3822000a9f15fd_7-300x300.jpg 300w, /wp-content/uploads/2013/02/68f23bb072b211e28b3822000a9f15fd_7.jpg 612w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/02/09/untitled-szombat/8c0d2f0072b311e2977522000a9f308b_7/'><img width="150" height="150" src="/wp-content/uploads/2013/02/8c0d2f0072b311e2977522000a9f308b_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2013/02/8c0d2f0072b311e2977522000a9f308b_7-150x150.jpg 150w, /wp-content/uploads/2013/02/8c0d2f0072b311e2977522000a9f308b_7-300x300.jpg 300w, /wp-content/uploads/2013/02/8c0d2f0072b311e2977522000a9f308b_7.jpg 612w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/02/09/untitled-szombat/c05e212e72b311e2ac7c22000a1f96a8_7/'><img width="150" height="150" src="/wp-content/uploads/2013/02/c05e212e72b311e2ac7c22000a1f96a8_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2013/02/c05e212e72b311e2ac7c22000a1f96a8_7-150x150.jpg 150w, /wp-content/uploads/2013/02/c05e212e72b311e2ac7c22000a1f96a8_7-300x300.jpg 300w, /wp-content/uploads/2013/02/c05e212e72b311e2ac7c22000a1f96a8_7.jpg 612w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  </div></figure>
+</div>
+
+Ezután beültem egy szimpatikus kávézóba meginni egy eszpreszót, és megnézni, mi újság az interneten, ahol pont megláttam és nagyon megörültem, hogy felkerültek többek között a Nellivel meg a Fricivel lévő közös sörözésünkön készült képek. Asszem ezek kapcsán kapott el igazán a honvágy először. Az egyiket én csináltam, a másikat meg rólam készült Nelli által, fel is rakom őket ide &#8212; remélem nem gond &#8211;, mert szerintem jók lettek:
+
+<center>
+  <a href="/wp-content/uploads/2013/02/529753_4906197525979_1466356963_n.jpg"><img src="/wp-content/uploads/2013/02/529753_4906197525979_1466356963_n-300x194.jpg" alt="529753_4906197525979_1466356963_n" width="300" height="194" class="size-medium wp-image-2363669" srcset="/wp-content/uploads/2013/02/529753_4906197525979_1466356963_n-300x194.jpg 300w, /wp-content/uploads/2013/02/529753_4906197525979_1466356963_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>&nbsp;<a href="/wp-content/uploads/2013/02/560053_4906197445977_1033304824_n.jpg"><img src="/wp-content/uploads/2013/02/560053_4906197445977_1033304824_n-300x194.jpg" alt="560053_4906197445977_1033304824_n" width="300" height="194" class="size-medium wp-image-2363670" srcset="/wp-content/uploads/2013/02/560053_4906197445977_1033304824_n-300x194.jpg 300w, /wp-content/uploads/2013/02/560053_4906197445977_1033304824_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+Utána a városba meglett a nap dealje is, az egyik Telenor boltban potom 39 SEK-ért sikerült szereznem egy teljesen jó és kényelmes okostelefon-kesztyűt.
+
+[<img src="/wp-content/uploads/2013/02/216debf072c511e2943422000a9f3095_7.jpg" alt="216debf072c511e2943422000a9f3095_7" width="612" height="612" class="aligncenter size-full wp-image-2363667" srcset="/wp-content/uploads/2013/02/216debf072c511e2943422000a9f3095_7.jpg 612w, /wp-content/uploads/2013/02/216debf072c511e2943422000a9f3095_7-150x150.jpg 150w, /wp-content/uploads/2013/02/216debf072c511e2943422000a9f3095_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/02/216debf072c511e2943422000a9f3095_7.jpg)
+
+Ezután még bóklásztam egy kört a Nordstanban, a város legnagyobb bevásárlóközpontjában, jól rábasztam egy kávézóban, ahol a konnektorokból azt feltételeztem, lesz wifi is (nem volt), majd nem sokkal ezután elegem lett az unalomból, lett volna még több, mint három órám a filmemig, úgyhogy megvacsoráztam a McDonaldsban és hazajöttem. A nap további részében valószínű sorozatokat fogok nézni, meg lehet, letorrentezem estére a filmemet a mozi helyett, mert az utóbbi errefele pofátlanul drága: a jegy a foglalási díjjal egyűtt 120 SEK, és akkor még nem vettem popcornt meg üdítőt.
+
+Holnap valószínű megnézem a helyi anglikán gyülekezetet, vagy visszamegyek oda, ahol tegnap voltam, ez leginkább majd reggel fog eldőlni.

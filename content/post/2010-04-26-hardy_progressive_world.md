@@ -1,0 +1,17 @@
+---
+author: KTamas
+categories:
+  - Export
+date: 2010-04-26 19:30:00
+guid: http://ktamas.blog.hu/2010/04/26/hardy_progressive_world
+id: 1952486
+url: /index.php/2010/04/26/hardy_progressive_world/
+permalink: /index.php/2010/04/26/hardy_progressive_world/
+title: Hardy &#8211; Progressive World
+---
+
+Az úgy volt, hogy még anno a kedvenc IRC-csatornámban egyszercsak feltűnt egy ismerős ismerőse és valahogy eljutottunk oda, hogy készített egy progressive trance mixet, belinkelte, meghallgattuk, éshát, keményen odavág. Az ember azóta eltűnt, meg volt egyszer tracklistem is, ami aztán elveszett azóta, na mindegy. Szóval itt a mix, a soundcloudról le is lehet tölteni, kattintsatok alul, ha tetszett.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2614857&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<span><a href="http://soundcloud.com/ktamasenty/hardy-progressive-world">Hardy &#8211; Progressive World</a> by <a href="http://soundcloud.com/ktamasenty">KTamasEnty</a></span>

@@ -34,7 +34,7 @@
 {{- else if $params.SummaryOnly }}{{ with (or .Description .Summary ) }}
 		<summary>{{ replace (htmlUnescape .) "&" "&amp;" | safeHTML }}</summary>{{ end }}
 {{- else -}}
-		{{ with (or .Params.author .Site.Author) }}
+		{{ with .Site.Author }}
 		<author>{{ with .name }}
 			<name>{{ . }}</name>{{ end }}{{ with .email }}
 			<email>{{ . }}</email>{{ end }}{{ with .url }}

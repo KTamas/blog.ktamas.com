@@ -30,7 +30,7 @@
 			"content_html": {{ printf "<p>%v</p>" (htmlEscape .) | jsonify }},
 			"content_text": {{ . | jsonify }}{{ end }}
 {{- else -}}
-			{{ with (or .Params.author .Site.Author) }}
+			{{ with .Site.Author }}
 			"author": {
 				"name": {{ .name | jsonify }}{{ with .url }},
 				"url": {{ . | jsonify }}{{ end }}{{ with .avatar }},

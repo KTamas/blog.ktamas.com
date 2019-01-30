@@ -1,0 +1,28 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2013-04-13 16:02:27
+guid: http://blog.ktamas.com/?p=2364349
+id: 2364349
+url: /index.php/2013/04/13/dokinal-szerda-a-15-heten/
+permalink: /index.php/2013/04/13/dokinal-szerda-a-15-heten/
+tags: [énblog, svédország]
+title: Dokinál szerda, a 15. héten
+---
+
+Ma tudatosult bennem véglegesen, hogy a svédek az időt hetekben mérik. Pontosan akkor, mikor Ulrika közölte a napi meetingünkön, hogy szabadságra menne ezen és ezen és ezen a héten a nyáron, én meg csak néztem bután és magamban elmorzsoltam egy káromkodást, hogy ez nekem pontosan semmit se mondott, mi a dátum? 
+
+Természetesen a dolog már sokkal korábban is feltűnt: a szupermarketek hetente bedobott papírjain is például mindig rajta van, hogy a benne lévő akciók melyik hétre vonatkoznak (pl. V15, az az eheti), sőt, egy ideje én is így rendezgetem a feladataimat. Mostmár mindenesetre nem tudtam tovább halogatni a dolgot, beállítottam minden létező használt naptárprogramban, amiben lehet, hogy mutassa a heteket. Az Outlookban és a webes verziójában van erre opció, a Google Calendarhoz sajnos külön widget kell, az ájfón naptárja viszont sajnálatos módon egyáltalán nem támogatja a dolgot, nem lehet véletlen, hogy a svéd App Storeban a Week Calendar nevű app rendkívül népszerű.
+
+Voltam dokinál, azt mondta, hogy tejallergiát csak a gyerekek kapnak (ami, amúgy statisztikailag cca. 99,5%-ban igaz), próbáljak ki egy másik laktózgyógyszert. Rendes leszek, és tényleg kipróbálom, mint utolsó próba, aztán feladom újra a dolgot egy jóidőre. A másik apróság kapcsán meg szükségem lenne egy egészen kicsi korrigáló műtétre, ami egyébként nem olyan sürgős, csak éppen az nem tiszta, hogy meg tudom-e csinálni itt Svédországban úgy, hogy nem fizetek többezer koronát, vagy sem, ezt éppen aktívan nyomozom.
+
+Az orvosi rendelő egyébként nagyon rendes, tiszta volt, ami rögtön feltűnt, az a falra kirakott igen hasznos táblázat arról, hogy mire érdemes, és mire nem antibiotikumot szedni:
+
+[<img src="/wp-content/uploads/2013/04/8731e218a1da11e2bb3e22000a1fb8a8_7.jpg" alt="8731e218a1da11e2bb3e22000a1fb8a8_7" width="612" height="612" class="aligncenter size-full wp-image-2364359" srcset="/wp-content/uploads/2013/04/8731e218a1da11e2bb3e22000a1fb8a8_7.jpg 612w, /wp-content/uploads/2013/04/8731e218a1da11e2bb3e22000a1fb8a8_7-150x150.jpg 150w, /wp-content/uploads/2013/04/8731e218a1da11e2bb3e22000a1fb8a8_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />](/wp-content/uploads/2013/04/8731e218a1da11e2bb3e22000a1fb8a8_7.jpg)
+
+Akit érdekel, begépeltem Google Translate-be, az angol verzió [itt elolvasható](https://gist.github.com/KTamas/5372087).
+
+Este elmentem házicsoportra, ahol megismerkedtünk egy váratlan vendéggel, ami felborította ugyan a tervezett menetrendet, de ez egyáltalán nem volt baj. Beszélgettünk, imádkoztunk, végül pedig olvastunk egy kis [1 Krónikák 16](http://bibliaolvaso.hu/ujforditas/1kron/16)-ot.
+
+Holnap jönnek a dán kolléganők, este pedig after work lesz, munka utáni alkoholizálás.

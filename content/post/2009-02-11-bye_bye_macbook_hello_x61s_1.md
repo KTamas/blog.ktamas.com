@@ -1,0 +1,22 @@
+---
+author: KTamas
+categories:
+  - Export
+date: 2009-02-11 19:02:08
+guid: http://ktamas.blog.hu/2009/02/11/bye_bye_macbook_hello_x61s_1
+id: 1769321
+url: /index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/
+permalink: /index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/
+tags: [mac, switch, win7, windows]
+title: Bye-bye Macbook, hello X61s
+---
+
+Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja _for one_). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl. a vonaton, a szuk ulesen is. Ezen felul a 6x sorozatu notebookok kb. a jelenleg legjobban kinézőek a piacon (szerintem), ami nem fő, de nem is utolsó szempont. Meg izé, new toy and all. 
+
+Az OSX-szel a legnagyobb bajom, minden kenyelmessege ellenere, hogy tulsagosan egérközpontú, egy rakat dolog gyorsabban megy Win alatt a billentyűzettel. Ami viszont hiányozni fog, az a *nix integráció, amit egy mozdulattal előhívhat az ember. 
+
+Ami nem menő, hogy úgy tűnik, a magyar X61s billentyűzet minősége nem éppen egyezik az amerikaival, maguk a keyek is máshogy néznek ki és bizony eléggé &#8216;hajlik&#8217; aminek az ellenkezőjét írja az összes, a billentyűzetet kivétel nélkül dicsőítő amerikai teszt. Ezt mindenesetre sürgősen orvosolni fogjuk az ebay <span style="text-decoration: line-through;">és/vagy a magyar szervíz segítségével (ha nem lesz olyan drága náluk)</span> segítségével mivel a magyar szervíz hihetetlen pofátlan pénzt kér érte. Valamint vettem bele egy 250 GB-os, 7200-as winchit, úgyhogy hely is lesz egy ideig. 
+
+P.S.: az ujjlenyomatolvasó MENŐ. 
+
+P.P.S.: Lesz hamarosan egy részletesebb írás is arról, hogy miért hagytam ott az OSX-et. Van is, <a href="http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel" target="_blank">itt</a>.

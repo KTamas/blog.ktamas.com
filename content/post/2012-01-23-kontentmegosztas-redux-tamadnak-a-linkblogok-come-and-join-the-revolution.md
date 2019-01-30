@@ -1,0 +1,36 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2012-01-23 20:30:35
+fb-status-updater-meta:
+  - a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
+fb-status-updater-sn-reference:
+  - a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"722715145_10150486431075146";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:18:"161531299104948225";}}
+guid: http://blog.ktamas.com/?p=2362960
+id: 2362960
+url: /index.php/2012/01/23/kontentmegosztas-redux-tamadnak-a-linkblogok-come-and-join-the-revolution/
+permalink: /index.php/2012/01/23/kontentmegosztas-redux-tamadnak-a-linkblogok-come-and-join-the-revolution/
+tags: [énblog, linkblog]
+title: 'Kontentmegosztás redux: támadnak a linkblogok (come and join the revolution)'
+---
+
+[Két és fél hónap telt el](http://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/) mióta a Google egy tollvonással kinyírta a sharinget. A kezdeti elvonási tünetek után elkeseredettségemben [megpróbáltam](http://blog.ktamas.com/index.php/2011/11/04/kontentmegosztas/) átmenetileg a G+-ra megosztani a dolgokat, aztán egyszercsak azt vettem észre, hogy már csak osztom a semmibe, fel se megyek a pluszra, ami egy ghost town, amiben néha hozzáadnak spammerek a köreikhez. Januárra szép lassan, erőszakkal leszoktattam magam a megosztásról, de csak nem hagyott nyugodni a dolog, aztán Kelttel elkezdtünk komolyabban gondolkozni a dolgon, hogy nyitunk egy-egy linkblogot.
+
+(A hivemined [azóta is készül](http://hiveminedblog.tumblr.com/post/15419153345/update), it&#8217;s done when it&#8217;s done, arra egyelőre nem várunk többet.)
+
+A reblogolás borzasztó intézménye miatt nem akaródzott tumblrre menni. Én első körben kisérleteztem az [octopresssel](http://octopress.org) meg [ezzel a módosítással](http://philippkueng.ch/a-link-blog-with-octopress.html) a [githubon](http://octopress.org/docs/deploying/github/), és bár megvan a maga bája, el lett vetve, ugyanis: a posterous pár hatvánnyal emberbarátabb. [Van bookmarklet](http://posterous.com/help/bookmarklet), <del>másrészt a readerben van send to posterous (jobb felul fogaskerek -> Reader settings -> Send To -> Posterous)</del> és bár a Readeres Send To ugyan használhatatlan, de még így is nagyon kényelmes a rendszer, könnyen testreszabható, satöbbi.
+
+Így állt fel a rendszer a [links.ktamas.com](http://links.ktamas.com/) címen, illetve, ami mégfontosabb: fel lehet iratkozni annak az RSS-ére a [feedburneren](http://feeds.feedburner.com/KtamasLinkblog).
+
+A többiek listája:
+
+  * [Kelt](http://link.worldshots.hu) ([RSS](http://feeds.feedburner.com/wslinkblog))
+  * [Caracalla](http://caracallashare.tumblr.com/) ([RSS](http://caracallashare.tumblr.com/rss))
+  * [Fanta](http://nordurljos.com/) ([RSS](http://nordurljos.com/rss))
+
+Szóval találkozunk a linkblogjainkon, **egy részükön lehet kommentelni is**, és hogy kicsit megmalackarajozzam kicsit ezt a posztot, _ön hol fog linkblogolni?_
+
+<small>(De tényleg, gyerünk szépen csinálni egyet. Most.)</small>
+
+P.S.: Össze kell rakni ebből egy [Planet](http://www.planetplanet.org/)et, már dolgozok rajta.

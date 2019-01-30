@@ -1,0 +1,26 @@
+---
+author: KTamas
+categories:
+  - Export
+date: 2010-06-12 11:00:00
+guid: http://ktamas.blog.hu/2010/06/12/my_name_is_ktamas_and_i_approve_this_message
+id: 2075147
+url: /index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/
+permalink: /index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/
+tags: [geekdom, linux, mac, random, windows]
+title: Endorsement (My name is KTamas and I approve this message)
+---
+
+Mivel mostmar tobb, mint egy eve hasznalom aktivan a harom legnepszerubb operacios rendszert, &#8212; Windows 7, Mac OSX, Ubuntu &#8211;, sikeresen akviraltam azt a kepesseget, hogy barmelyiket, barmikor tudom szidni is, dicserni is, persze kulonbozo mertekben. Most az utobbi kovetkezik, konkretan annak a kifejtese, hogy a Windows 7 a jelenlegi legjobban osszerakott operacios rendszer _out there_.
+
+### It Just Works
+
+A telepito CD/Pendrive berakasa utan legkesobb harminc perccel mukodo rendszert kapunk, a gepek jo reszen egyaltalan, vagy csak alig kell driverekkel barmit csinalni, mert elintezi a Windows Update &#8212; gondolom mindenkiben meg elenken el az XP, a kotelezo egyoras jatek a driverekkel.
+
+Ezek utan nyitunk egy IE-t, ami, zarojelben jegyezendo meg, a 8-as verzio ota egeszen hasznalhato, ellatogatunk a [www.ninite.com](http://ninite.com)-ra, osszekattintgatjuk a szukseges szoftvereket, es ujabb fel ora utan van egy legalabb 90%-osan kesz rendszerunk, alterbongeszovel, video- es zenelejatszoval, virusirtoval, pdf-olvasoval, es meg sorolhatnam &#8212; mindezt teljesen ingyen.
+
+Egy rendszerunk, ami kegyetlen gyors, pedig mar annyira bennunk van, hogy ami uj verzio, az torvenyszeruleg lassabb lesz, de nem, a Windows 7 sebessegben gyakorlatilag egyezik az elodjevel, az XP-vel, milyen kar, hogy a Microsoftnak 8 evbe telt egy uj oprendszert osszehoznia, ami amugy meg atomstabil is, a kekhalalok ideje a multe, talan ha kettot kaptam az elmult evben, ebbol az egyik pedig egy igen pocsek driver hibaja volt.
+
+Ja, es az Aero szep, nem ugy nez ki, mintha ovodasok rajzoltak volna zsirkretaval, a la Luna of XP. _Defaults matter._
+
+Es most elkezdhetnek panaszkodni, hogy de nincs rendes parancssor vagy epp posix, es kulonben is, de nem, ez nem arra van, amit kapunk, az egy gyors, stabil, hasznalhato operacios rendszer, se tobb, se kevesebb, es pont ennyi kell a legtobb embernek (es sokszor nekem is), es vegre megkapjak, es ez annyira jo.

@@ -1,0 +1,17 @@
+---
+author: KTamas
+categories:
+  - Uncategorized
+date: 2010-10-12 14:00:45
+guid: http://blog.ktamas.com/?p=2362282
+id: 2362282
+url: /index.php/2010/10/12/64-megabytes-should-be-enough-for-everyone/
+permalink: /index.php/2010/10/12/64-megabytes-should-be-enough-for-everyone/
+title: 64 megabytes should be enough for everyone
+---
+
+> **[Gazs](http://bergengocia.net/)**: <a href="http://unixy.net/99/" target="_blank">http://unixy.net/99/</a> ez elég lenne egy wp-nek?
+
+Nem, vagtam ra, majd gyorsan rajottem hogy&#8230; megis? 200 forint (99 cent) es bo egy ora utan volt egy mukodokepes nginx+fastcgi+mysql konfiguraciom wordpresszel, cache-sel, mindennel, mindez 64 megabyte memoriaban. A nap vegen pedig befutott [egy script](http://www.lowendbox.com/blog/wordpress-cheap-vps-lowendscript/), ami megcsinalja ugyanezt &#8212; jobban. Igy ledozeroltam az egeszet, ujratelepitettem a scripttel, reszeltem meg egy kicsit rajta, es lo and behold, meg jobban is megy az egesz. Ugyhogy visszamigraltuk a blogot, sajat domain, ujra wordpress, szabadsag, szansajn, subidubi, hepinessz. Aztan majd meglatjuk, hosszutavon milyen lesz, en mindenesetre bizok a dologban. Radobtam meg egy pingdomot is, egyuttal az is tesztelve lesz&#8230;
+
+Nem tudja valaki mi volt a regi WP temam neve?
