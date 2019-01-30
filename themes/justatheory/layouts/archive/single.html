@@ -14,21 +14,21 @@
 			<h2 class="year">{{ .Date.Year }}</h2>
 		{{- end }}
 			<div>
-				<header>
+				<!-- <header> -->
+					<time datetime="{{ .Date.UTC.Format "2006-01-02T15:04:05Z" }}">{{ .Date.Format "Jan 2" }}</time>
 					{{- if .Params.link }}
 					<h1 class="link"><a href="{{ .Params.link }}">{{ .Title }}</a></h1>
 					{{- else }}
 					<h1 class="post"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
 					{{- end }}
-				</header>{{ with .Description }}
-				<p>{{ . | markdownify }}</p>{{ end }}
-				<footer>
-					<time datetime="{{ .Date.UTC.Format "2006-01-02T15:04:05Z" }}">{{ .Date.Format "Jan 2" }}</time>
-					<a rel="bookmark" href="{{ .Permalink }}"></a>
+				<!-- </header>{{ with .Description }}
+				<p>{{ . | markdownify }}</p>{{ end }} -->
+				<!-- <footer> -->
+					<!--<a rel="bookmark" href="{{ .Permalink }}"></a>-->
 					{{- if .Params.tags }}
 					<p>Filed under {{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}<a href='{{ "/tags/" }}{{ $e | urlize }}/'>{{ $e }}</a>{{ end }}{{ end }}</p>
 					{{- end }}
-				</footer>
+				<!-- </footer> -->
 			</div>
 		{{- end }}
 		</section>

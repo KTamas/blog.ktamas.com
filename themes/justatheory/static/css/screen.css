@@ -914,7 +914,7 @@ p pre code, li pre code {
 }
 
 #archive section > div {
-    padding: 1em 0 1em;
+    padding: 0.3em 0 0.3em;
     position: relative;
 }
 
@@ -1024,14 +1024,14 @@ body > footer ul li:last-child {
         display: inline-block;
         position: relative;
         float: left;
-        padding-top: .75em
+        padding-top: .3em
     }
 
     #archive time {
         position: absolute;
         text-align: right;
         left: 0em;
-        top: 1.7em
+        top: .7em;
     }
     body > header .bug {
         line-height: 1.3em !important;
