@@ -1,5 +1,5 @@
 title = "KTamas' blog"
-baseURL = "https://ktamas.github.io/"
+baseURL = "https://blog.ktamas.com/"
 languageCode = "en-us"
 copyright = "© Tamas Kadar, 2009-2019. All Rights Reserved."
 theme = "justatheory"
@@ -16,7 +16,7 @@ disqusShortname = "ktamas"
 
 [author]
     name = "KTamas"
-    url = "https://ktamas.github.io/"
+    url = "https://blog.ktamas.com/"
 
 [params]
   description = "Bringing you irregular content since 2009. By KTamas."
