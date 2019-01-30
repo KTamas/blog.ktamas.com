@@ -8,6 +8,7 @@
 	<title>{{ $title }}</title>
 	<meta name="description" content="{{ partial "attr.html" (or .Description .Summary .Site.Params.description) }}" />
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}" />{{ end }}
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="/css/screen.css" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -34,24 +35,25 @@
 	{{- .Hugo.Generator }}
 </head>
 <body>
-	<header>
-		<hgroup class="top">
-			<h1 class="bug"><a href="/">{{ .Site.Params.Bug }}</a></h1>
-			<h1><a href="/">{{ .Site.Title }}</a></h1>
-			<h2>{{ .Site.Params.tagline }}</h2>
-		</hgroup>
-		<nav>
-			<menu>
-				<li><a href="/about/" title="About {{ .Site.Title }}">About</a></li>
-				<li><a href="/archive/" title="{{ .Site.Title }} Archives">Archives</a></li>
-				<li><a href="/tags/" title="{{ .Site.Title }} Tags">Tags</a></li>
-				{{- if .Site.Params.twitter }}
-				<li class="icon"><a href="//twitter.com/{{ .Site.Params.twitter }}" title="@{{ .Site.Params.twitter }} on Twitter"><i class="fa fa-twitter"></i></a></li>
-				{{- end }}
-				{{- if .Site.Params.github }}
-				<li class="icon"><a href="//github.com/{{ .Site.Params.github }}" title="@{{ .Site.Params.github }} on GitHub"><i class="fa fa-github"></i></a></li>
-				{{- end }}
-				<li class="icon"><a href="/feed.xml" title="Subscribe to {{ .Site.Title }}"><i class="fa fa-rss"></i></a></li>
-			</menu>
-		</nav>
-	</header>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				<!-- <h1 class="bug"><a href="/">{{ .Site.Params.Bug }}</a></h1> -->
+				<h1><a href="/">{{ .Site.Title }}</a></h1>
+				<h2>{{ .Site.Params.tagline }}</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About {{ .Site.Title }}">About</a></li>
+					<li><a href="/archive/" title="{{ .Site.Title }} Archives">Archives</a></li>
+					<li><a href="/tags/" title="{{ .Site.Title }} Tags">Tags</a></li>
+					{{- if .Site.Params.twitter }}
+					<li class="icon"><a href="//twitter.com/{{ .Site.Params.twitter }}" title="@{{ .Site.Params.twitter }} on Twitter"><i class="fa fa-twitter"></i></a></li>
+					{{- end }}
+					{{- if .Site.Params.github }}
+					<li class="icon"><a href="//github.com/{{ .Site.Params.github }}" title="@{{ .Site.Params.github }} on GitHub"><i class="fa fa-github"></i></a></li>
+					{{- end }}
+					<li class="icon"><a href="/feed.xml" title="Subscribe to {{ .Site.Title }}"><i class="fa fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>

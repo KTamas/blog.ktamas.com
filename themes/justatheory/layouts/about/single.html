@@ -2,7 +2,7 @@
 	<main>
 		<article class="{{ .Type }}">
         <header>
-            <h1 class="title">{{ .Title }}</h1>
+            <h1 class="title">{{ .Title | safeHTML }}</h1>
         </header>
         <div class="text">
             {{ .Content }}

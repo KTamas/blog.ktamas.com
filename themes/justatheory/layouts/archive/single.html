@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 	<main id="{{ .Type }}">
 		<header>
-			<h1>{{ .Title }}</h1>
+			<h1>{{ .Title | safeHTML }}</h1>
 		</header>
 		{{- $.Scratch.Set "year" 0 }}
 		{{- range where .Site.Pages "Type" "in" .Site.Params.postTypes }}
@@ -17,9 +17,9 @@
 				<!-- <header> -->
 					<time datetime="{{ .Date.UTC.Format "2006-01-02T15:04:05Z" }}">{{ .Date.Format "Jan 2" }}</time>
 					{{- if .Params.link }}
-					<h1 class="link"><a href="{{ .Params.link }}">{{ .Title }}</a></h1>
+					<h1 class="link"><a href="{{ .Params.link }}">{{ .Title | safeHTML }}</a></h1>
 					{{- else }}
-					<h1 class="post"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+					<h1 class="post"><a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a></h1>
 					{{- end }}
 				<!-- </header>{{ with .Description }}
 				<p>{{ . | markdownify }}</p>{{ end }} -->
