@@ -1,9 +1,0 @@
----
-name: Test.Simple
-version: 0.10
-author:
-  - David Wheeler <david@kineticode.com>
-abstract: ~
-license: perl
-provides: {}
-generated_by: Module::Build version 0.2701

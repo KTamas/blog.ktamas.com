@@ -1,29 +1,19 @@
 ---
-title: About Just a Theory
+title: About
 type: about
 url: /about/
-outputs: [html, text]
+outputs: [html]
 ---
 
-{{% figure src="theory.jpg" alt="David E. “Theory” Wheeler" class="frame" %}}
-
-*Just a Theory* is an periodically irregular technology and culture blog by David
-E. Wheeler. If you'd like to get in touch, catch me on [Twitter] or send email
-to `david` at this domain.
+This is a personal blog by Tamas Kadar aka KTamas. If you'd like to get in touch, catch me on [Twitter](https://twitter.com/ktamas) or send email
+to [ktamas@ktamas.com](mailto:ktamas@ktamas.com).
 
 Colophon
 --------
 
-*Just a Theory* is written in [Markdown], built and published with [Hugo], and
-hosted on [AWS]. Its set in [Source Sans Pro], with fixed-width type set in
-[Source Code Pro]. The icons are by [Font Awesome].
+*This blog* is written in [Markdown](http://daringfireball.net/projects/markdown/), built and published with [Hugo](https://gohugo.io), and
+hosted on [Github Pages](https://pages.github.com). Its set in [Roboto](https://fonts.google.com/specimen/Roboto) and [Open Sans](https://fonts.google.com/specimen/Open%20Sans), with fixed-width type set in [Source Code Pro](https://github.com/adobe-fonts/source-code-pro). The icons are by [Font Awesome](https://fontawesome.com).
 
-This site eschews JavaScript, and uses no tracking or analytics services.
+This site uses some JavaScript and also Google Analytics. Nevertheless, JavaScript is only required for Disqus comments and you can block Google Analytics with your favorite adblocker.
 
-[Markdown]: http://daringfireball.net/projects/markdown/
-[Hugo]: https://gohugo.io
-[AWS]: https://aws.amazon.com/
-[Source Sans Pro]: https://github.com/adobe-fonts/source-sans-pro
-[Source Code Pro]: https://github.com/adobe-fonts/source-code-pro
-[Twitter]: https://twitter.com/theory
-[Font Awesome]: https://fontawesome.com
+This site uses a modified version of the [justatheory theme](https://github.com/theory/justatheory/tree/master/themes/justatheory) by David E. Wheeler. Thanks David for helping me get started with Hugo and this theme.
