@@ -1,9 +1,5 @@
----
-title: About
-type: about
-url: /about/
-outputs: [html, text]
----
+About This Blog
+===============
 
 This is the personal blog of Tamas Kadar aka KTamas. If you'd like to get in touch, catch me on [Twitter](https://twitter.com/ktamas) or send email
 to [ktamas@ktamas.com](mailto:ktamas@ktamas.com).

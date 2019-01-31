@@ -60,7 +60,7 @@ googleAnalytics = "UA-19057096-1"
   section = ["html", "json", "atom"]
   taxonomy = ["html", "json", "atom"]
   taxonomyTerm = ["html", "json", "atom"]
-  page = ["html"]
+  page = ["html", "text"]
 
 [taxonomies]
     tag = "tags"
