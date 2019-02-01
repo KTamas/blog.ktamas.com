@@ -1,14 +1,13 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"{{ with now.UTC.Format "2006-01-02T15:04:05Z" }}
+author: KTamas
+id: {{ .UniqueID }}
+title: "{{ substr (replace .TranslationBaseName "-" " ") 11 | title }}"{{ with now.UTC.Format "2006-01-02T15:04:05Z" }}
 date: {{ . }}
-lastMod: {{ . }}{{ end }}
+lastMod: {{ . }}{{ end }}{{ with now.UTC.Format "2006-01-02" }}
+url: /index.php/{{ replace . "-" "/" }}{{ end }}/{{ substr .Name 11 }}/{{ with now.UTC.Format "2006-01-02" }}
+permalink: /index.php/{{ replace . "-" "/"  }}{{ end }}/{{ substr .Name 11 }}/
 description: ~
 tags: []
 type: {{ .Type }}
-link: ~
-# author: {name: David E. Wheeler, email: david@justatheory.com }
-# via: {name: Example, href: https://example.com, title: Hello }
-# image: {src: hi.png, alt: Hi, caption: Boy Howdy, link: example.com, title: Hi }
 draft: true
 ---
-
