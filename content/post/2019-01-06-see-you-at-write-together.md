@@ -11,4 +11,4 @@ title: Follow me on Write Together
 tags: [writetogether]
 ---
 
-I'll be writing [daily posts on Write Together](https://writetogether.space/users/ktamas) for the foreseeable future. It's a blogging platform/writing community with the goal of writing and publishing at least 300 words, every day. Most of them will be cross-posted here, but some I write as a series of post, and those may be re-edited and published here once I'm done. If you're interested, you should follow me there.
+I'll be writing [daily posts on Write Together](https://writetogether.space/users/ktamas) for the foreseeable future. It's a blogging platform/writing community with the goal of writing and publishing at least 300 words, every day. Most of them will be cross-posted here, but some I write as a series of posts, and those may be re-edited and published here once I'm done. If you're interested, you should follow me there.
