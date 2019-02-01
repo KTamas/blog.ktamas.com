@@ -208,7 +208,7 @@ main > header {
 .tags li, .pagination li {
     white-space: pre-line;
     display: inline-block;
-    font-size: .7em;
+    font-size: .8em;
 }
 
 .tags li:last-child:after {
@@ -329,7 +329,7 @@ h4, section h3, section section h2, section section section h1 {
 h5, section h4, section section h3 {
     margin-block-start: 0;
     margin-block-end: 0;
-    font-size: .7em
+    font-size: .8em
 }
 
 h6, section h5, section section h4, section section section h3 {
@@ -349,7 +349,7 @@ ul {
 }
 
 div.tags ul {
-    line-height: 0.5;
+    line-height: 0.7;
 }
 
 article .text li {
@@ -855,6 +855,10 @@ p pre code, li pre code {
 }
 
 div.text p {
+    font-size: 80%;
+}
+
+div.text ul {
     font-size: 80%;
 }
 
