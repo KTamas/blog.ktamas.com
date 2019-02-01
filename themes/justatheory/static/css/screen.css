@@ -854,11 +854,15 @@ p pre code, li pre code {
     border: none
 }
 
-div.text p {
+div.text {
     font-size: 80%;
 }
 
 div.text ul {
+    font-size: 80%;
+}
+
+div.text ol {
     font-size: 80%;
 }
 
