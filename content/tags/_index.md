@@ -1,5 +1,5 @@
 ---
-title: Just a Theory Tags
+title: KTamas' Blog Tags
 type: taxterms
 outputs: [html, json, atom]
 ---
