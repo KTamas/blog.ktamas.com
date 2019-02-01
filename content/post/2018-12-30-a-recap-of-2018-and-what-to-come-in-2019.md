@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: 5c03512decdb9c57dca1b26ccc1c8fd5
-title: "A recap of 2018 and what's to come in 2019"
+title: "A Recap of 2018 and What's to Come in 2019"
 date: 2018-12-30T13:06:11Z
 lastMod: 2018-12-30T13:06:11Z
 url: /index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/

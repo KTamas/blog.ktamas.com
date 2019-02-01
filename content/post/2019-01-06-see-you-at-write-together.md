@@ -7,7 +7,7 @@ guid: https://blog.ktamas.com/?p=2365647
 id: 2365647
 url: /index.php/2019/01/06/see-you-at-write-together/
 permalink: /index.php/2019/01/06/see-you-at-write-together/
-title: Follow me on Write Together
+title: Follow Me on WriteTogether
 tags: [writetogether]
 ---
 

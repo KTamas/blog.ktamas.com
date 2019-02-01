@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: 81036211f49a108f9ae44cb448221098
-title: "On blogging, journaling, Evernote, todos and thinking in weeks"
+title: "On Blogging, Journaling, Evernote, Todos and Thinking in Weeks"
 date: 2019-01-03T16:10:20Z
 lastMod: 2019-01-03T16:10:20Z
 url: /index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/

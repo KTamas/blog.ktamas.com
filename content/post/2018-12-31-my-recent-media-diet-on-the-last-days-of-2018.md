@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: 03890f90dff5282f628b62e7335b259b
-title: "My recent media diet in the last days of 2018"
+title: "My Recent Media Diet in the Last Days of 2018"
 date: 2018-12-31T13:18:41Z
 lastMod: 2018-12-31T13:18:41Z
 url: /index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/

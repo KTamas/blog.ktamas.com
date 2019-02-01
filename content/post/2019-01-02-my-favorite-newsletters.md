@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: 151a20948d88992a1626ba124b0ce01e
-title: "My favorite newsletters"
+title: "My Favorite Newsletters"
 date: 2019-01-02T16:07:02Z
 lastMod: 2019-01-02T16:07:02Z
 url: /index.php/2019/01/02/my-favorite-newsletters/

@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: dba06882bfbad389abb1fd137de2fdc6
-title: "A year in smartphones"
+title: "A Year in Smartphones"
 date: 2019-01-01T16:00:02Z
 lastMod: 2019-01-01T16:00:02Z
 url: /index.php/2019/01/01/a-year-in-smartphones/
