@@ -24,7 +24,7 @@ git push origin master
 cd ..
 
 # Add changes to git.
-git add .
+git add public
 
 # Commit changes.
 msg="Site published at `date`"
