@@ -1,11 +1,6 @@
 {{ with .Params.tags }}
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                {{- range . }}
-                {{- $path := (delimit (slice "" "tags" (. | urlize) "") "/") }}
-                <li><a href="{{ absURL $path }}">{{ . }}</a></li>
-                {{- end }}
-            </ul>
+            <i class="fas fa-tags"></i>
+            {{ range $i, $e := . }}{{ if $i }}, {{ end }}<a href='{{ "/tags/" }}{{ $e | urlize }}/'>{{ $e }}</a>{{ end }}
         </div>
 {{- end -}}

@@ -26,4 +26,4 @@ I don't really know yet what 2019 will bring. If the quote/job I mentioned above
 
 Hey look, 300 words!
 
-This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019).
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019).*

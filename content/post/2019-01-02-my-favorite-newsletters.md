@@ -28,4 +28,4 @@ Newsletters are the new blogs, they say, and I hope not because I hate getting e
 
 What are yours?
 
-This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/my-favorite-newsletters).
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/my-favorite-newsletters).*

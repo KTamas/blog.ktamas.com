@@ -24,4 +24,4 @@ Oh, and the Big Fat Quiz of The Year 2018 is out, which is an annual TV event of
 
 Onwards to 2019!
 
-This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018).
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018).*

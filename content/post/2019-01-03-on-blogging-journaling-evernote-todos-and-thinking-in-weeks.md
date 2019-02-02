@@ -26,4 +26,4 @@ In the last few weeks, I'm trying a new experiment with the todos, which is movi
 
 P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in "I'm doing this on week X" or "I'll be on vacation between week Y and Z." If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called "Week Calendar" until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it's a good unit of time. I've been told the Germans do the same.
 
-This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks).
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks).*

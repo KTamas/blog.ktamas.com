@@ -30,4 +30,4 @@ Overall I am pretty happy with the X, and I will stick with it for the foreseeab
 
 The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so... it kinda does for me.
 
-This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/a-year-in-smartphones).
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/a-year-in-smartphones).*

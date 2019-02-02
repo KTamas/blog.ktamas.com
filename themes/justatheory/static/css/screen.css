@@ -29,7 +29,6 @@ table {
     border-spacing: 0
 }
 
-/* Configure Source Sans Pro fonts. */
 @font-face {
     font-family: 'Source Code Pro';
     src: url('/fonts/srccode-bld.woff2') format('woff2'),
@@ -58,30 +57,6 @@ table {
     font-family: 'Source Code Pro';
     src: url('/fonts/srccode-reg.woff2') format('woff2'),
          url('/fonts/srccode-reg.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'FAB';
-    src: url('/fonts/fa-brands.woff2') format('woff2'),
-         url('/fonts/fa-brands.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'FAS';
-    src: url('/fonts/fa-solid.woff2') format('woff2'),
-         url('/fonts/fa-solid.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'FAR';
-    src: url('/fonts/fa-reg.woff2') format('woff2'),
-         url('/fonts/fa-reg.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -290,7 +265,7 @@ table .num {
 }
 
 h1 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.2em
 }
 
@@ -305,7 +280,7 @@ h1.link a:after {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 200;
     text-rendering: optimizelegibility;
-    margin-bottom: .25em;
+    /* margin-bottom: .25em; */
     color: #111
 }
 
@@ -348,8 +323,12 @@ ul {
     list-style-type: disc;
 }
 
-div.tags ul {
-    line-height: 0.7;
+div.tags {
+    font-size: 85%;
+}
+
+div.tags i {
+    font-size: 75%;
 }
 
 article .text li {
@@ -402,7 +381,7 @@ mark {
     background-color: transparent;
     font-weight: normal;
     font-style: italic;
-    font-family: "Source Sans Pro", "Helvetica", sans-serif
+    font-family: "Open Sans", "Helvetica", sans-serif
 }
 
 sup, sub {
@@ -537,12 +516,6 @@ body > div > header {
     padding-bottom: 1rem;
 }
 
-body > div > header .bug {
-    float: left;
-    font-size: 3em !important;
-    line-height: 1.4em !important;
-}
-
 body > div > header > hgroup.top, body > nav, body > div > footer {
     /* padding-left: 18px;
     padding-right: 18px */
@@ -613,28 +586,13 @@ body > div > header > nav li.icon {
     line-height: 1;
 }
 
-.fa-twitter:before {
-    font-family: FAB;
-    content: "\f099";
-}
-
 .fa-twitter:hover {
     color: #55acee !important;
-}
-
-.fa-github:before {
-    font-family: FAB;
-    content: "\f09b";
 }
 
 .fa-github:hover {
     color: #75177d !important;
 }
-  
-.fa-rss:before {
-    font-family: FAS;
-    content: "\f09e";
-}  
   
 .fa-rss:hover {
     color: #ff6600 !important
@@ -797,10 +755,12 @@ a[rel=bookmark]:hover {
     color: #c00
 }
 
-a[rel=bookmark]:after {
-    font-family: FAR;
+div.subheader {
     font-size: 75%;
-    content: '\00a0\f02e';
+}
+
+div.subheader > i {
+    font-size: 75%;
     font-weight:normal;
 }
 
@@ -859,7 +819,7 @@ div.text {
 }
 
 div.text ul {
-    font-size: 80%;
+    font-size: 100%;
 }
 
 div.text ol {
@@ -994,9 +954,6 @@ body > div > footer ul li:last-child {
         text-align: right;
         left: 0em;
         top: .7em;
-    }
-    body > div > header .bug {
-        line-height: 1.3em !important;
     }
 }
 
