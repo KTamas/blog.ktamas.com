@@ -3,7 +3,7 @@
 <p>(Via <a href="{{ .href }}"{{ with .title }} title="{{ .}}"{{ end }}>{{ .name }}</a>)</p>
 {{ end }}
 <footer>
-    <a title="Permanent link to “{{ .Title }}”" href="{{ .Permalink }}">Content</a>
+    <a title="Permanent link to “{{ .Title }}”" href="{{ .Permalink }}">{{ .Title }}</a>
     by {{ with .Site.Author.name }}{{ . }}{{ end }} for <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-{{- partial "tags.html" . }}
+    Tagged {{- partial "tags.html" . }}
 </footer>
