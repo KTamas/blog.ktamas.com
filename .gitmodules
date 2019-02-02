@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ktamas/ktamas.github.io.git
