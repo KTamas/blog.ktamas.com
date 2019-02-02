@@ -6,7 +6,6 @@ date: 2019-01-15T09:56:04Z
 lastMod: 2019-01-15T09:56:04Z
 url: /index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/
 permalink: /index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/
-description: ~
 tags: [sharewood, rss, googlereader, writetogether]
 type: post
 draft: false

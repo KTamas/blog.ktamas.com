@@ -6,7 +6,6 @@ date: 2019-01-16T10:32:14Z
 lastMod: 2019-01-16T10:32:14Z
 url: /index.php/2019/01/16/musings-on-turning-30/
 permalink: /index.php/2019/01/16/musings-on-turning-30/
-description: ~
 tags: [30, thoughts, writetogether]
 type: post
 draft: false
