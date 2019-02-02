@@ -14,7 +14,7 @@ This post was inspired by the Motherboard article, [The Rise and Demise of RSS](
 
 ---
 
-It was early 2012 and Google Reader's sharing function was taken from us, replaced with a useless, shitty "Share to Google+" button (Fuck you, Google). I've been using Reader since late 2005 and the sharing feature since it's introduction; the notion that if I see something interesting on the internet *I must share it with others* was ingrained in me, forever.
+It was early 2012 and Google Reader's sharing function was taken from us, replaced with a useless, shitty "Share to Google+" button (Fuck you, Google). I've been using Reader since late 2006 and the sharing feature since it's introduction; the notion that if I see something interesting on the internet *I must share it with others* was ingrained in me, forever.
 
 It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don't we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.
 
