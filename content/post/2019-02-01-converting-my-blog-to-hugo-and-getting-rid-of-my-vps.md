@@ -43,3 +43,5 @@ Making this move also means that I will start cross-posting my posts from [Write
 Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.
 
 *This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.*
+
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/converting-my-blog-to-hugo-and-getting-rid-of-my-vps).*
