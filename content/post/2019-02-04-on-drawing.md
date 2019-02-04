@@ -1,0 +1,33 @@
+---
+author: KTamas
+id: fd0bb4fc154596080199305187f9f813
+title: "On Drawing"
+date: 2019-02-03T22:05:46Z
+lastMod: 2019-02-03T22:05:46Z
+url: /index.php/2019/02/03/on-drawing/
+permalink: /index.php/2019/02/03/on-drawing/
+tags: [drawing, writetogether]
+type: post
+draft: false
+---
+I started University last fall, and I used that as an excuse to get a 2018 iPad and an Apple Pencil. I had to take notes, after all, and why not do it digitally? The university thing didn't last, but something else happened after a month or so: I started drawing.
+
+---
+
+I wasn't that into drawing as a kid. Sure, I doodled just like everyone else, especially at a young age, and I do remember doing at least one pastel drawing, but that was about it. Hell, I was not much into visual arts either, or so it feels like, with the notable exception of photography. So it surprised even myself when one day, on a whim, I paid $10 for Procreate and promptly spent the next few days glued to my iPad and drawing every waking minute of the day.
+
+A few months before that, [I did a series of portraits](https://facesofxoxo2018.tumblr.com/) at XOXO 2018 and they felt like a natural starting point. I started tracing these photos; open them in Procreate, set the opacity to around 50% or so, create a new layer, pick up my virtual graphite pencil and start drawing over them. I think I did about a dozen of these; [you](https://www.instagram.com/p/BonAsl3Ab18/) [can](https://www.instagram.com/p/BooYFCoAPIs/) [find](https://www.instagram.com/p/BorP2uBAfze/) [some](https://www.instagram.com/p/Bot2On1iq3R/) [of](https://www.instagram.com/p/BoxAg_gChRj/) [them](https://www.instagram.com/p/BozvU_NAlbn/) [on](https://www.instagram.com/p/Bo460bQAE0h/) [my Instagram](https://instagram.com/ktamasenty).  Looking at them months later, I think they don't look too bad for a newbie.
+
+Tracing felt like cheating — even though I know it's not — and the next step was to find something or someone to draw.  I was already aware of a place in Budapest called [Painters Palace](https://www.painterspalace.eu/), a great art community that has weekly figure drawing classes. It's full of amazing people, and they have a fantastic space.
+
+I fell in love with figure drawing the very first time I did it. Drawing the naked human body is may not be the easiest thing, but it's loads of fun. It didn't take me long before I started modeling as well; I did it twice so far, and I plan to do it more in the future. My Instagram has a [few early drawings](https://www.instagram.com/p/BpDQN_cAj0R/) posted, and I started posting my huge backlog to my [art account](https://www.instagram.com/ktamasart).
+
+Another thing I started doing was drawing hands from reference images. [I have](https://www.instagram.com/p/BtG1QNQj3JB/) [a couple](https://www.instagram.com/p/BtI7WwyAdhj/) [of these](https://www.instagram.com/p/BtL7W7EA7yn/) [published](https://www.instagram.com/p/BtbDYBIgrmS/) so far with at least one more to come.
+
+---
+
+There is some irony in the fact that even though I do almost all my drawing digitally, I use pencil and charcoal and I'm consciously trying to make them look like analog drawings. That being said, I don't have much desire to use "real" pencil and paper, at least not right now.
+
+All in all, it's a great outlet for creativity and I'm very happy I discovered it.
+
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/on-drawing).*
