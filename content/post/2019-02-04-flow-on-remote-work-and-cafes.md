@@ -27,3 +27,5 @@ On weekends or where I'm traveling, I go to a Starbucks. They usually have decen
 Working from cafés is in many ways is not ideal, but it's the thing that works for me. What *would be* ideal is a proper office, with coworkers — but I can't give up freelancing for so many reasons. And it's not like I'm alone here; I get to hang out with other friends who work remotely.
 
 So cafés it is.
+
+*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/flow-on-remote-work-and-cafes).*
