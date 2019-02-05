@@ -1,0 +1,29 @@
+---
+author: KTamas
+id: df42229b791904d0d6ee3b8f36768ef9
+title: "Flow (on Remote Work and Cafés)"
+date: 2019-02-04T20:29:15Z
+lastMod: 2019-02-04T20:29:15Z
+url: /index.php/2019/02/04/flow-on-remote-work-and-cafes/
+permalink: /index.php/2019/02/04/flow-on-remote-work-and-cafes/
+tags: [flow, remotework, digitalnomad, writetogether]
+type: post
+draft: false
+---
+I'm a freelancer; I don't have an office. I can't work from home; the silence is deafening, I need the background noise, and I need to be among people. The place I work from every day is a café about 25 minutes from my home; it's called [Flow](https://www.facebook.com/flowcoffeeandbistro/). I am a person of habit: I wake up, I get dressed, I go to Flow and start working.
+
+Flow is one of the many, many specialty cafés in Budapest. Don't ask me about their coffee: I mostly eschew caffeine — [my ADHD meds](https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/) mostly replace caffeine — so my regular drink is an iced decaf latte with oat milk. It's one of the most pointless drinks ever, but I like it.
+
+So I don't go to Flow for their coffee, but for everything else. It's big; ceilings about 5 meters high and plenty of space, unlike most cafés. They have fresh pastries delivered every morning; if I get there early enough, I can nab one of my favorite chocolate rolls. And I kinda know some of the people running the place. They used to have great wifi as well, until the people responsible for it installed a network filter on it, blocking random sites and making work impossible. Thank God for unlimited 4G and tethering. They're vegan, and I'm a carnivore, but they do have delicious tapioca pudding desserts. That, and plenty of power outlets.
+
+Before Flow, I had another café as my base; before that place, another. I tried coworking spaces, and I was even part of one for about 6 months before the community around it started to dwindle.
+
+---
+
+On weekends or where I'm traveling, I go to a Starbucks. They usually have decent wifi, and their decaf is the same everywhere. They're ubiquitous; you can find many of them in most major western cities these days (except for Sweden; there, I'll go to an Espresso House instead).
+
+---
+
+Working from cafés is in many ways is not ideal, but it's the thing that works for me. What *would be* ideal is a proper office, with coworkers — but I can't give up freelancing for so many reasons. And it's not like I'm alone here; I get to hang out with other friends who work remotely.
+
+So cafés it is.
