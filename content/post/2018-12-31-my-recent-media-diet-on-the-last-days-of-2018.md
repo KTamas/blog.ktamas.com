@@ -6,7 +6,7 @@ date: 2018-12-31T13:18:41Z
 lastMod: 2018-12-31T13:18:41Z
 url: /index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/
 permalink: /index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/
-tags: [thoughts, mediadiet, writetogether]
+tags: [thoughts, mediadiet, recommendations, writetogether]
 type: post
 draft: false
 ---
