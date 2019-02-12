@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: 681ff2d776cac473273cfff3da77ea37
-title: "On Living Alone Living With Flatmates and Having the Best Apartment"
+title: "On Living Alone, Living With Flatmates and Having the Best Apartment"
 date: 2019-02-12T13:23:02Z
 lastMod: 2019-02-12T13:23:02Z
 url: /index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/
