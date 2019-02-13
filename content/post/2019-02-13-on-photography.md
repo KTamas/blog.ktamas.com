@@ -2,13 +2,13 @@
 author: KTamas
 id: 6652c522a851e3dd0597587e58b70575
 title: "On Photography"
-date: 2019-02-13T13:24:53Z
-lastMod: 2019-02-13T13:24:53Z
+date: 2019-02-13T09:24:53Z
+lastMod: 2019-02-13T09:24:53Z
 url: /index.php/2019/02/13/on-photography/
 permalink: /index.php/2019/02/13/on-photography/
 tags: [photography, writetogether]
 type: post
-draft: true
+draft: false
 ---
 My father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the [Olympus E-1](https://www.dpreview.com/reviews/olympuse1). 
 
