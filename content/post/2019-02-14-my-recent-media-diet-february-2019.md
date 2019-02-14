@@ -2,10 +2,10 @@
 author: KTamas
 id: 9d66c882d67638962c3f40fd8c674e54
 title: "My Recent Media Diet (February, 2019)"
-date: 2019-02-14T13:26:17Z
-lastMod: 2019-02-14T13:26:17Z
-url: /index.php/2019/02/14/my-recent-media-diet-february-2019/
-permalink: /index.php/2019/02/14/my-recent-media-diet-february-2019/
+date: 2019-02-15T08:26:17Z
+lastMod: 2019-02-15T08:26:17Z
+url: /index.php/2019/02/15/my-recent-media-diet-february-2019/
+permalink: /index.php/2019/02/15/my-recent-media-diet-february-2019/
 type: post
 draft: true
 ---
