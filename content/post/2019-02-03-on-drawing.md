@@ -6,7 +6,7 @@ date: 2019-02-03T22:05:46Z
 lastMod: 2019-02-03T22:05:46Z
 url: /index.php/2019/02/03/on-drawing/
 permalink: /index.php/2019/02/03/on-drawing/
-tags: [drawing, writetogether]
+tags: [drawing]
 type: post
 draft: false
 ---
@@ -29,5 +29,3 @@ Another thing I started doing was drawing hands from reference images. [I have](
 There is some irony in the fact that even though I do almost all my drawing digitally, I use pencil and charcoal and I'm consciously trying to make them look like analog drawings. That being said, I don't have much desire to use "real" pencil and paper, at least not right now.
 
 All in all, it's a great outlet for creativity and I'm very happy I discovered it.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/on-drawing).*

@@ -6,7 +6,7 @@ date: 2019-01-18T16:11:50Z
 lastMod: 2019-01-18T16:11:50Z
 url: /index.php/2019/01/18/writer-unblocked/
 permalink: /index.php/2019/01/18/writer-unblocked/
-tags: [thoughts, writersblock, writetogether]
+tags: [thoughts, writersblock]
 type: post
 draft: false
 ---
@@ -21,5 +21,3 @@ I am not yet sure if I want to write mostly multi-part stories (that you have to
 Then again, I don't want to write just for writing's sake, only to have my streak, like I am doing right now. I want to write meaningful things, things people enjoy and find engaging. I feel like I have a lot of stories to tell; there is enough material. Now I just have to do the writing itself.
 
 This whole post is just a shameless thing to get my streak, look, 300 words exactly.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/writer-unblocked).*

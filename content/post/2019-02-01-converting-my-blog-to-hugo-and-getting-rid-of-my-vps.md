@@ -6,7 +6,7 @@ date: 2019-02-01T11:46:09Z
 lastMod: 2019-02-01T11:46:09Z
 url: /index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/
 permalink: /index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/
-tags: [meta, tech, hugo, writetogether]
+tags: [meta, tech, hugo]
 type: post
 draft: false
 ---
@@ -38,10 +38,8 @@ I spent an hour or two moving everything to Netlify, changing the necessary DNS 
 
 ### On the Future of My Blog
 
-Making this move also means that I will start cross-posting my posts from [WriteTogether](https://writetogether.space/users/ktamas) to here. One-off posts like this one will definitely make it here; the ongoing series I have at WriteTogether will probably stay there until they are done, and then I'll re-edit them into long-form posts and publish them here. I will also post content here that doesn't fit WriteTogether for one reason or another. Feel free to [subscribe to this blog](http://feeds.feedburner.com/KTamasBlog) in your favorite RSS reader.
+There is a lot more content to come as I started writing regularly. Feel free to [subscribe to this blog](http://feeds.feedburner.com/KTamasBlog) in your favorite RSS reader.
 
 Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.
 
 *This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.*
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/converting-my-blog-to-hugo-and-getting-rid-of-my-vps).*

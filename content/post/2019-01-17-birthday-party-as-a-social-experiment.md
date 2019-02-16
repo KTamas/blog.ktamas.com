@@ -6,7 +6,7 @@ date: 2019-01-17T16:07:55Z
 lastMod: 2019-01-17T16:07:55Z
 url: /index.php/2019/01/17/birthday-party-as-a-social-experiment/
 permalink: /index.php/2019/01/17/birthday-party-as-a-social-experiment/
-tags: [30, thoughts, writetogether]
+tags: [30, thoughts]
 type: post
 draft: false
 ---
@@ -23,5 +23,3 @@ I am happy I did that because it was a huge success. I had about a dozen people 
 This Saturday I'm having a party again, with an even more diverse group. It's still scary, but now it's exciting as well. I'm cooking some Mexican food, because as cliche as it is, food brings people together.
 
 You're all invited as long as you can make it to Hungary by 7 pm this Saturday. :)
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/birthday-party-as-a-social-experiment).*

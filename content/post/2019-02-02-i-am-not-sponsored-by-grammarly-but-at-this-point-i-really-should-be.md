@@ -6,7 +6,7 @@ date: 2019-02-02T22:07:51Z
 lastMod: 2019-02-02T22:07:51Z
 url: /index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/
 permalink: /index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/
-tags: [writersblock, writetogether]
+tags: [writersblock]
 type: post
 draft: false
 ---
@@ -23,5 +23,3 @@ About ten years ago, before social media really blew up and blogs were all the r
 In 2019 I feel like it's allright, as long as it's not overdone. I better find something else to write about for tomorrow, though.
 
 *This post was* ***not*** *sponsored by Grammarly, even though I've written about them plenty of times now, so they should really consider doing that.*
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be).*

@@ -6,7 +6,7 @@ date: 2019-01-19T16:18:04Z
 lastMod: 2019-01-19T16:18:04Z
 url: /index.php/2019/01/19/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community/
 permalink: /index.php/2019/01/19/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community/
-tags: [turulcsirip, ideas, writetogether]
+tags: [turulcsirip, ideas]
 type: post
 draft: false
 ---
@@ -35,5 +35,3 @@ There are so many stories, from meetups, through competitors to its eventual dem
 And I want to go on: this is the extremely abridged version of the story. I have a mental list of about a dozen people to interview for this to happen, and I may even have the time for it. I'm not a journalist—though I used to be, a long time ago—but this is something I definitely want to write because I believe it's such an important and unique part of the history of Early Twitter.
 
 Stay tuned.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community).*

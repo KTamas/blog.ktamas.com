@@ -6,7 +6,7 @@ date: 2019-01-16T10:32:14Z
 lastMod: 2019-01-16T10:32:14Z
 url: /index.php/2019/01/16/musings-on-turning-30/
 permalink: /index.php/2019/01/16/musings-on-turning-30/
-tags: [30, thoughts, writetogether]
+tags: [30, thoughts]
 type: post
 draft: false
 ---
@@ -21,5 +21,3 @@ Right now I'm in a pretty great place. I have well-paying clients and hopefully 
 ---
 
 Here's to an even better 40.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/musings-on-turning-30).*

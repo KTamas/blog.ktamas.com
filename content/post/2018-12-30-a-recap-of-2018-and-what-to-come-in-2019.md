@@ -6,7 +6,7 @@ date: 2018-12-30T13:06:11Z
 lastMod: 2018-12-30T13:06:11Z
 url: /index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/
 permalink: /index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/
-tags: [thoughts, recaps, writetogether]
+tags: [thoughts, recaps]
 type: post
 draft: false
 ---
@@ -25,5 +25,3 @@ I didn't plan to travel a lot this year and yet I count 10 (wow) different trips
 I don't really know yet what 2019 will bring. If the quote/job I mentioned above works out, I'll be very busy, and that's something I miss. If not... we'll see.
 
 Hey look, 300 words!
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019).*

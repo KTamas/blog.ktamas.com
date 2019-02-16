@@ -6,7 +6,7 @@ date: 2018-12-31T13:18:41Z
 lastMod: 2018-12-31T13:18:41Z
 url: /index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/
 permalink: /index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/
-tags: [thoughts, mediadiet, recommendations, writetogether]
+tags: [thoughts, mediadiet, recommendations]
 type: post
 draft: false
 ---
@@ -23,5 +23,3 @@ Do yourself a simple favor and check out A Simple Favor (sorry) if you haven't s
 Oh, and the Big Fat Quiz of The Year 2018 is out, which is an annual TV event of mostly British comedians being funny while pretending to play a quiz. It has two-thirds of The IT Crowd and also Michelle Wolf, among others.
 
 Onwards to 2019!
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018).*

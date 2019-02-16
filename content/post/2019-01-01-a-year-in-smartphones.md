@@ -6,7 +6,7 @@ date: 2019-01-01T16:00:02Z
 lastMod: 2019-01-01T16:00:02Z
 url: /index.php/2019/01/01/a-year-in-smartphones/
 permalink: /index.php/2019/01/01/a-year-in-smartphones/
-tags: [tech, phones, writetogether]
+tags: [tech, phones]
 type: post
 draft: false
 ---
@@ -29,5 +29,3 @@ And there are certain things that, even in 2018 are just better in my experience
 Overall I am pretty happy with the X, and I will stick with it for the foreseeable future, even though I recently got myself a Pixel 2 again because I needed an ARCore-capable phone for AR game development.
 
 The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so... it kinda does for me.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/a-year-in-smartphones).*

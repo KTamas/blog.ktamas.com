@@ -6,7 +6,7 @@ date: 2019-02-12T13:23:02Z
 lastMod: 2019-02-12T13:23:02Z
 url: /index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/
 permalink: /index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/
-tags: [musings, thoughts, writetogether]
+tags: [musings, thoughts]
 type: post
 draft: false
 ---
@@ -27,5 +27,3 @@ The location is excellent, well-connected, with major metro and tram lines close
 ---
 
 It's gonna take me a while to adjust to living with someone again, but I'm hoping for the best.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/on-living-alone-living-with-flatmates-and-having-the-best-apartment).*

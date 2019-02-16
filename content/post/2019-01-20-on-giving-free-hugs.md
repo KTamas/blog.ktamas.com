@@ -6,7 +6,7 @@ date: 2019-01-20T16:22:29Z
 lastMod: 2019-01-20T16:22:29Z
 url: /index.php/2019/01/20/on-giving-free-hugs/
 permalink: /index.php/2019/01/20/on-giving-free-hugs/
-tags: [freehugs, thoughts, writetogether]
+tags: [freehugs, thoughts]
 type: post
 draft: false
 ---
@@ -35,5 +35,3 @@ As I've written in the intro, the event is held at a touristy area of Budapest; 
 I'm not saying this is for everyone. Some people simply don't like hugs, are uncomfortable with physical touch, or worse, have past traumas connected to it. And it requires you to really put yourself out there, and be at least somewhat vulnerable.
 
 But if you have one in your city, and this sounds intriguing to you, I highly encourage you to try it. It's a good way to spend an hour on a Sunday afternoon.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/on-giving-free-hugs).*

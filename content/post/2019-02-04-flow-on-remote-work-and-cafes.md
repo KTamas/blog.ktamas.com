@@ -6,7 +6,7 @@ date: 2019-02-04T20:29:15Z
 lastMod: 2019-02-04T20:29:15Z
 url: /index.php/2019/02/04/flow-on-remote-work-and-cafes/
 permalink: /index.php/2019/02/04/flow-on-remote-work-and-cafes/
-tags: [flow, remotework, digitalnomad, writetogether]
+tags: [flow, remotework, digitalnomad]
 type: post
 draft: false
 ---
@@ -27,5 +27,3 @@ On weekends or where I'm traveling, I go to a Starbucks. They usually have decen
 Working from cafés is in many ways is not ideal, but it's the thing that works for me. What *would be* ideal is a proper office, with coworkers — but I can't give up freelancing for so many reasons. And it's not like I'm alone here; I get to hang out with other friends who work remotely.
 
 So cafés it is.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/flow-on-remote-work-and-cafes).*

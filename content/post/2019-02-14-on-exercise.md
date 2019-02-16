@@ -6,7 +6,7 @@ date: 2019-02-14T10:02:11Z
 lastMod: 2019-02-14T10:02:11Z
 url: /index.php/2019/02/14/on-excercise/
 permalink: /index.php/2019/02/14/on-excercise/
-tags: [running, exercise, writetogether]
+tags: [running, exercise]
 type: post
 draft: false
 ---
@@ -65,5 +65,3 @@ I've only been 6 times so far, because I had to skip almost 2 weeks as I got sic
 My personal trainer and I talked about going running once the weather gets better, so who knows, I might pick it up again. For now, my goal is to do a solid hour of workout and hope that I feel at least somewhat better after. I'm not there yet, but I don't hate it either, so the jury's still out.
 
 In any case, I'll keep going.
-
-*This post originally appeared on WriteTogether in [two](https://writetogether.space/posts/ktamas/on-exercise-part-1-or-2) [parts](https://writetogether.space/posts/5/on-exercise-part-2-of-2).*

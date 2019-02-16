@@ -6,7 +6,7 @@ date: 2019-02-13T09:24:53Z
 lastMod: 2019-02-13T09:24:53Z
 url: /index.php/2019/02/13/on-photography/
 permalink: /index.php/2019/02/13/on-photography/
-tags: [photography, writetogether]
+tags: [photography]
 type: post
 draft: false
 ---
@@ -36,7 +36,7 @@ From the earliest days, I shot in RAW and used Lightroom Classic (née Lightroom
 
 In the middle of 2015 and I was about to leave for a couple of months of work and travel in Southern Europe. I didn't want to lug my heavy 6D around, but I felt that having only a phone was not enough. It was a perfect excuse for me to finally buy a Fuji X-E1. By then I was already infected with a fascination with Fuji's mirrorless cameras because one of my former best friends was really into them. I got two lenses for it, the 35mm f/1.4 and the 18-55 f/2.8-4. The autofocus and the EVF sucks, but it makes the most beautiful black and white JPEGs. They have a certain kind of magic to them.
 
-I used it with an [Eye-Fi card](https://en.wikipedia.org/wiki/Eye-Fi) I got a few months prior, an SD card with built-in WiFi that sends all the pictures you take to your phone. Combining that with [my instant printers](https://writetogether.space/posts/ktamas/got-my-paperang-sf-xoxo-2018-series-part-3), I could take DSLR-quality portraits of people and hand it to them printed out two minutes later. It never fails to amaze.
+I used it with an [Eye-Fi card](https://en.wikipedia.org/wiki/Eye-Fi) I got a few months prior, an SD card with built-in WiFi that sends all the pictures you take to your phone. Combining that with my instant printers (Fuji Instax Share SP-2, Paperang P1), I could take DSLR-quality portraits of people and hand it to them printed out two minutes later. It never fails to amaze.
 
 ---
 
@@ -51,5 +51,3 @@ I don't know what the future will bring, but I wouldn't be surprised if eventual
 ---
 
 You can find some of my photos [on my Facebook page](https://www.facebook.com/ktamasphotovideo/).
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/ktamas/on-photography).*

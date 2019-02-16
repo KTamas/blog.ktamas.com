@@ -6,7 +6,7 @@ date: 2019-02-02T16:44:59Z
 lastMod: 2019-02-02T16:44:59Z
 url: /index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/
 permalink: /index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/
-tags: [adhd, series, mentalhealth, writetogether]
+tags: [adhd, series, mentalhealth]
 type: post
 draft: false
 ---
@@ -34,7 +34,7 @@ Around the age of 16 or so, to the recommendation of my psychiatrist, my parents
 
 ---
 
-I worked as a journalist through high school and started freelancing with a translation agency as well, who hired me full-time after my graduation. (This is where my [ongoing series about my time in Sweden](https://writetogether.space/posts/ktamas/there-and-back-again-part-1) starts)
+I worked as a journalist through high school and started freelancing with a translation agency as well, who hired me full-time after my graduation.
 
 Things went mostly well for the first few years; everything was new, and novelty is a huge motivational factor for ADHD. Working in the same office together with people is helpful too, not to mention deadlines. They did let me be a generalist and work at my own pace when client work was not involved. This was both a blessing and a curse; I didn't feel any unnecessary pressure, but in hindsight, I procrastinated a lot and beat myself up for it (I still do). I don't subscribe to the cult and fetishization of productivity, but that's a fact. A bit of nudge from someone goes a long way. I was suffering in a lot of different ways as well; I'll get back to these things later in this article.
 
@@ -120,7 +120,7 @@ It's important to note that ADHD does not exist in a vacuum. It can be and more 
 
 Last time we saw our protagonist — about two dozen paragraphs ago — he got rediagnosed and started taking stimulant medication again. What could have possibly gone wrong?
 
-Plenty, as it turns out. A couple of months after starting my meds again, my lifelong untreated anxiety issues reached a breaking point, and I started having panic attacks (more about that in [this post](https://writetogether.space/posts/ktamas/there-and-back-again-part-1)). It forced me to seek help finally and so I did: I started a medication that helped me a lot, but I also had to take another break from Ritalin, one that would last a bit more, than a year. During that time, my anxiety issues improved, I moved to Sweden in January 2013, and I also started going to therapy.
+Plenty, as it turns out. A couple of months after starting my meds again, my lifelong untreated anxiety issues reached a breaking point, and I started having panic attacks. It forced me to seek help finally and so I did: I started a medication that helped me a lot, but I also had to take another break from Ritalin, one that would last a bit more, than a year. During that time, my anxiety issues improved, I moved to Sweden in January 2013, and I also started going to therapy.
 
 Through a stroke of luck, I got to a government-funded psychiatrist pretty quickly in Sweden. What seems unreal looking back is that I literally walked into his office, told him my history over the next 90 minutes, discussed what medications I need and he simply prescribed them. I would later learn that this is almost an exception and a lot of places in the world want some sort of proof in writing, and they won't just take your word for it. 
 
@@ -195,5 +195,3 @@ This is excellent and practical, structured into concise chapters. After you get
 I believe this is *one of the most important books* I've read about ADHD. It has changed my view on it profoundly, and I consider it a must-read. It has sections on both childhood, and adult ADHD and his two chapters about nurturing your inner child are something I re-read every couple of months. 
 
 The book poses the theory that ADHD is a combination of being born with an above-average sensitivity to outside impulses and early childhood trauma, primarily the lack of proper attachment/attunement to the caregiver parent (typically the mother). Again, this fits me; but it may not fit you, and it's not that mainstream. Then again, mainstream is still pretty scattered — pun not intended — on the origins of ADHD.
-
-*This post originally appeared on WriteTogether [in](https://writetogether.space/posts/5/re-take-your-pills-part-1) [three](https://writetogether.space/posts/5/re-take-your-pills-my-story-of-adhd-part-2-of-3) [parts](https://writetogether.space/posts/5/re-take-your-pills-my-story-of-adhd-part-3-of-3). It has been lightly re-edited for the blog.*

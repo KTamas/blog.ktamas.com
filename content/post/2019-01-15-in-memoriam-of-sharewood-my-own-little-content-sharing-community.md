@@ -6,7 +6,7 @@ date: 2019-01-15T09:56:04Z
 lastMod: 2019-01-15T09:56:04Z
 url: /index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/
 permalink: /index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/
-tags: [sharewood, rss, googlereader, writetogether]
+tags: [sharewood, rss, googlereader]
 type: post
 draft: false
 ---
@@ -39,5 +39,3 @@ My itch to share things is still very much present; I [maintain a Tumblr blog](h
 I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.
 
 The itch is still there.
-
-*This post originally appeared on WriteTogether in [two](https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-1-of-2) [parts](https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-2-of-2).*

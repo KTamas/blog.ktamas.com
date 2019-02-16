@@ -6,7 +6,7 @@ date: 2019-01-03T16:10:20Z
 lastMod: 2019-01-03T16:10:20Z
 url: /index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/
 permalink: /index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/
-tags: [metablogging, adhd, writetogether]
+tags: [metablogging, adhd]
 type: post
 draft: false
 ---
@@ -25,5 +25,3 @@ I usually make a note a day with the title being the current date. I make a lot 
 In the last few weeks, I'm trying a new experiment with the todos, which is moving to a weekly format, so I have one Note with the todos for Week 51, one for Week 52 and so on. In each note, I have each day and a "Later" section, and I try to add as many things as possible because it gives me a sense of achievement and it's nice to look back on days when I thought I got nothing done.
 
 P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in "I'm doing this on week X" or "I'll be on vacation between week Y and Z." If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called "Week Calendar" until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it's a good unit of time. I've been told the Germans do the same.
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks).*

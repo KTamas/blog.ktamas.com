@@ -6,7 +6,7 @@ date: 2019-01-31T16:40:50Z
 lastMod: 2019-01-31T16:40:50Z
 url: /index.php/2019/01/31/on-wine-and-anxiety/
 permalink: /index.php/2019/01/31/on-wine-and-anxiety/
-tags: [writersblock, wine, writetogether]
+tags: [writersblock, wine]
 type: post
 draft: false
 ---
@@ -37,5 +37,3 @@ I'm back in Hungary now, and though there are stores where you can get import wi
 ---
 
 My friends started arriving. Time for me to order a glass of Syrah...
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/on-wine-and-anxiety).*

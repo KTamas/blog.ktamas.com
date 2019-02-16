@@ -6,7 +6,7 @@ date: 2019-01-02T16:07:02Z
 lastMod: 2019-01-02T16:07:02Z
 url: /index.php/2019/01/02/my-favorite-newsletters/
 permalink: /index.php/2019/01/02/my-favorite-newsletters/
-tags: [recommendations, lists, writetogether]
+tags: [recommendations, lists]
 type: post
 draft: false
 ---
@@ -27,5 +27,3 @@ Newsletters are the new blogs, they say, and I hope not because I hate getting e
  [[archives](https://us8.campaign-archive.com/home/?u=f74a824f6424f5f5819ec0f77&id=738ef47ea4)]
 
 What are yours?
-
-*This post originally appeared on [WriteTogether](https://writetogether.space/posts/5/my-favorite-newsletters).*
