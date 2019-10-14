@@ -12,7 +12,7 @@
 		"avatar": {{ . | jsonify }}{{ end }}
 	},{{ end }}{{ $params := . }}
 	"items": [
-	{{- range $index, $entry := .Pages }}
+	{{- range $index, $entry := .Site.RegularPages }}
 	{{- if $index }}, {{ end }}
 		{
 			"id": {{ .Permalink | jsonify }},

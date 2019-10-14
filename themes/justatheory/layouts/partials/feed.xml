@@ -16,7 +16,7 @@
 	<generator uri="https://gohugo.io/" version="{{ .doc.Hugo.Version }}">Hugo</generator>{{ with .Site.Params.icon }}
 	<icon>{{ . | absURL | jsonify }}</icon>{{ end }}{{ with .Site.Copyright }}
 	<rights>{{.}}</rights>{{ end }}{{ $params := . }}
-	{{- range .Pages }}
+	{{- range .Site.RegularPages }}
 	<entry>
 		<id>{{ .Permalink }}</id>
 		<title>{{ .Title }}</title>
