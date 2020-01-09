@@ -62,4 +62,9 @@ googleAnalytics = "UA-19057096-1"
   page = ["html", "text"]
 
 [taxonomies]
-    tag = "tags"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
