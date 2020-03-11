@@ -48,7 +48,7 @@ So, great, you've cleaned up your timeline and now it's 50% less anxiety-inducin
 For that, we'll employ another Twitter feature: Lists. More importantly, the fact that *muted words do not affect lists*. So all you need to do is put everyone you follow on a private list; you can even pin that to your timeline on iOS (and maybe Android too?).
 
 ![pinned list](https://i.imgur.com/IjMEFqY.jpg)
-*Here's the list I use, pinned on my timeline and I can just swipe right to read it. On Desktop, you find it under Lists but of course you can bookmark it as well.* 
+*Here's the list I use, pinned on my timeline and I can just swipe right to read it. On Desktop, you'll find it under Lists but of course you can bookmark that as well.* 
 
 Now, you can, of course, go through each and every person you follow and manually add them to your "Unfiltered" list, but that's going to be very time-consuming, so we're going to use some command-line magic to do this in one big swoop.
 
