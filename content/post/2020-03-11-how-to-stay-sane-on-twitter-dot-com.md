@@ -7,7 +7,7 @@ lastMod: 2020-03-11T12:41:30Z
 url: /index.php/2020/03/11/how-to-stay-sane-on-twitter-dot-com/
 permalink: /index.php/2020/03/11/how-to-stay-sane-on-twitter-dot-com/
 description: ~
-tags: [twitter, sanity]
+tags: [twitter, sanity, mentalhealth]
 type: post
 draft: false
 ---
@@ -21,7 +21,7 @@ That's where our weapon of choice comes in: Twitter's ["Muted words" feature](ht
 
 This feature is far from perfect as it comes with several limitations, but it does the job:
 
-* It matches exact words and that's it. It does not know about conjugation, plurals or the possessive `'s` — which is yes, technically, is part of the word — so if you want to mute the word `Trump`, you'll also have to mute `Trump's`; if you're going to mute the word `senator` you'll also have to mute `senators` and so on. It is also not [case sensitive](https://en.wikipedia.org/wiki/Case_sensitivity), which is a good thing for us.
+* It matches exact words and that's it. It does not know about conjugation, plurals or the possessive `'s` — which is yes, technically, is part of the word — so if you want to mute the word `Trump`, you'll also have to mute `Trump's`; if you're going to mute the word `senator` you'll also have to mute `senators` and so on. It is also [case insensitive](https://en.wikipedia.org/wiki/Case_sensitivity), which is (mostly) a good thing for us.
 * You can only mute up to 200 words. That sounds like a lot at first, but trust me, it's far too easy to run into that limit. There isn't much you can do about it; I try to curate my muted word list and regularly remove things that are not in the ~discourse~ anymore. You can specify how long you want to mute a given word; use this wisely. They expire automatically, but you do have to remove them by hand to free up the space.
 
 On the web, muted words are listed in reverse chronological order; on mobile, however, it's sorted alphabetically, which can be useful at times.
