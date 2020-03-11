@@ -52,7 +52,7 @@ For that, we'll employ another Twitter feature: Lists. More importantly, the fac
 
 Now, you can, of course, go through each and every person you follow and manually add them to your "Unfiltered" list, but that's going to be very time-consuming, so we're going to use some command-line magic to do this in one big swoop.
 
-What you need: Ruby 2.4+ installed on your computer and having a Developer account at Twitter. For the latter, if you haven't done so yet, go to [developer.twitter.com](developer.twitter.com) and apply for one; unfortunately, it can sometimes take days for them to approve you. Once that's done, create a new, dummy app you'll use for this.
+What you need: [Ruby](https://www.ruby-lang.org/en/) 2.4+ installed on your computer and having a Developer account at Twitter. For the latter, if you haven't done so yet, go to [developer.twitter.com](developer.twitter.com) and apply for one; unfortunately, it can sometimes take days for them to approve you. Once that's done, create a new, dummy app you'll use for this.
 
 Next, install the [`t`](https://github.com/sferik/t) gem: `gem install t`, and because it's a bit old, downgrade the `twitter` gem: `gem install twitter -v 6.1.0 && gem uninstall twitter -v 6.2.0`.
 
@@ -62,4 +62,4 @@ Now you're ready. Create a new list on the Twitter web UI, name it whatever you 
 
 And that's it! You now have both a heavily filtered timeline that keeps you mostly sane, but also the ability to check it out without any of those filters, if you wish to.
 
-The only thing you have to keep in mind now is whenever you follow or unfollow someone, you'll have to add them to your Unfiltered Twitter list as well. I find that to be a small price to pay, personally.
+The only thing you have to keep in mind now is **whenever you follow or unfollow someone, you'll have to add or remove them to/from your Unfiltered Twitter list as well**. I find that to be a small price to pay, personally.
