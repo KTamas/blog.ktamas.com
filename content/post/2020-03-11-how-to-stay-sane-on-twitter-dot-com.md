@@ -11,9 +11,9 @@ tags: [twitter, sanity, mentalhealth]
 type: post
 draft: false
 ---
-If you're like me, you probably spend a lot of time on Twitter. I don't blame nor judge you for that — it's a simple fact of life. However, if you're reading this, you are also aware that it can be overwhelming and anxiety-inducing at times, what with everyone being on edge for, ah, many reasons these days.
+If you're like me, you probably spend a lot of time on Twitter. I don't blame nor judge you for that — it's a simple fact of life. You are also aware that it can be overwhelming and anxiety-inducing more often than not, what with everyone being on edge for, ah, many reasons these days.
 
-Sure, you could just spend less time on the hellsite, but we both know that's not going to happen.  Instead, let's take a few steps to improve our experience and lessen the impact it has on our mental health.
+Sure, you could just spend less time on the hellsite, but we both know that's not going to happen. Instead, let's take a few steps to improve our experience and lessen the impact it has on our mental health.
 
 You already know how to unfollow, mute and block people, and that's definitely the first line of defense. But there are a lot of people whom you enjoy following and reading, but perhaps they are passionate about specific topics you'd rather not be bombarded with 24/7 on your timeline?
 
