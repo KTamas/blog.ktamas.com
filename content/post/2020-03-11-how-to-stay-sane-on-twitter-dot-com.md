@@ -11,7 +11,7 @@ tags: [twitter, sanity, mentalhealth]
 type: post
 draft: false
 ---
-If you're like me, you probably spend a lot of time on Twitter. I don't blame you nor judge for that — it's a simple fact of life. However, if you're reading this, you are also aware that it can be overwhelming and anxiety-inducing at times, what with everyone being on edge for, ah, many reasons these days.
+If you're like me, you probably spend a lot of time on Twitter. I don't blame nor judge you for that — it's a simple fact of life. However, if you're reading this, you are also aware that it can be overwhelming and anxiety-inducing at times, what with everyone being on edge for, ah, many reasons these days.
 
 Sure, you could just spend less time on the hellsite, but we both know that's not going to happen.  Instead, let's take a few steps to improve our experience and lessen the impact it has on our mental health.
 
