@@ -11,6 +11,8 @@ tags: [recipe, grandma, soup]
 type: post
 draft: false
 ---
+![photo of soup](https://i.imgur.com/uwF6BlN.jpg)
+
 ### Ingredients
 for the soup:
 - 1kg green peas (ideally fresh but frozen works)
