@@ -33,7 +33,7 @@ thickening (roux):
 ### Instructions
 Boil the peas in a large pot with water for 15-30 minutes, until a white foam on the top appears. Take it off the stove, replace the water with chicken broth (or just water). Cook until green peas are soft (it really depends on what kind of peas can you get, anywhere between 20 minutes and 4 hours). Make sure to cut the carrots and add them to the soup **before the peas are done** so they have time to get soft as well.
 
-Prepare the noodles: mix 2 tablespoons of oil and 6 tablespoons of flour. Sift the flour, if possible. Mix it well until it is smooth.
+Prepare the noodles: beat 2 eggs then add 6 tablespoons of flour. Sift the flour, if possible. Mix it well until it is smooth.
 
 When the carrots are soft, do the thickening:
 
