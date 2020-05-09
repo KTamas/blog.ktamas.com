@@ -1,0 +1,77 @@
+---
+author: KTamas
+id: 87639f87dc966ada65e281f06861b387
+title: "My Recent Media Diet March April 2020"
+date: 2020-05-01T08:40:04Z
+lastMod: 2020-05-01T08:40:04Z
+url: /index.php/2020/05/01/my-recent-media-diet-march-april-2020/
+permalink: /index.php/2020/05/01/my-recent-media-diet-march-april-2020/
+description: ~
+tags: [thoughts, mediadiet, recommendations]
+type: post
+draft: false
+---
+Previously: [February 2020](https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/), [January 2020](https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/), [Best of Media (2019)](https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/)
+
+Time to catch up with things I've been watching/enjoying! I am shamelessly copying [Kottke's format](https://kottke.org/19/06/my-recent-media-diet-summer-solstice-2019-edition), with some minor changes.
+
+---
+
+Wow. Jesus. It's been, uh, a decade since my last post and a lot has changed. I was way too overwhelmed with *gestures with hands* to finish it so this will be a combined March/April post.
+
+---
+
+# Movies
+
+[Bad Education (2019)](https://www.imdb.com/title/tt8206668/): This is a movie, though it's an HBO movie. It's filled with a ton of stars and it's like the worst bits of oscar-bait movies meet with the worst bits of prestige television. It's just... boring. (C)
+
+[Cittadini del Mondo (2019)](https://www.imdb.com/title/tt8916728/): Both me and my sister agreed that this movie is boring and left the movie theater halfway through.
+
+[Meet Joe Black (1998)](https://www.imdb.com/title/tt0119643/): Rewatch. I tried and I tried and I just couldn't get into it, even though I really liked it a couple years ago when I first watched it.
+
+[Melting Souls (2018)](https://www.imdb.com/title/tt8251150/): This is a fascinating documentary about factory workers in the middle of nowhere, Norilsk, Siberia. It was a good watch. Not sure where you can watch it; it's up on Vimeo but with French subtitles. There is a [longread in the NYT](https://www.nytimes.com/2019/10/20/world/europe/russia-internet-norilsk-youtube-arctic.html) that serves as a de-facto epilogue for it, though. (A-)
+
+[National Treasure (2004)](https://en.wikipedia.org/wiki/National_Treasure_(film)): This was surprisingly fun! Probably one of the better Nick Cage movies. (B)
+
+[Portrait of a Lady on Fire (2019)](https://www.imdb.com/title/tt8613070/): What happens if you take the AO3 tags "slow burn" and "pining" and turn it up to like, 200%? This movie. It's awesome. It's my second favorite movie of the year after Little Women. Go watch it, it's out everywhere. (A+)
+
+[TiMER (2009)](https://www.imdb.com/title/tt1179794/): This would have been a "meh" low-budget scifi but then they had to completely mess up the ending. Ugh.
+
+[The Gentleman (2019)](https://www.imdb.com/title/tt8367814/): Left the movie theater after 30 minutes or so. I was in a bad mood, but later on, I checked out the rest of the plot on Wikipedia and had no regrets. If you want to watch something from Guy Ritchie, just stick to [Lock, Stock...](https://en.wikipedia.org/wiki/Lock,_Stock_and_Two_Smoking_Barrels) and [Snatch](https://www.imdb.com/title/tt0208092/), his two great movies he keeps trying to recreate for the last 20 years.
+
+[The Revenant (2015)](https://www.imdb.com/title/tt1663202/): I had low expectations but I ended up kinda loving this? I'm not 100% onboard with the ending but I'll allow it. This movie is a hell of a ride and done amazingly well. Iñárritu has a good reputation for a reason. (A)
+
+[The Way Back (2020)](https://www.imdb.com/title/tt8544498/): This new Sad Ben Affleck movie is solid. If you like watching Ben Affleck being Sad for two hours, this is definitely your movie. There is also basketball. (A-)
+
+[Transformers (2007)](https://www.imdb.com/title/tt0418279/): God this is boring even as a background watch.
+
+
+# TV Shows
+
+[Amazing Stories (season 1, episode 1)](https://en.wikipedia.org/wiki/Amazing_Stories_(2020_TV_series)): Oof, yikes. This show is stuck in the 80s. I might check out more episodes, but I probably won't? Mostly a waste of time. (C)
+
+[Devs (miniseries)](https://en.wikipedia.org/wiki/Devs_(miniseries)): Well, this sucked. It starts out strong and fairly quickly gets worse and worse. However, do give it a try; it's very much a love/hate kind of show. You might just end up loving it, several of my friends did. (C)
+
+[Doctor Who (season 12, episode 10)](https://en.wikipedia.org/wiki/Doctor_Who): This season has been a letdown overall but the last two episodes were not half bad, by Doctor Who standards anyway. Still, I'm starting to miss Moffat, as bad as that era could be at times. (B-)
+
+[Halt and Catch Fire (season 1, season 2 eps 1-5)](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)): Rewatch. This is one of my favorite shows, and it's one of those that gets every season. It starts out strong; the first few episodes are great, but the second half of the first season is Not Great. It really starts finding itself in season 2, when they figure out which characters they should focus on. Season 2 is far from perfect, but I already know it gets even better. I know this may be a tough sell but if you haven't: watch this show. You won't regret it. (B-; B+)
+
+[High Maintenance (season 4, episodes 4-5)](https://en.wikipedia.org/wiki/High_Maintenance): I watched two episodes of this, and then I had to stop because The Plague started and there was just something overwhelming about seeing NYC business as usual in the show. I might watch the rest of the episodes of the season later though. (A-)
+
+[Homeland (season 8, episodes 4-12)](https://en.wikipedia.org/wiki/Homeland_(TV_series)): This season was probably better than the previous two; more tightly written, but still sticking to the — by now — standard Homeland tropes, playing them to their logical extremes. This was the final season of the show and the ending is very on-brand, for better or worse. (B-)
+
+[Killing Eve (season 3, episodes 1-3)](https://en.wikipedia.org/wiki/Killing_Eve): Season 1 of this show is a masterpiece; Season 2 is a mess and ultimately a disappointment. However there are signs that things might be improving, so I'm cautiously optimistic. (B+)
+
+[Run (miniseries, episodes 1-3)](https://en.wikipedia.org/wiki/Run_(American_TV_series)): This is a show created by Vicky Jones (Fleabag) and produced — among other people — by Phoebe Waller-Bridge, which was already enough to make me watch it, and boy does it deliver so far. (A)
+
+[Star Trek: Picard (season 1, episodes 7-10)](https://en.wikipedia.org/wiki/Star_Trek:_Picard): An inconsistent ending to an inconsistent season, that's noticeably better in its second half and yet stumbles landing it. There is another season coming, should we survive the Plague, and I'm kinda looking forward to that. (B-)
+
+[The Magicians (season 5, episodes 9-13)](https://en.wikipedia.org/wiki/The_Magicians_(American_TV_series)): I love this show and the characters so fucking much. Another show that mostly got better every season; I have [a spoiler-filled love letter](https://writetogether.space/posts/ktamas/a-love-letter-to-the-magicians-spoilers) written. I saved up the final 5 episodes for a particularly tough time and after I was done with them, I cried for like half an hour, mostly because it was over. The ending was great. The final episodes were great, I'll miss this show so much. (A)
+
+[Unorthodox (miniseries)](https://en.wikipedia.org/wiki/Unorthodox_(miniseries)): Ok so don't let my grade deter you. This is a great show about a girl escaping the ultra-orthodox Satmar Jews in Williamsburg and starting a new life in Berlin. I just really feel like it needed one more episode for it to really bring it home, but even as it is... it's good. There is a "Making Unorthodox" episode on Netflix as well; make sure to watch it after you're done with the show. (B+)
+
+[Westworld (season 3, episode 1-7)](https://en.wikipedia.org/wiki/Westworld_(TV_series)): God, this season is so bad. The first two episodes are great but then it goes downhill rapidly. Watching it feels like a goddamn chore. I don't even know why I'm doing this to myself (I do know, I'm too invested.) One more episode to go and the 4th season is already ordered. (C-)
+
+---
+
+I had to stop watching [Last Week Tonight](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver) for my sanity — I just can't take anymore news these days, even if they are occasionally funny. See you John after the Plague is over.
