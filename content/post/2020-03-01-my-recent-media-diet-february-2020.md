@@ -9,7 +9,7 @@ permalink: /index.php/2020/03/01/my-recent-media-diet-february-2020/
 description: ~
 tags: [thoughts, mediadiet, recommendations]
 type: post
-draft: true
+draft: false
 ---
 Previously: [January 2020](https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/), [Best of Media (2019)](https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/)
 
