@@ -11,7 +11,7 @@ tags: [thoughts, mediadiet, recommendations]
 type: post
 draft: false
 ---
-Previously: [Best of Media (2019)](https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/)
+Previously: [Best of Media, 2019](https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/)
 
 Time to catch up with things I've been watching/enjoying! I am shamelessly copying [Kottke's format](https://kottke.org/19/06/my-recent-media-diet-summer-solstice-2019-edition), with some minor changes.
 
