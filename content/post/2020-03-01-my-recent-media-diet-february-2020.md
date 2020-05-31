@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: 932e6e221ff11b690f75675a29591123
-title: "My Recent Media Diet February 2020"
+title: "My Recent Media Diet (February, 2020)"
 date: 2020-03-01T08:40:12Z
 lastMod: 2020-03-01T08:40:12Z
 url: /index.php/2020/03/01/my-recent-media-diet-february-2020/
@@ -11,7 +11,7 @@ tags: [thoughts, mediadiet, recommendations]
 type: post
 draft: false
 ---
-Previously: [January 2020](https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/), [Best of Media, 2019](https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/)
+Previously: [January](https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/), [Best of Media, 2019](https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/)
 
 Time to catch up with things I've been watching/enjoying! I am shamelessly copying [Kottke's format](https://kottke.org/19/06/my-recent-media-diet-summer-solstice-2019-edition), with some minor changes.
 

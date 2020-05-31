@@ -1,7 +1,7 @@
 ---
 author: KTamas
 id: 342e2d920569fc918cc4c055230311ae
-title: "My Recent Media Diet January 2020"
+title: "My Recent Media Diet (January, 2020)"
 date: 2020-02-01T08:40:16Z
 lastMod: 2020-02-01T08:40:16Z
 url: /index.php/2020/02/01/my-recent-media-diet-january-2020/
