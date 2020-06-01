@@ -2,14 +2,15 @@
 author: KTamas
 id: 695bef5f13ec33d4664e8fea327f7bcc
 title: "My Recent Media Diet (May, 2020)"
-date: 2020-06-01T09:14:31Z
-lastMod: 2020-06-01T09:14:31Z
+date: 2020-06-01T07:14:31Z
+lastMod: 2020-06-01T07:14:31Z
 url: /index.php/2020/06/01/my-recent-media-diet-may-2020/
 permalink: /index.php/2020/06/31/my-recent-media-diet-may-2020/
 description: ~
 tags: [thoughts, mediadiet, recommendations]
 type: post
 draft: false
+description: "Highlights of the month include Never Have I Ever, Normal People and The Great."
 ---
 Previously: [March/April](https://blog.ktamas.com/index.php/2020/05/01/my-recent-media-diet-march-april-2020/), [February](https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/), [January](https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/), [Best of Media, 2019](https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/)
 
