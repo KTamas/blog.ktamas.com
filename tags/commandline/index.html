@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>commandline</title>
+	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000" />
+	<meta name="msapplication-TileColor" content="#000" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://blog.ktamas.com/tags/commandline/" />
+	<meta property="og:title" content="Posts about commandline" />
+	<meta property="og:site_name" content="KTamas&#39; Blog"/>
+	<meta property="og:description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.72.0" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				<h1><a href="/">KTamas&#39; Blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main id="tags">
+		<header>
+			<h2>Posts about commandline</h2>
+		</header>
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2012/08/07/rdp-osx-alatt/">RDP OSX alatt</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-08-07T13:19:22Z">Tuesday, August 7, 2012</time> · 327 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre — és OSX-et használ.</p>
+<p>A rendes felhasználó természetesen először a hivatalos megoldással próbálkozik, a Microsoftnak van egy <a href="http://www.microsoft.com/mac/remote-desktop-client">Remote Desktop Connection Client</a> nevű szoftvere, letölt, felrak, minden megy. Kivéve persze, hogy nem, mert <a href="http://www.microsoft.com/mac/downloads?pid=Mactopia_RDC&amp;fid=68346E0D-44D3-4065-99BB-B664B27EE1F0#viewer">másfél éve nem frissült</a>, és már 10.6 alatt is szeretett kifagyni pl. kilépéskor, 10.7 alatt még instabilabb lett, most így 10.8-ra már fel se rakom. Arról nem is beszélve, hogy például csak egyetlen fix felhasználónév-jelszó-domain triót tud megjegyezni, és ha megjegyeztetjük vele, akkor az összes szervernél ezzel fog próbálkozni. Szóval ez az opció sajnos kiesik, és az ember elkezd alternatívákat keresni.</p>
+<p>Valószínű gyorsan beleakad a <a href="http://cord.sourceforge.net/">CoRD</a>-ba, ami bár egy remek szoftver, van egy hatalmas hibája: a háttérben az <a href="http://en.wikipedia.org/wiki/Rdesktop">rdesktop</a> nevű projektet használja, ami viszont nem tudja hozni a hivatalos kliens sebességeit, egyszerűen lassabb, és emiatt lényegesen kényelmetlenebb.</p>
+<p>A — szerintem — igazi megoldás pediglen a <a href="https://github.com/FreeRDP/FreeRDP">FreeRDP</a>. Ez a már fentebb említett rdesktop projekt egy forkja. GUI sajnos nem jár hozzá, cserébe működik, és gyors. Felrakni legegyszerűbben a homebrew-n keresztül lehet, <code>brew install freerdp</code> és utána máris elérhetővé válik az xfreerdp parancs. Azért X, mert X11-et használ, amit az Apple száműzött a Mountain Lionból, de <em>fear not</em>, <a href="http://xquartz.macosforge.org/landing/">innen</a> le lehet tölteni és felrakni, és újra van X-ünk.</p>
+<p>Az <code>xfreerdp --help</code>ből nagyon gyorsan meg lehet találni, milyen paramétereket kell megadni a kapcsolódáshoz, az egyetlen dolog amit kicsit keresnem kellett, az a vágólap-szinkronizáció, ami — és még pár egyéb funkcionalitás, érdemes elolvasni <a href="http://linux.die.net/man/1/xfreerdp">ezt</a> — valamiért ki van szervezve egy külön pluginba, ezért azt külön be kell vele töltetni vele. Én írtam magamnak egy nagyon egyszerű *sh funkciót, bevágtam a .zshrc-mbe (de ugyanúgy megy bashből is, egyébként), így néz ki:</p>
+<p><code>function rdpw() { xfreerdp -u $1 -p $2 -g 960x720 --plugin cliprdr --ignore-certificate $3 }</code></p>
+<p>Ezután pedig úgy kapcsolódok különböző szerverekhez hogy <code>rdpw Felhasznalo jelszo ide.kapcsolod.ok</code> és már megy is minden.</p>
+<p>(igen tudom hogy lassan kéne csinálnom egy külön blogot a tech dolgoknak)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/commandline/'>commandline</a>, <a href='/tags/mac/'>mac</a>, <a href='/tags/osx/'>osx</a>
+        </div>
+    </article>
+
+		
+		
+
+
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2020. All Rights Reserved.</p>
+		</footer>
+		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-19057096-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	</div>
+</body>
+</html>
+

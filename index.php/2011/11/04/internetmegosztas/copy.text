@@ -1,0 +1,16 @@
+Internetmegosztás
+=================
+
+
+Mit csinál az ember, ha elvágják az épületben a koaxot és hirtelen egy egész iroda marad internet nélkül? 40 ember nem tud éppen dolgozni, valamit muszáj kezdeni a helyzettel. Mobilnetünk van, és a céges routeren van külön USB port ennek &#8212; de pont a mi modemünket nem támogatja. Pánikra azonban semmi ok: mobilnetet be a gépünkbe, fel vele az világhálóra, majd azt azt továbbosztjuk rögtön a gép hálókártyájára. Ezután a kábelmodem WAN portjából átdugjuk a hálókábelt a gépbe, és már csak a routernek kell megmondani, hogy az internetet DHCP-n kérje, és hirtelen az egész irodában újra van net. Távolról sem olyan gyors ugyan, mint 120 megabites UPC, de arra a fél órára tökéletes&#8230;
+
+-------------------------------------------------------------------------------
+
+Friday, 4 Nov 2011
+By KTamas
+https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/
+
+More about...
+
+* random: https://blog.ktamas.com/tags/random/
+* tech:   https://blog.ktamas.com/tags/tech/

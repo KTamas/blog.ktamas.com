@@ -1,0 +1,29 @@
+Koltozes a felhobe
+==================
+
+
+Ket dolog tortent, az egyik, hogy mostanaban folyton elszallt a php-nginx kombo egyszercsak [a 64 megas VPS-en](http://blog.ktamas.com/index.php/2010/10/12/64-megabytes-should-be-enough-for-everyone/), amit anno osszeraktam. Frissitettem, megneztem a konfigokat, megis, egyszercsak elhalt az egesz, kezzel kellett ujrarugni. A masik dolog, ami tortent, hogy mikor tegnap este ismetelten kaptam a pingdomtol emailt, hogy &#8220;DOWN alert: blog (blog.ktamas.com) is DOWN&#8221;, akkor azt mondtam, hogy oke, eljatszotta az utolso lehetoseget is a helyzet, holnap (azaz ma) uj VPS-t keresunk. 
+
+Azaz, kerestunk volna, mert ma reggel kaptam egy emailt, ami igy kezdodott:
+
+> &#8220;You have been selected to enter the PHP Fog Beta program!&#8221;
+
+A masik dolog, ugyanis ami mostanaban tortent, az az volt, hogy egyre-masra bukkannak fel a [hacker news](http://news.ycombinator.com/)on [Heroku](http://www.heroku.com/)-szeru cloudos PaaS-ok (Platform as a Service), eloszor talan pythonhoz-djangohoz, majd kesobb mindenfele mas programnyelv/framework/egyeb kombohoz. Mint anno a betas Heroku, ok is altalaban ingyenes betakra epulnek, hogy az emberek jol kibetatesztelik az ingyenes/olcso szolgaltatasert cserebe az egeszet. Raadasul a deployment szinte kivetel nelkul giten keresztul megy, ami iszonyat kenyelmesse teszi a dolgot, mostanaban egyre tobb projekten dolgozok amihez amugyis azt hasznalom ([itt a githubom](http://www.github.com/ktamas/), nem disznolab). De eloreszaladok, ez egy masik blogposzt temaja lesz, remelhetoleg hamarosan.
+
+Szoval kaptam PHP Fog betat, amire miert is ne alapon bejelentkeztem meg circa szuk ket honapja, megcsinaltam az accountot, csinaltam egy uj wordpress appot (fel evig ingyenes a legkisebb csomagban, aztan majd meglatjuk), kidumpoltam az adatbazist a regi szerveren, kimasoltam a gepemre a regi wordpress mappammal egyutt, git-cloneoztam a repot arrol az URL-rol, amit a PHP Fog adott nekem, felulirtam a wp-content mappat a regivel, behuztam PhpMyAdminbol a regi adatbazist, eeees&#8230; futottam meg egy kort a supporttal, mert hiaba pusholtam a szerverre, hiaba mondta h sikeres, a friss wordpress telepites nem nagyon latta a repoba rakott fajlokat. Mindenesetre dicseretes, hogy a szupportosok szombat ellenere par ora alatt valaszoltak es megjavitottak a helyzetet, atraktam a domain A-rekordjat, ujraimportaltam a DB-t mert azota irtam egy posztot, es most meg eppen ezt irom.
+
+A felho tehat borzasztoan kenyelmesse tesz dolgokat, ami persze nem jelenti azt, a helyzet felhotlen lenne (elnezest), az elmult napokban is voltak erre peldak, ugye, mindenesetre programozooldalrol tenyleg iszonyat kenyelmesse tesz dolgokat, hogy (kis tulzassal) git push, es szevasztok. A bennem levo controlfreak rendszergazda most epp el van tehat nyomva, de biztos ki fog jonni egyszercsak&#8230;
+
+-------------------------------------------------------------------------------
+
+Saturday, 30 Apr 2011
+By KTamas
+https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/
+
+More about...
+
+* énblog:      https://blog.ktamas.com/tags/%C3%A9nblog/
+* linux:       https://blog.ktamas.com/tags/linux/
+* meta:        https://blog.ktamas.com/tags/meta/
+* programozás: https://blog.ktamas.com/tags/programoz%C3%A1s/
+* szerverek:   https://blog.ktamas.com/tags/szerverek/

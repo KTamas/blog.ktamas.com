@@ -1,0 +1,39 @@
+vim
+===
+
+
+Nem tudom mikor kezdodott igazabol. Regen, maces koromban en is TextMatet hasznaltam persze, _like all the cool kids in town_, akkor foleg Rubyhoz, meg a Railses kiserletezeshez. Kesobb jott a Windows es Ubuntu kozott orlodo korszakom, amikor leginkabb semmit, mert sokkal keveset programoztam, de talan akkor talaltam meg ezt a ket blogpostot: [Rails on VIM](http://akitaonrails.com/2009/01/04/rails-on-vim-in-english) illetve [Rails on Windows](http://www.akitaonrails.com/2009/01/13/the-best-environment-for-rails-on-windows).
+
+(wow, ez tenyleg ket eve volt mar? Repulazido es egyeb kozhelyek.)
+
+Ekkor mar kiserletezgettem a vimmel, mindenesetre a ket tutorialt vegigtoltam, felraktam a teljes [akitaonrails vimfilesot](https://github.com/akitaonrails/vimfiles), jatszottam a vimtutorral (szegyellem, de azt azota se toltam teljesen vegig), nezegettem [cheat sheeteket](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html), olvastam itt-ott-amott hogy ez tenyleg milyen jo, ugyetlenkedve hasznaltam, neha, es aztan bizonyos kornyezetekbe (pl. szervereken amiket adminisztralok) be is alltam ra, mint szovegszerkeszto, kicsit esetlenul, tudtam max egy tucat parancsot, de mar ugy is kenyelmesebb volt, mint pl. a nano.
+
+Igy teltek az evek, kozben a cegbe&#8217; ujra lett egy macem, vissza is estem TextMatebe ha kodolni kellett valamit, otthon pedig atalltam Ubuntura, ha nagyritkan kodolni kelett, akkor, helyenkent szerencsetlenkedve, de vimben csinaltam. Aztan [gazzsal](http://github.com/gazs) megirtuk harom ejszaka alatt a [bullshitbingot](https://github.com/KTamas/bingo-nodejs) (ne kattintsd le, erre a kodra egyikunk se igazan buszke), es akkor ledozeroltam az aktualis harmincpluginos internetrolszedett vimconfigom, lenyultam [gazs](http://bergengocia.net/) huszsoros configfajljat, beraktam meg par dolgot, es mar-mar produktivan dolgoztam benne.
+
+Fast-forward par honap, eljo aprilis masodik fele, zajlik az elet (hajjaj, de meg mennyire), mindenesetre tobbszor felvetettuk egymasnak gazzsal, hogy mostmar meg kene rendesen irni a bingot &#8212; es ezt ismetelten egy masik, hamarosan megirt postra hagyom, mert nagyon elkalandoznek &#8211;, [elkezdtunk](http://github.com/KTamas/googlesets) [mindenfele](http://github.com/KTamas/bingoprototype) [dolgokat](http://github.com/KTamas/scrobbletuberepeat) kodolni, en gyakorlatilag vegigkodoltam a teljes husvetot, es valami tortent, mar nem vagytam vissza TextMatebe, mar jol ereztem magam. Ha valami feature kellett, on-the-fly felraktam (a [pathogen](http://www.vim.org/scripts/script.php?script_id=2332) + git submodule kombo nagyon utos), es most bo ket het utan [itt tartok](https://github.com/ktamas/vimfiles), van egy ketszeresere nott vimrc, osszejott idokozben vagy&#8217; 10 bundle (amiket viszont hellyel-kozzel tenyleg hasznalok), es azzal, hogy tenyleg napokat kodoltam at, megtanultam igazan ertekelni azt, ha van egy jo szovegszerkeszto, ami alapvetoen tenyleg a keze ala dolgozik, es ugy szabod testre, ahogy te akarod.
+
+Itt van peldaul a vim 7.3 legnagyobb ficsorje, amit par napja talaltam meg a hires [Coming home to vim](http://stevelosh.com/blog/2010/09/coming-home-to-vim/) cikkben, az undofile. [Ha bekapcsolod](https://github.com/KTamas/vimfiles/blob/master/vimrc#L64) (most. kapcsold. be.), akkor onnantol kezdve, hogy eloszor letrehoztad/megnyitottad az adott filet, az osszes letezo valtoztatasod ever kovetve van, es termeszetesen visszavonhato. Akkor is, ha azota hatszor ujrainditottad a geped es tizenotszor a vimet. Gyakorlatilag kapsz ingyen egy automatikus mini-verziokezelest, foleg, hogy a vimnek nem szimpla undoja, hanem undo treeje van, azaz ha visszavontal ket dolgot es csinaltal egy masikat utana, attol meg nem veszett el az a ket dolog, amit te visszavontal.
+
+(A kovetkezo az lesz valoszinuleg, hogy ezt eggyel tovabb viszem, es az undofajlokat is berakom az adott git repoba es igy szinkronizalom gepek kozott, de meg nem dontottem el teljesen, mert a repoba szemetelesnek erzem valahol)
+
+Ezt igy viszont nehez nekem elsore igazan effektiven hasznalni, van erre viszont a [Gundo](https://github.com/sjl/gundo.vim) nevu plugin, ami vizualizalja az undo treet, es a kovetkezot kapod, mutatom, egyszeruen gyonyoru (az egerkurzor senkit ne tevesszen meg, a valodi kurzor a `[9]`-estol balra levo `o`-n all):
+
+[<img class="aligncenter size-full wp-image-2362456" title="Gundo" src="/wp-content/uploads/2011/05/Screenshot.png" alt="" width="1024" height="768" srcset="/wp-content/uploads/2011/05/Screenshot.png 1024w, /wp-content/uploads/2011/05/Screenshot-300x225.png 300w" sizes="(max-width: 1024px) 100vw, 1024px" />](/wp-content/uploads/2011/05/Screenshot.png)
+
+De tudnek meg lelkendezni meg peldaul olyan aprosagokrol, mint peldaul a [vim-coffee-script](https://github.com/kchmck/vim-coffee-script) CoffeeCompile funkcioja, amit be lehet loni ugy, hogy a kijelolt coffeescriptnek megmutatja a javascript outputjat gombnyomasra (koszi [LacKac](http://lackac.hu/)!). Vagy a kulonbozo splitek. Vagy&#8230;
+
+Es persze, ez csak egy eszkoz, de mikor hasznalod tiz oran keresztul egy nap, akkor ez mind-mind fontos.
+
+<ESC>:wq
+
+-------------------------------------------------------------------------------
+
+Thursday, 5 May 2011
+By KTamas
+https://blog.ktamas.com/index.php/2011/05/05/vim/
+
+More about...
+
+* ajánló:      https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/
+* programozás: https://blog.ktamas.com/tags/programoz%C3%A1s/
+* vim:         https://blog.ktamas.com/tags/vim/

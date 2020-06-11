@@ -1,0 +1,24 @@
+Jelszóváltoztatás Mediawikiben
+==============================
+
+
+Napi találós kérdés: hogyan változtatjuk meg egy adott user jelszavát Mediawiki alatt ha adminok vagyunk? _Természetesen_ így:
+
+> ### <a href="http://meta.wikimedia.org/wiki/MediaWiki_FAQ#How_do_I_change_a_user.27s_password.3F" target="_blank"><span class="mw-headline">How do I change a user&#8217;s password?</span></a>
+> 
+> Assuming that <var>$wgPasswordSalt</var> is set to true (the default), you can use the following SQL query:
+> 
+> <pre>UPDATE user SET user_password = MD5(CONCAT(user_id, '-',<br />
+  MD5('somepass'))) WHERE user_name = 'someuser';</pre>
+
+Ha jön a forradalom, mennek a falhoz.
+
+-------------------------------------------------------------------------------
+
+Tuesday, 24 Feb 2009
+By KTamas
+https://blog.ktamas.com/index.php/2009/02/24/jelszovaltoztatas_mediawikiben/
+
+More about...
+
+* wtf: https://blog.ktamas.com/tags/wtf/

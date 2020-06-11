@@ -1,0 +1,20 @@
+When in doubt, run Process Monitor
+==================================
+
+
+> [&ldquo;When in doubt, run Process Monitor!&rdquo; (I follow this advice religiously, even having my daughter run Process Monitor when she comes to me with a homework question)](http://blogs.technet.com/markrussinovich/archive/2010/01/13/3305263.aspx)
+
+Felvésem ide is, mert örök értékű szabály ez. Tegnap az SQL Express 2008 SP1 telepítője dobott furcsa hibákat, amire a [megadott Microsoft KB](http://support.microsoft.com/kb/300956/en-us) adott mégfurcsább és méghomályosabb nemválaszokat. [Kis guglizás után](http://www.symantec.com/connect/articles/install-and-configure-sql-server-2008-express#comment-2751821) pedig&#8211; a [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx)en keresztül &#8212; eljutottunk a [Process Monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx)ig, ami megmondta, melik registry bejegyzést kell hova klónozni, hogy működjön a telepítés.
+
+&nbsp;
+
+-------------------------------------------------------------------------------
+
+Tuesday, 9 Mar 2010
+By KTamas
+https://blog.ktamas.com/index.php/2010/03/09/when_in_doubt_run_process_monitor/
+
+More about...
+
+* random:  https://blog.ktamas.com/tags/random/
+* windows: https://blog.ktamas.com/tags/windows/

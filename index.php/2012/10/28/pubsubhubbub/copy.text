@@ -1,0 +1,13 @@
+PubSubHubBub
+============
+
+
+Egy újszülöttnek minden vicc új, mondják, de az megvan mindenkinek hogy a Feedburnerben egy klikkel be lehet kapcsolni a PubSubHubBubot (ami nincs bekapcsolva alapból, nem igazán értem, miért)? A Publicize -> PingShot alatt van a fícsör. És így nem fél nap alatt frissül a Google Readerben az adott feed.
+
+Az persze másik dolog, hogy maga a Feedburner 10-20-30 perc delayyel dolgozik, ezt úgy lehet kiküszöbölni, hogy mi magunk is megpingeljük a Feedburnert, mikor a frissül a feedünk. Mióta a gugli megvette a szolgáltatást, azóta leginkább csak romlott, a dokumentációhoz vezető linkek például halottak, de [lehet találni](http://stackoverflow.com/questions/736413/ping-feedburner-in-django-app) példakódot. A végén [pár sor az egész](https://github.com/KTamas/sharewood.hu/blob/master/app/helpers/application_helper.rb#L3). Sőt, annyit kavartam hogy bekötöttem a [Superfeedr](http://superfeedr.com/)t is, úgyhogy one way or another mindenképp PuSHolva lesz a feed, realtime.
+
+-------------------------------------------------------------------------------
+
+Sunday, 28 Oct 2012
+By KTamas
+https://blog.ktamas.com/index.php/2012/10/28/pubsubhubbub/

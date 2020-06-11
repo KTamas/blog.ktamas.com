@@ -1,0 +1,19 @@
+Ruby, Sinatra és egyebek
+========================
+
+
+Szóval már live az új céges e-mail rendszer, Linux-Postfix-Courier-Maildir-Ruby alapokon, merthogy az emailjeinket in-house fejlesztett Rubys progi rendezgeti mindenféle általunk kitalált kritériák alapján a megfelelő mappába, ebből ha minden jól megy, lesz előbb utóbb rendes daemon is, meg még sok egyéb nyalánkság, majd írok erről valószínű részletesebben is. 
+
+A másik dolog, ami viszont iszonyat menő az a [Sinatra](http://www.sinatrarb.com/). Semmi sallang, a világ legminimalistább REST frameworkje,  hihetetlenül tökéletes mindenféle utiloknak webes frontendet adni, főleg ha [HAML-lel és SASS-szel](http://www.google.hu/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fhaml.hamptoncatlin.com%2F&ei=2f4SSuKvK5Ofsga9qemEDg&usg=AFQjCNFNaMHSao_Y_Gp7FH_HBj2d5XIALg&sig2=UR253dc3_ZDc8DJPaEK6zg) kombináljuk (ez utóbbi mondjuk épp nem akar menni, de majd fog), legalább egy közeljövőbeli projekt pl. tuti erre épül majd.
+
+-------------------------------------------------------------------------------
+
+Tuesday, 19 May 2009
+By KTamas
+https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/
+
+More about...
+
+* mail:    https://blog.ktamas.com/tags/mail/
+* ruby:    https://blog.ktamas.com/tags/ruby/
+* sinatra: https://blog.ktamas.com/tags/sinatra/

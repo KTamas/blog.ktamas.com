@@ -1,0 +1,13 @@
+Rukkola bookmarklet update 1: görgetés a végtelenbe
+===================================================
+
+
+Most, hogy [gyors lett a rukkola](http://salata.rukkola.hu/2012/08/14/upgrade/) (hurrá! hurrá! hurrá!), belefejlesztettem [a bookmarkletbe](http://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/) a végtelenbe görgetést jól, így nem kell a továbbot kattintgatni, csak szépen menni lefele és a többi magától történik. Mi több, nincs többé olyan sem, hogy a tovább gombra nem tölt be semmit (ami valójában azt jelentette, hogy a következő oldalon nem volt happolható könyv); ilyenkor automatikusan tölti a következő oldalt egészen addig, amíg nem talál legalább annyi könyvet ami új sort kezd. Ha pedig az adott kollekció végére ért az ember, akkor azt is jelzi már egy diszkrét üzenettel.
+
+A frissítéshez az égvilágon semmit nem kell tenni, mivel maga a bookmarklet mindig a legfrissebb verziót futtatja le.
+
+-------------------------------------------------------------------------------
+
+Wednesday, 15 Aug 2012
+By KTamas
+https://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/

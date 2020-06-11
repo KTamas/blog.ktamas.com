@@ -1,0 +1,25 @@
+Ruby meg a Mail előadás
+=======================
+
+
+Szóval előadtunk ma este egy ilyet:
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HTDrcgdPEOTLVM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KTamas/lightning-talk-ruby-and-mail-v2" title="Lightning Talk Ruby And Mail V2" target="_blank">Lightning Talk Ruby And Mail V2</a> </strong> from <strong><a href="https://www.slideshare.net/KTamas" target="_blank">KTamas</a></strong> </div>
+
+Hasznos linkek pedig akkor:
+
+  * RubyMail: [Letöltés](http://www.rfc20.org/rubymail/) (vagy fel lehet rakni rubygemsből is) | [RDoc](http://www.rfc20.org/rubymail/docs/)
+  * RubyFilter: Letöltés: librfilter-ruby1.8 debian package | [RDoc (éppen offline sajnos)](http://gnu-darwin.org/ProgramDocuments/RFilter/DeliveryAgent.html)
+  * RDeliver: rdeliver debian package, szép adag example kód: [itten](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/119360)
+
+-------------------------------------------------------------------------------
+
+Thursday, 18 Jun 2009
+By KTamas
+https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/
+
+More about...
+
+* előadás:     https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/
+* programozás: https://blog.ktamas.com/tags/programoz%C3%A1s/
+* ruby:        https://blog.ktamas.com/tags/ruby/

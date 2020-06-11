@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>sharewood</title>
+	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000" />
+	<meta name="msapplication-TileColor" content="#000" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://blog.ktamas.com/tags/sharewood/" />
+	<meta property="og:title" content="Posts about sharewood" />
+	<meta property="og:site_name" content="KTamas&#39; Blog"/>
+	<meta property="og:description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.72.0" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				<h1><a href="/">KTamas&#39; Blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main id="tags">
+		<header>
+			<h2>Posts about sharewood</h2>
+		</header>
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">In Memoriam of Sharewood — My Own Little Content Sharing Community</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2019-01-15T09:56:04Z">Tuesday, January 15, 2019</time> · 617 words · 3 min read</div>
+        </header>
+        <div class="text">
+
+<p>This post was inspired by the Motherboard article, <a href="https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss">The Rise and Demise of RSS</a>.</p>
+<hr>
+<p>It was early 2012 and Google Reader&rsquo;s sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I&rsquo;ve been using Reader since late 2006 and the sharing feature since it&rsquo;s introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
+<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don&rsquo;t we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
+<p>The name of software that is used to aggregate RSS feeds is <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet</a>. There were and still are many Planet sites, so I went looking for a suitable engine, but none of them were right until I stumbled upon the <a href="https://github.com/anildigital/planet">code</a> behind planetrubyonrails.com (RIP), written in, wait for it, Rails. I was already familiar with Rails, so <a href="https://github.com/ktamas/sharewood.hu">I forked it</a>, upgraded it to the latest version of Ruby on Rails, made a couple of changes and a basic design and by then I already had ten people interested, mostly from the old community at Reader.</p>
+<p>A cronjob crawled the people&rsquo;s feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
+<hr>
+<p>Over the next year or so our community has grown a bit. At the height of it, we had about 16 people. That may not sound like a lot, but a community is a community. People were sharing all kinds of interesting things, and I felt like I got back at least part of what we lost when Google neutered Reader.</p>
+<p>The project was an opportunity for me as well to play with Rails; I ended up rewriting almost the entire codebase. I wrote a new RSS/Atom parser; tried to implement PuSH (<a href="https://en.wikipedia.org/wiki/WebSub">PubSubHubBub</a>); added support for user accounts, so people would be able to follow others and get a custom RSS feed. I added a few tweaks to the front-end as well, like j/k navigation.</p>
+<p>In early 2013 Google announced that they&rsquo;d shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It&rsquo;s customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it&rsquo;s not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
+<hr>
+<p>I shut down Sharewood in 2014, having done only basic maintenance on it for a year by then, and I felt like it has run its course.</p>
+<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don&rsquo;t have a central place with a community like in the good old days, if you will.</p>
+<p>I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.</p>
+<p>The itch is still there.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2014/05/12/bezar-a-sharewood/">Bezár a Sharewood</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2014/05/12/bezar-a-sharewood/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2014-05-12T15:07:12Z">Monday, May 12, 2014</time> · 115 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="http://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/">A Reader lecsapja a megosztásokat</a>. <a href="http://blog.ktamas.com/index.php/2011/11/04/kontentmegosztas/">Hivemined remények</a>. <a href="http://blog.ktamas.com/index.php/2012/01/23/kontentmegosztas-redux-tamadnak-a-linkblogok-come-and-join-the-revolution/">Linkblogok indulnak</a>. <a href="http://blog.ktamas.com/index.php/2012/01/30/sharewood-hu-kontentmegosztas-harmadik-resz/">Megszületik a Sharewood</a>. <a href="http://blog.ktamas.com/index.php/2013/03/14/kinyirtak-a-readert-csutortok/">Bezár a Reader</a>. <a href="http://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/">Bezár a Posterous, és amúgy is megyünk Newsblurre</a>. <a href="http://sharewoodgephaz.tumblr.com/post/85517500870/bezar-a-sharewood">Bezár a Sharewood</a>.</p>
+<p>Valamiért tökre az volt a fejemben, hogy a <a href="http://sharewood.hu/">Sharewood</a>ot tavaly januárban csináltam meg, közben a frászt, természetesen több, mint két éve volt, pár hónappal azután, hogy a Reader legyilkolta a megosztásokat.</p>
+<p>Nem fogok most hosszas nosztalgiás összefoglalóposztot írni, azok ott vannak a fenti linkeken, ahogy az is, miért zárom be. A jövő nem tudom mit hoz, én továbbra is használom a Newsblurt és osztok meg dolgokat, nekem ez működik, meg úgy tűnik, még pár embernek szintén. <a href="http://ktamas.newsblur.com/">Ha érdekel, olvasd</a>.</p>
+<p>Illetve itt és mégegyszer köszi mindenkinek a bátorítást, részvételt, mindent.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/sharewood/'>sharewood</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/">State of the RSS (olvasók, megosztások, sharewood)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-04-03T13:39:18Z">Wednesday, April 3, 2013</time> · 431 words · 3 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="http://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/">Elsirattam a megosztásokat</a>, <a href="http://blog.ktamas.com/index.php/2012/01/30/sharewood-hu-kontentmegosztas-harmadik-resz/">megcsináltam a Sharewoodot</a>, most meg <a href="http://googlereader.blogspot.se/2013/03/powering-down-google-reader.html">bezárják a Readert</a>.</p>
+<p>Persze, van még időnk, de már most menkülnek az emberek. A <a href="http://www.feedly.com">Feedly</a> — ami még a Reader rendszerét használja backendnek, de esküsznek rá, hogy lesz sajátjuk a bezárás után — nemrég <a href="http://www.eweek.com/mobile/feedly-welcomes-3-million-google-reader-defectors/">3 milló felhasználóval büszkélkedett</a>, népszerű versenyző a <a href="http://www.theoldreader.com/">The Old Reader</a> is, ami kifejezetten és bevallottam a ‘régi’, még megosztásokat tartalmazó Readert másolja, és hirtelen megtízszerezte a fizető felhasználói számát a <a href="http://newsblur.com">NewsBlur</a>. Mások <a href="http://blog.digg.com/post/45355701332/were-building-a-reader">új olvasókat készítenek</a>, például az az (<a href="http://gigaom.com/2012/08/01/so-the-new-digg-has-relaunched-now-comes-the-hard-part/">új</a>) <a href="http://digg.com/">Digg</a>.</p>
+<p>Én egyelőre letettem a voksomat a NewsBlur mellett: egyrészt fizetős, ergó valami üzleti model már van mögötte, másrészt <a href="https://github.com/samuelclay/NewsBlur">nyílt forráskódú</a>, szóval ha esetleg bedőlne, fel tudjuk telepíteni valahova (bár nem triviális). Egyszemélyes vállalkozás, de a srác, aki csinálja, láthatóan éjt nappallá téve, szívét-lelkét beleadva dolgozik az oldalon, ami nem volt felkészítve arra, hogy hirtelen megtizenötszöröződjön a forgalma, de a skálázással kapcsolatos átalakítások elvileg már az utolsó stádiumba vannak, és az utóbbi pár napban már frissültek benne elég gyakran a feedek és volt annyira működőképes az oldal, hogy végleg áttérjek rá.</p>
+<p>Bár hiányzik belőle egy-két nagyon fontos dolog (pl. keresés a feedek tartalmában), egyelőre ez lett számomra a leghasználhatóbb alternatíva. Az egyik legfontosabb dolog, hogy van benne igazi megosztás: egymás követése, kommentelés a megosztások alatt, saját weboldal és RSS feed a megosztásokhoz, és egy igen jó bookmarklet. Mindez azért is fontos, mert <a href="http://blog.posterous.com/thanks-from-posterous">bezár ugyebár a Posterous is</a> a hónap végén, amit eddig használtam (használtunk többen is) erre a funkcióra: leginkább azért, mert nekik volt a legjobb bookmarkletjük.</p>
+<p>Nem mindenki fog azonban a NewsBlurre költözni, amivel nincs semmi gond, virágozzék minden virág (de, gyertek, mind, ide, és akkor mindenki egy helyen lesz! Na, léccilécci!), erre tartom én legalábbis a <a href="http://sharewood.hu/">Sharewood</a>ot, aminek a régi-új funkciója mindenképpen az, hogy összefogja a különböző helyre megosztott dolgokat. Sőt, az oldal egyfajta archívumként műküdik: az összes megosztás megvan az adatbázisban az indulás óta, legalábbis a szöveg, a képek speciel hiányoznak, de ezt lehet, hogy pótolni tudjuk, pl. Posterous backupból, ezen még gondolkozok, hogy lehetne megvalósítani.</p>
+<p>Az archívum képbe illik bele az is, hogy amint ráveszem magam, megcsinálom azt, hogy az egyes emberek megosztásai elérhetőek legyenek egy-egy aldomainen (pl. ktamas.sharewood.hu): így van egy központi hely egy adott ember megosztásainak, akárhányszor vált valamelik más megoldásra a megosztásokhoz.</p>
+<p>Itt tartunk most. Ami biztos, hogy az RSS (számomra) tovább él, és élni fog, ahogy a megosztás is, szerves részévé vált az olvasási folyamatnak, nem nem tudom elképzelni nélküle a napi feedolvasást. Világmeghódító terveim között szerepel, hogy esetleg majd elindítok egy magyar kottkét. Talán, egyszer. Addig pedig marad a NewsBlur, és a <a href="http://ktamas.newsblur.com/">BlurBlogom, ahova osztom a dolgokat</a> mostantól a Posterous helyett.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/megoszt%C3%A1sok/'>megosztások</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/sharewood/'>sharewood</a>
+        </div>
+    </article>
+
+		
+		
+
+
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2020. All Rights Reserved.</p>
+		</footer>
+		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-19057096-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	</div>
+</body>
+</html>
+

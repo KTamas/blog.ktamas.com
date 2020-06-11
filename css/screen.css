@@ -1,0 +1,1044 @@
+@charset "UTF-8";
+
+/* https://meyerweb.com/eric/tools/css/reset/ */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
+blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em,
+img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i,
+center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption,
+tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section,
+summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline
+}
+
+html {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('/fonts/srccode-bld.woff2') format('woff2'),
+         url('/fonts/srccode-bld.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('/fonts/srccode-bldit.woff2') format('woff2'),
+         url('/fonts/srccode-bldit.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('/fonts/srccode-it.woff2') format('woff2'),
+         url('/fonts/srccode-it.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('/fonts/srccode-reg.woff2') format('woff2'),
+         url('/fonts/srccode-reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+caption, th, td {
+    text-align: left;
+    font-weight: normal;
+    vertical-align: middle
+}
+
+q, blockquote {
+    quotes: none
+}
+
+q:before, q:after {
+    content: "";
+    content: none
+}
+
+a img {
+    border: none
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup,
+menu, nav, section, summary {
+    display: block
+}
+
+a {
+    color: #3366bb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: #3366bb
+}
+
+a:focus {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+figure a:hover {
+    text-decoration: none !important;
+}
+
+a:active {
+    color: #ba5e5e
+}
+
+html {
+    height: 100%;
+    background: #fcfcfc;
+    font-family: "Roboto", "Helvetica", sans-serif
+}
+
+body > div {
+    background: transparent
+}
+
+.heading, h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", "Helvetica", sans-serif
+}
+
+body {
+    font-family: "Open Sans", "Helvetica", sans-serif
+}
+
+.mono, pre, code, tt, p code, li code {
+    font-family: "Source Code Pro", "Courier", monospace
+}
+
+body {
+    position: relative;
+    margin: 0;
+    font-size: 1.25em;
+    line-height: 1.5em;
+    color: #333;
+    min-height: 100%;
+    height:auto;
+}
+
+#container {
+	background: #fcfcfc;
+	margin: 0px auto;
+	text-align: left;
+	max-width: 676px;
+}
+
+main {
+    min-height:100%;
+    height:auto;
+    padding: 0 18px;
+    /* padding-bottom: 58px !important; */
+}
+
+#tags > header, #taxterms > header, #archive > header {
+    margin: 20px 0;
+    border-bottom: 1px dashed #ccc;
+}
+
+article, #archive, #taxterms {
+    max-width: 676px;
+    margin: 0 auto;
+    border-bottom: 1px dashed #ccc;
+}
+
+main > header {
+    margin: 0 auto 28px auto !important;
+    max-width: 676px;
+}
+
+#home article:last-child, #tags article:last-child {
+    border: none;
+}
+
+.tags {
+    clear: both;
+}
+
+.tags li, .pagination li {
+    white-space: pre-line;
+    display: inline-block;
+    font-size: .8em;
+}
+
+.tags li:last-child:after {
+    content: '';
+}
+
+.tags li:after {
+   content: ' / '
+}
+
+.tags h5 {
+    margin-bottom: 0;
+    line-height: normal;
+}
+
+h1, h1 a, h1 a:hover, h1 a:visited,
+h2, h2 a, h2 a:hover, h3 a:visited,
+h3, h3 a, h3 a:hover, h4 a:visited,
+h4, h4 a, h4 a:hover, h5 a:visited,
+h5, h5 a, h5 a:hover, h5 a:visited,
+h6, h6 a, h6 a:hover, h6 a:visited {
+    color: #3366bb;
+    text-decoration: none !important;
+}
+
+.photo {
+    background: #2d2d2d;
+    max-width: 100% !important;
+    padding: 2rem 0 0 0;
+    margin: 0;
+    color: #ccc;
+}
+
+.photo > * {
+    padding: 0 50px;
+}
+
+.photo h1, .photo h1 a, .photo h1 a:hover,
+.photo h2, .photo h2 a, .photo h2 a:hover,
+.photo h3, .photo h3 a, .photo h3 a:hover,
+.photo h4, .photo h4 a, .photo h4 a:hover,
+.photo h5, .photo h5 a, .photo h5 a:hover,
+.photo h6, .photo h6 a, .photo h6 a:hover,
+.photo a[rel=bookmark] {
+    color: #ccc;
+    text-decoration: none !important;
+}
+
+.pagination {
+    text-align: right;
+    margin: 0 auto;
+    padding-bottom: 18px;
+    width: 676px;
+}
+
+table .num {
+    text-align: right;
+}
+
+.pagination li {
+    padding-left: .8em;
+}
+
+.pagination a {
+    text-decoration: none;
+}
+
+.pagination .disabled a {
+    color: lightgrey;
+    pointer-events: none;
+}
+
+.pagination .active a {
+    color: #333;
+    background: lightgrey;
+    display: inline-block;  /* For IE11/ MS Edge bug */
+    padding: 10pt;
+    pointer-events: none;
+}
+
+h1 {
+    font-size: 1.3em;
+    line-height: 1.2em
+}
+
+h1.link a:after {
+    color: #999;
+    font-family: FAS; /* XXX get light version? */
+    font-size: 45%;
+    content: "\00a0\f35d";
+    vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 800;
+    text-rendering: optimizelegibility;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    /* margin-bottom: .25em; */
+    color: #111
+}
+
+body > div > header > nav a, body > div > header > nav:hover {
+    color: #111 !important;
+    text-decoration: none !important;
+}
+
+h2, section h1 {
+    font-size: 1.3em
+}
+
+h3, section h2, section section h1 {
+    font-size: 1.2em
+}
+
+h4, section h3, section section h2, section section section h1 {
+    font-size: 1em
+}
+
+h5, section h4, section section h3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: .8em
+}
+
+h6, section h5, section section h4, section section section h3 {
+    font-size: .8em
+}
+
+p, blockquote, ul, ol {
+    margin-bottom: 1em
+}
+
+ul > :last-child, ul > :last-child p, ol > :last-child, ol > :last-child p {
+    margin-bottom: 0
+}
+
+ul {
+    list-style-type: disc;
+}
+
+div.tags {
+    font-size: 85%;
+}
+
+div.tags i {
+    font-size: 75%;
+}
+
+article .text li {
+    list-style-position: outside;
+    margin-left: 1.1em;
+}
+
+article.about .text > figure:first-child {
+    margin-top: 30px;
+}
+
+ul ul {
+    list-style-type: circle;
+}
+
+ul > ul {
+    margin-bottom: 0px
+}
+
+ul ul ul {
+    list-style-type: square;
+}
+
+ul > ul > ul {
+    margin-bottom: 0px
+}
+
+ol {
+    list-style-type: decimal
+}
+
+ol ol {
+    list-style-type: lower-alpha;
+}
+
+ol > ol {
+    margin-bottom: 0px
+}
+
+ol ol ol {
+    list-style-type: lower-roman;
+}
+
+ol > ol > ol {
+    margin-bottom: 0px
+}
+
+mark {
+    color: #626262;
+    background-color: transparent;
+    font-weight: normal;
+    font-style: italic;
+    font-family: "Open Sans", "Helvetica", sans-serif
+}
+
+sup, sub {
+    font-size: 0.8em;
+    position: relative;
+    display: inline-block;
+    line-height: 0
+}
+
+sup {
+    top: -.5em
+}
+
+sub {
+    bottom: -.5em
+}
+
+sup.footnote-ref > a {
+    color: #777;
+    background-color: #e3e3e3;
+    border-radius: 50%;
+    padding: 0.05em 0.5em 0.1em;
+    font-size: 0.8em;
+}
+
+sup.footnote-ref > a:hover, a.footnote-return:hover {
+    background-color: #c00;
+    text-decoration: none;
+    color: #fff !important;
+}
+
+a.footnote-return {
+    color: #777;
+    position: relative;
+    top: -0.2em;
+    background-color: #e3e3e3;
+    border-radius: 40%;
+    padding: 0.2em 0.4em 0;
+    font-size: 0.6em;
+}
+
+q:before {
+    content: "\201C"
+}
+
+q:after {
+    content: "\201D"
+}
+
+em, dfn {
+    font-style: italic
+}
+
+strong, dfn {
+    font-weight: 800;
+}
+
+del, s {
+    text-decoration: line-through
+}
+
+abbr, acronym {
+    border-bottom: 1px dotted;
+    cursor: help
+}
+
+hr {
+    margin: 1em 0;
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+}
+
+small {
+    font-size: .8em
+}
+
+big {
+    font-size: 1.2em
+}
+
+blockquote {
+    padding: 0 2rem 0 0.7rem;
+    margin-left: 1px;
+    border-left: 1px solid #bbb;
+    color: #555;
+    font-size: 95%;
+}
+
+blockquote cite {
+    font-style: normal
+}
+
+blockquote cite a {
+    color: #888 !important;
+    word-wrap: break-word
+}
+
+blockquote cite:before {
+    content: '\2014';
+    padding-right: .3em;
+    padding-left: .3em;
+    color: #888
+}
+
+aside.right:before, .aside.left:before {
+    padding: 0;
+    border: none;
+    content: attr(data-pullquote);
+    float: right;
+    width: 45%;
+    margin: .5em 0 1em 1.5em;
+    position: relative;
+    top: 7px;
+    font-size: 1.4em;
+    line-height: 1.45em
+}
+
+aside.left:before {
+    float: left;
+    margin: .5em 1.5em 1em 0
+}
+
+body > div > header > hgroup.top > *, body > div > header nav {
+    -webkit-text-size-adjust: none;
+    margin: 0 auto;
+    max-width: 676px;
+    padding: 0 18px;
+}
+
+body > div > header {
+    font-size: 1.1em;
+    padding-bottom: 1rem;
+}
+
+body > div > header > hgroup.top, body > nav, body > div > footer {
+    /* padding-left: 18px;
+    padding-right: 18px */
+}
+
+body > div > header > hgroup.top {
+    background-color: #fcfcfc;
+    padding: 10px 0;
+    border-bottom: 1px dashed #bbb;
+}
+
+body > div > header > hgroup.top h1 {
+    font-size: 1.7em;
+}
+
+body > div > header > hgroup.top h2 {
+    color: #000;
+    font-size: 1.2em;
+    margin-bottom: 0;
+    font-weight: 200;
+}
+
+hgroup.top a, body > hgroup.top a:link, hgroup.top h1 a:visited, body > hgroup.top a:hover {
+    color: #3366bb !important;
+    text-decoration: none;
+    background-color: transparent;
+    border: none
+}
+
+body > nav ul {
+    list-style: none;
+    float: left;
+    display: block;
+    margin-left: 1em;
+    padding-top: 1em
+}
+
+body > div > header > nav {
+    white-space: nowrap;
+    list-style-type: none;
+    margin-top: 5px;
+    font-weight: 200;
+    font-size: .85em;
+    text-align: right;
+}
+
+body > div > header > nav menu {
+    margin: 0;
+}
+
+body > div > header > nav li {
+    display: inline;
+    padding-right: 20px;
+}
+
+body > div > header > nav li.icon {
+    padding-right: 0;
+    padding-left: 10px;
+}
+
+.fa {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+.fa-twitter:hover {
+    color: #55acee !important;
+}
+
+.fa-github:hover {
+    color: #75177d !important;
+}
+  
+.fa-rss:hover {
+    color: #ff6600 !important
+}
+
+article {
+    margin: 0 auto;
+}
+
+article .footnotes li {
+    margin-bottom: 1em;
+}
+
+figure {
+    background-color: #2d2d2d;
+}
+
+figure img {
+    display: block;
+    background-color: #fff;
+    margin: 0 auto 1rem auto;
+}
+
+figure > a:last-of-type img, figure > img:last-of-type {
+    margin-bottom: 0;
+}
+
+figure a {
+    margin:0;
+}
+
+figcaption {
+    font-size: 80%;
+    line-height: 1.4em;
+    text-align: left;
+    padding: 1rem 0;
+    margin: 0 1rem;
+    color: #ccc;
+}
+
+figcaption h4 {
+    color: #ccc;
+}
+
+figcaption cite:before {
+    content: " Image: "
+}
+
+figcaption cite:after {
+    content: "."
+}
+
+figcaption cite, figcaption cite a, figcaption cite a:hover, figcaption cite a:active {
+    color: #999 !important;
+}
+
+figcaption > *:last-child {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+figure.frame {
+    padding: 1rem;
+}
+
+.photo figcaption, figure.frame figcaption {
+    margin: 0;
+    padding: 1rem 0 0;
+}
+
+table, article img {
+    max-width: 100%;
+    height: auto
+}
+
+table.left, article figure.left, article a.left, article img.left, article video.left {
+    float: left;
+    margin-right: 1em
+}
+
+table.right, article figure.right, article a.right, article img.right, article video.right {
+    float: right;
+    margin-left: 1em
+}
+
+table.center, article figure, article figure.center, article a.center, article img.center, article video.center {
+    display: block;
+    margin: 0 auto 1em;
+}
+
+table.left,  article figure.left,  article a.left,  article img.left, article video.left,
+table.right, article figure.right, article a.right, article img.right, article video.right {
+    margin-bottom: .8em;
+    max-width: 40%;
+}
+
+dl {
+    margin-bottom: 0
+}
+
+dt {
+    font-weight: 600;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+
+table {
+    /* border: #aaa 1px solid; */
+    padding: .25em .25em;
+    background-color: #eaeaea;
+    margin-bottom: 1.2em
+}
+
+table thead, table thead th {
+    font-weight: bold;
+    font-size: 1em
+}
+
+table thead {
+    border-bottom: 2px solid #333
+}
+
+table th, table td {
+    vertical-align: top;
+    padding: .25em .5em;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd
+}
+
+article, .tags:first-child {
+    padding-top: 1em
+}
+
+article header {
+    font-size: .9em;
+    position: relative
+}
+
+time {
+    font-weight: 200;
+}
+
+article header p {
+    margin: 0;
+    color: #a2a2a2
+}
+
+article header p.meta {
+    padding-top: 0.5em
+}
+
+a[rel=bookmark] {
+    text-decoration: none;
+    color: #333;
+}
+
+a[rel=bookmark]:hover {
+    color: #c00
+}
+
+div.subheader {
+    font-size: 75%;
+}
+
+div.subheader > i {
+    font-size: 75%;
+    font-weight:normal;
+}
+
+article h2 {
+    padding-top: 0.8em
+}
+
+article > footer {
+    color: #888;
+    padding-bottom: 2.5em;
+    margin-top: 2em
+}
+
+p.past {
+    clear: both;
+    color: #888;
+    padding: .3rem 1rem;
+    background-color: #eee;
+}
+
+p.past small:before {
+    font-size: .8em;
+    font-family: FAS;
+    content: "\f466\00a0";
+}
+
+article video {
+    margin: 0 auto 1.5em
+}
+
+pre {
+    border: 0;
+    line-height: 1.45em;
+    font-size: 0.7em;
+    margin-bottom: 2.1em;
+    padding: .8em 1em;
+    overflow: scroll;
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+p code, li code {
+    display: inline-block;
+    white-space: no-wrap;
+    font-size: .9em;
+}
+
+p pre code, li pre code {
+    font-size: 0.9em !important;
+    background: none;
+    border: none
+}
+
+div.text {
+    font-size: 80%;
+}
+
+div.text ul {
+    font-size: 100%;
+}
+
+div.text ol {
+    font-size: 100%;
+}
+
+#archive {
+    font-size: 0.9em;
+    font-weight: 200;
+}
+
+#archive > header {
+    margin: 20px 0;
+}
+
+#archive section > div {
+    padding: 0.3em 0 0.3em;
+    position: relative;
+}
+
+#archive section > div > p {
+    font-weight: 200;
+    margin-bottom: 0;
+}
+
+#archive section > div footer {
+    padding: 0;
+    margin: 0.5em 0 0 0;
+    line-height: 1em;
+    color: #666;
+    font-weight: 200;
+    font-size: 90%;
+}
+
+#archive > section h1 {
+    color: #333;
+    margin-bottom: 0;
+    font-size: 1.3em;
+}
+
+#archive time {
+    font-size: .9em;
+    line-height: 1.2em
+}
+
+#archive section > div footer a, #archive section > div footer p,  #archive section > div footer ul, #archive section > div footer li {
+    display: inline;
+}
+
+body > div > footer {
+    background-color: #fcfcfc;
+    color: #000;
+    font-size: 80%;
+    font-weight: 200;
+    border-top: 1px dashed #ccc;
+    width: 100%;
+    padding: .5em 0 1em 0;
+    bottom: 0;
+    /* position: absolute; */
+    text-align: center
+}
+
+body > div > footer a {
+    color: #fff;
+    border: none;
+}
+
+body > div > footer a:visited {
+    color: #fff;
+}
+
+body > div > footer a:hover {
+    text-decoration: none;
+}
+
+body > div > footer p:last-child {
+    margin-bottom: 0
+}
+
+body > div > footer ul {
+    list-style: none;
+    margin-left: 0
+}
+
+body > div > footer ul li {
+    float: left;
+    text-transform: uppercase;
+    margin-right: 0.5em
+}
+
+body > div > footer ul li:last-child {
+    float: right;
+    text-transform: none;
+    margin-right: 0
+}
+
+@media only screen and (max-width: 550px) {
+    body > div > header > hgroup.top {
+        font-size: 70%;
+        padding-bottom: 0;
+    }
+    body > div > header > hgroup.top h1 {
+        font-size: 2em;
+    }
+
+    .pagination {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 550px) {
+    body > div > header > hgroup.top h2 {
+        font-size: 0.75em;
+    }
+
+    #archive section > div {
+        padding-left: 4.5em;
+        padding-bottom: .7em;
+        margin-left: 5em
+    }
+
+    #archive h2 {
+        margin-bottom: .3em;
+        display: inline-block;
+        position: relative;
+        float: left;
+        padding-top: .3em
+    }
+
+    #archive time {
+        position: absolute;
+        text-align: right;
+        left: 0em;
+        top: .7em;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    body > nav a {
+        font-size: 1.25em
+    }
+    
+    body {
+        -webkit-text-size-adjust: auto
+    }
+
+    article header {
+        margin-bottom: 0.5em
+    }
+}
+
+/* Make the logo bug bigger on Safari & Chrome only. */
+@media only screen and (min-width: 900px) and (-webkit-min-device-pixel-ratio:0) {
+    body > div > header .bug  {
+        font-size: 4em !important;
+        line-height: 0.9em !important;
+    }
+}
+
+/* hugo gen chromastyles --style=monokai >> themes/justatheory/static/css/screen.css */
+/* Background */ pre, .chroma { color: #f8f8f2; background-color: #333 } /* Modified to add pre and to match header background */
+/* Error */ .chroma .err { color: #960050; background-color: #1e0010 }
+/* LineTableTD */ .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+/* LineTable */ .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
+/* LineHighlight */ .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
+/* LineNumbersTable */ .chroma .lnt { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+/* LineNumbers */ .chroma .ln { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+/* Keyword */ .chroma .k { color: #66d9ef }
+/* KeywordConstant */ .chroma .kc { color: #66d9ef }
+/* KeywordDeclaration */ .chroma .kd { color: #66d9ef }
+/* KeywordNamespace */ .chroma .kn { color: #f92672 }
+/* KeywordPseudo */ .chroma .kp { color: #66d9ef }
+/* KeywordReserved */ .chroma .kr { color: #66d9ef }
+/* KeywordType */ .chroma .kt { color: #66d9ef }
+/* NameAttribute */ .chroma .na { color: #a6e22e }
+/* NameClass */ .chroma .nc { color: #a6e22e }
+/* NameConstant */ .chroma .no { color: #66d9ef }
+/* NameDecorator */ .chroma .nd { color: #a6e22e }
+/* NameException */ .chroma .ne { color: #a6e22e }
+/* NameFunction */ .chroma .nf { color: #a6e22e }
+/* NameOther */ .chroma .nx { color: #a6e22e }
+/* NameTag */ .chroma .nt { color: #f92672 }
+/* Literal */ .chroma .l { color: #ae81ff }
+/* LiteralDate */ .chroma .ld { color: #e6db74 }
+/* LiteralString */ .chroma .s { color: #e6db74 }
+/* LiteralStringAffix */ .chroma .sa { color: #e6db74 }
+/* LiteralStringBacktick */ .chroma .sb { color: #e6db74 }
+/* LiteralStringChar */ .chroma .sc { color: #e6db74 }
+/* LiteralStringDelimiter */ .chroma .dl { color: #e6db74 }
+/* LiteralStringDoc */ .chroma .sd { color: #e6db74 }
+/* LiteralStringDouble */ .chroma .s2 { color: #e6db74 }
+/* LiteralStringEscape */ .chroma .se { color: #ae81ff }
+/* LiteralStringHeredoc */ .chroma .sh { color: #e6db74 }
+/* LiteralStringInterpol */ .chroma .si { color: #e6db74 }
+/* LiteralStringOther */ .chroma .sx { color: #e6db74 }
+/* LiteralStringRegex */ .chroma .sr { color: #e6db74 }
+/* LiteralStringSingle */ .chroma .s1 { color: #e6db74 }
+/* LiteralStringSymbol */ .chroma .ss { color: #e6db74 }
+/* LiteralNumber */ .chroma .m { color: #ae81ff }
+/* LiteralNumberBin */ .chroma .mb { color: #ae81ff }
+/* LiteralNumberFloat */ .chroma .mf { color: #ae81ff }
+/* LiteralNumberHex */ .chroma .mh { color: #ae81ff }
+/* LiteralNumberInteger */ .chroma .mi { color: #ae81ff }
+/* LiteralNumberIntegerLong */ .chroma .il { color: #ae81ff }
+/* LiteralNumberOct */ .chroma .mo { color: #ae81ff }
+/* Operator */ .chroma .o { color: #f92672 }
+/* OperatorWord */ .chroma .ow { color: #f92672 }
+/* Comment */ .chroma .c { color: #75715e }
+/* CommentHashbang */ .chroma .ch { color: #75715e }
+/* CommentMultiline */ .chroma .cm { color: #75715e }
+/* CommentSingle */ .chroma .c1 { color: #75715e }
+/* CommentSpecial */ .chroma .cs { color: #75715e }
+/* CommentPreproc */ .chroma .cp { color: #75715e }
+/* CommentPreprocFile */ .chroma .cpf { color: #75715e }
+/* GenericDeleted */ .chroma .gd { color: #f92672 }
+/* GenericEmph */ .chroma .ge { font-style: italic }
+/* GenericInserted */ .chroma .gi { color: #a6e22e }
+/* GenericStrong */ .chroma .gs { font-weight: bold }
+/* GenericSubheading */ .chroma .gu { color: #75715e }

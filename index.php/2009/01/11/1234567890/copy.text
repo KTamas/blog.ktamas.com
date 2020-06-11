@@ -1,0 +1,18 @@
+1234567890
+==========
+
+
+<a href="http://turulcsirip.hu/user/andreisen/" target="_blank">Andrei</a> összerakott egy <a href="http://cntdwn.eu/" target="_blank">visszaszámlálót</a>, amely abban a pillanatban éri el a 0-t, mikor az aktuális Unix timestamp 1234567890 lesz. 
+
+Az Unix timestampet 1970. január 1-től számítjuk, a másodpercek számolásával, a részletes leírása <a href="http://en.wikipedia.org/wiki/Unix_time" target="_blank">itt olvasható</a>, a lényeg hogy sacc/kb 33 nap és pár óra mulva lesz az 1234567890. másodperc ami egy szép, kerek szám. Ehhez kapcsolódik a <a href="http://en.wikipedia.org/wiki/Year_2038_problem" target="_blank">Y2K38</a> is, lehet egyszer arról is írok&#8230;
+
+-------------------------------------------------------------------------------
+
+Sunday, 11 Jan 2009
+By KTamas
+https://blog.ktamas.com/index.php/2009/01/11/1234567890/
+
+More about...
+
+* geekdom: https://blog.ktamas.com/tags/geekdom/
+* linux:   https://blog.ktamas.com/tags/linux/

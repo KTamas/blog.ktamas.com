@@ -1,0 +1,29 @@
+Sharewood.hu (kontentmegosztás, harmadik rész)
+==============================================
+
+
+> &#8230;Ha összerakunk [a megosztásokhoz] egy, a különböző feedek elemeit összesítő és megjelenítő [planetet](http://en.wikipedia.org/wiki/Planet_(software)), akkor beljebb leszünk kicsit.
+
+&#8230;[írta Kelt](http://worldshots.hu/2012-01/csinaltam-egy-linkblogot/) még a [múltkor](http://blog.ktamas.com/index.php/2012/01/23/kontentmegosztas-redux-tamadnak-a-linkblogok-come-and-join-the-revolution/). Közben eltelt egy hét és már tizen vagyunk, szóval lassan, de biztosan nő a közösség. Én pedig pár napja nekifogtam a dolognak, és mostanra került olyan állapotba, hogy vállalható legyen, szóval minden további időhúzás nélkül, kattintsatok: [sharewood.hu](http://sharewood.hu/)
+
+Az oldal olvasása mellett fel lehet iratkozni annak az [RSS](http://feeds.feedburner.com/Sharewoodhu)-ére, ha valaki mindenki megosztását egy helyről szeretné olvasni, vagy letölthet egy [OPML](http://sharewood.hu/sharewood_opml.xml)-t amit aztán kedvenc RSS-olvasójába importálhat és kiválogatja, kiket szeretne olvasni.
+
+És ami a legfontosabb, ha csatlakozni akarsz hozzánk, [írj nekünk egy ímélt](mailto:join@sharewood.hu), és hozzáadunk. Ha hibát találsz az oldalban, vagy ötleted van, vagy akármi, [akkor is írj nekünk](mailto:info@sharewood.hu).
+
+A dolog technikai részletei:
+
+Kezdtem az [eredeti Planet](http://planetplanet.org) szoftverrel, macera volt, kényelmetlen, de azt mondtam oké, ha megy, akkor legyen, elkezdtem összerakni a dolgot. Nagyjából akkor hajítottam ki az ablakon, mikor a képekkel kezdődő posztokat szimplán elrontotta.
+
+Ekkor találtam rá a [Venus nevű forkjára](http://intertwingly.net/code/venus/), ami egy fokkal kevésbé volt bugos, és miután a [levelezőlistán elmondták](http://lists.planetplanet.org/archives/devel/2012-January/002248.html), hogy hol tudom kiszedni azt a fícsört, hogy az iframes embedeket kitépi a posztokból, már majdnem boldog voltam, de. A venus (és a planet is) szimplán legenerál egy statikus lapot az utolsó x elemből, és ennyi, se archívum, se több oldalra tördelés, se keresés, se semmi, szóval ezt kicsit kevésnek éreztem.
+
+A végén a planetrubyonrails.([com](http://planetrubyonrails.com)|[net](http://planetrubyonrails.net)) [motorjánál](https://github.com/anildigital/planet) kötöttem ki. Ezt jól [megforkoltam](https://github.com/KTamas/sharewood.hu), felfrissítettem a legfrissebb Railsre, átírtam benne jópár dolgot és összebaltáztam egy dizájnt, aminek egyik felét [Kelt Világlövésétől](http://worldshots.hu/), a másikat [Dave Winer Scripting Newsától](http://scripting.com) loptam. Ha van önként jelentkező egy jobb dizájnra, azt szivesen fogadjuk.
+
+Szóval így állt össze a [Sharewood](http://sharewood.hu) mostani állapota.
+
+&nbsp;
+
+-------------------------------------------------------------------------------
+
+Monday, 30 Jan 2012
+By KTamas
+https://blog.ktamas.com/index.php/2012/01/30/sharewood-hu-kontentmegosztas-harmadik-resz/

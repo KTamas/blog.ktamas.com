@@ -1,0 +1,22 @@
+Nagy fájlok feltöltése wordpressre (rakjukel)
+=============================================
+
+
+PHP-CGI és Nginx kombóban az alábbi értékeket kell módosítani, igen, mindhármat:
+
+a `php.ini`ben:
+  
+`upload_max_filesize = 64M<br />
+post_max_size = 64M`
+
+az `nginx.conf`ban, a server blokkon belül:
+  
+`client_max_body_size 64M;`
+
+Restart mindkettő (lehet elég reload is) és máris tudunk nagyobb tartalmakat feltölteni.
+
+-------------------------------------------------------------------------------
+
+Tuesday, 1 May 2012
+By KTamas
+https://blog.ktamas.com/index.php/2012/05/01/nagy-fajlok-feltoltese-wordpressre-rakjukel/

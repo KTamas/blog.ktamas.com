@@ -1,0 +1,17 @@
+kalandozasaim a javascript vilagaban, part 0: a kezdetek
+========================================================
+
+
+Az tortent, hogy&#8230; nos, hihetetlen sok dolog tortent az utubbi idokben, mindenesetre, a sztori relevans resze az, hogy volt meg a decemberi meetupra [gazzsal](http://bergengocia.net/) harom ejszaka alatt osszedobott mobilwebappunk, a bullshitbingo. 
+
+Ugye negyszernegyes tabla (otszorot az nehezen fert ki mobilkepernyon &#8212; gondoltuk akkor), tizenhat szo, ha meghallod, betappintod, ha megvan egy sorban/oszlopban/atloban a negy, akkor nyertel, es persze ez realtime megjelenik a tobbieknel is, hogy te nyertel. Harom ejszaka alatt dobtuk ossze teljesen javascriptben, node.js, express es socket.io a relevans buzzwordok, uj technologiak voltak (meg mindig azok) es nagyon shinyk, mi meg fiatalok es bohok, sok sebbol verzett a program, ennek ellenere jo moka volt, azota sokat tanultunk es sokminden mast maskepp csinalnank, peldaul nem fogunk egyhamar jquery mobilet hasznalni, ami iphoneon kivul hasznalhatatlanul lassu. Vagy rendes adatbazist fogunk rakni a dolog moge. Vagy&#8230;
+
+A kodra nem vagyunk buszkek, ezert csak szep csendben [linkelem](https://github.com/KTamas/bingo-nodejs-unstable-pre-alpha), mar dolgozunk a szep uj verzion, aminek a kodja is vallalhato lesz, meg ugy altalaban. Kiprobalhato verzio jelenleg mar nincs, mert asszem a socket.io valamiert kihalt a szerveren eppen es ezt a verziot nem nagyon akarjuk mar debugolni.
+
+_(folytatasa kovetkezik)_
+
+-------------------------------------------------------------------------------
+
+Tuesday, 10 May 2011
+By KTamas
+https://blog.ktamas.com/index.php/2011/05/10/kalandozasaim-a-javascript-vilagaban-part-0-a-kezdetek/

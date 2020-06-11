@@ -1,0 +1,18 @@
+Toredek a kalandjaimbol a git vilagaban
+=======================================
+
+
+`git submodule foreach git pull origin master`
+  
+Na, igy frissitjuk egy paranccsal szepen az osszes submodule-t (termeszetesen vim config bundle mappaja). Kiblogolom, hogy meglegyen c. rovatunkat hallottak.
+
+-------------------------------------------------------------------------------
+
+Saturday, 30 Apr 2011
+By KTamas
+https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/
+
+More about...
+
+* programozás: https://blog.ktamas.com/tags/programoz%C3%A1s/
+* random:      https://blog.ktamas.com/tags/random/

@@ -1,0 +1,49 @@
+iframek es popupok (toredekek a fejleszto naplojabol)
+=====================================================
+
+
+Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:
+
+
+<noscript>
+  </p> 
+  
+  <pre>
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script type="text/javascript"&gt;
+      var close_and_redirect = function() {
+        if (opener && !opener.closed) {
+          opener.location.href = "http://localhost:9610/done";
+        }  
+        window.close();
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload="setTimeout('close_and_redirect()', 500)"&gt;
+    Yay, logged in! Closing...
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+  
+  <p>
+    </noscript><br />
+  </p>
+  
+  <script src="https://gist.github.com/958052.js?file=loggedin.html"></script>
+  
+  <p>
+    (<a href="http://www.codingforums.com/showpost.php?s=aa079e493200cb7008aa5359f7591e86&#038;p=292432&#038;postcount=3">Itt talaltam meg vegul.</a>)
+  </p>
+
+-------------------------------------------------------------------------------
+
+Thursday, 5 May 2011
+By KTamas
+https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/
+
+More about...
+
+* javascript:  https://blog.ktamas.com/tags/javascript/
+* programozás: https://blog.ktamas.com/tags/programoz%C3%A1s/
+* random:      https://blog.ktamas.com/tags/random/

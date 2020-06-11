@@ -1,0 +1,70 @@
+My !!Con 2020 experience as a speaker
+=====================================
+
+[!!Con 2020](http://bangbangcon.com) was the best-organized virtual conference I've ever attended, and I figured I'd share a few things that I feel like made it great.
+
+---
+
+First, they take care of their speakers. This is nothing new; in the past, they'd pay for your trip and accommodation to NYC. On top of that, you receive a $256 honorarium.
+
+This being a virtual conference, no trips were involved, but speakers did need good audio and video for their talks. The organizers covered everyone's cost to get a good webcam and a microphone for up to around $250 (a soft limit). I was lucky and got a Logitech Brio immediately after my talk was accepted, just before the entire world ran out of webcams; others were less lucky. I also got a Blue Yeti microphone, which worked well.
+
+The original plan was for everyone to stream via [OBS](https://obsproject.com/) to a custom RTMP server, but this was eventually scrapped for several reasons. They ended up using [StreamYard](https://streamyard.com) instead. The service only requires a web browser; as a speaker, you open a link, share your mic, webcam and you're good to go. This does not give you as much flexibility, but it does the job and works really well.
+
+As a speaker, you also had the option to make a pre-recorded version of your talk and have them play it instead of doing it live, or just have it as a backup in case something goes wrong; I think every virtual conference should implement a system like this. You had to record yourself and your presentation in two separate videos, and [Confreaks](confreaks.com) took care of the rest. The organizers also made sure to do an A/V check with every speaker before the conference, and you even had the option of sending them a separate video to upload to Youtube if you felt like your live talk could be improved in post.
+
+!!Con was always livestreamed for free on Youtube. The perks you got if you had a ticket were access to a closed Discord server and a T-shirt.
+
+This is not the first virtual conference that organized their hallway track around Discord, but they went the extra mile and then some.
+
+For one, they set up a channel for each speaker's talk, ordered by the schedule. As the day and the talks progressed, you would move from channel to channel, down on the list. This proved to be a brilliant idea: it was easy to keep track of the conversations, they were not in one big batch, and you could always go back to a given channel if you wanted to talk about a specific talk. More conferences should adopt this.
+
+Communication with the speakers also went through Discord; one had to keep it open because it was where they'd tell you if something was not right with your A/V setup or whatever. This proved to be a challenge for a few people as some presentation software — I'm looking at you, Keynote — blanks out all your screens while in presentation mode. But in those cases, the organizers could fall back to just texting the person. I had Discord open on my iPad since I was presenting from my laptop.
+
+They also had a bot that could match random people up to hang out. You would go to a channel and say "match me", and if other people did the same in the next 60 (or later, 90) seconds, it'd create a Discord voice room and send everyone an invite. This worked okay, but I didn't see it used that much, and many times, you would not get enough interested people to join you.
+
+Besides Discord and the thoughtful organization of the channels, there were virtual Zoom rooms you could join throughout the conference. You were given a map with all the rooms, and it showed you who was in the given room; if your Zoom name and Discord name matched to a certain degree, it even showed your avatar.
+
+Early on, someone started a [Spreadsheet Party](https://docs.google.com/spreadsheets/d/15yh9gABz2ZgHwbkOD5cXxgT_RQx7-ituTVy6dIQ11DM/edit#gid=1100664741) and it was a huge success; it was even turned into an [editable Glitch page](https://unleashed-simplistic-lingonberry.glitch.me/).
+
+The broadcast itself overall went well; there were some early glitches, sound issues and such, but these are almost inevitable. Cindy from Confreaks did a great job with everything. After some people suggested it, the organizers started adding some padding between talks, because people needed time to mentally move on to the next talk and Discord channel. It'd be nice to have a dedicated emcee next year, though; I've seen that work very well on other virtual conferences.
+
+All this culminated in the fact that throughout the weekend, I really felt like _I was there at the conference_ and that was a first for me with a virtual event. I'd be on Discord, have the livestream open (or up on my TV), chat/talk/zoom with people in the breaks, clap at the end of each talk and so on. It was like magic.
+
+---
+
+One of the many, many strengths of !!Con is that the organizers are really good at curating interesting talks. Even the ones where you go "meh" are still objectively good ones.
+
+This year was no different, and I wanted to highlight a few that I enjoyed the most.
+
+- The [first day's keynote by Taeyoon Choi](https://www.youtube.com/watch?v=z670kHQhYvs) was one of the many talks that showed how you can be creative with pre-recorded talks; they don't have to be just you speaking with a slide deck (not that anything is wrong with that). He showed us around in Seoul, his home city, and talked about many things throughout. 
+- ["The Taming of the Clue" by Chloe Revery](https://www.youtube.com/watch?v=NWejhIM74do)
+- ["Trapped in codepoints no more! I'm freeing Chinese characters" by Gábor Ugray](https://www.youtube.com/watch?v=jbFr-D4c_HM)
+- ["Playing Breakout… inside a PDF!!" by Omar Rizwan](https://www.youtube.com/watch?v=6rbJu10Telc)
+- ["EMAIL!" by Char Stiles](https://www.youtube.com/watch?v=3y9DNluD-cU)
+- ["Quebec's 735kv power lines can survive the apocalypse, but can they run TCP?!" by Nick Sweeting](https://www.youtube.com/watch?v=x8T7UE7A0jk)
+- ["Using font shaping to put commas in big numbers EVERYWHERE!!" by Tristan Hume](https://www.youtube.com/watch?v=Biqm9ndNyC8)
+- ["89 characters of base-11?! Mobile networking in rural Ethiopia!" by Ben Kuhn](https://www.youtube.com/watch?v=EAxnA9L5rS8)
+- ["CBS Televised Computer-Generated Stories in 1960—and Ten Million Watched!" by James Ryan](https://www.youtube.com/watch?v=tBnPDwoUCXQ) — another great example of a talk that used the pre-recorded aspect well
+- ["Writing {{‘poems that change', 'chance poems', 'dynamic poetry'}}!" by Andrew Yoon](https://www.youtube.com/watch?v=zNJAQcSA1vI)
+- ["Screwing up is easier than ever before!" by Joshua Wise](https://www.youtube.com/watch?v=E-9oKH2-Myg)
+
+But possibly the best talk of all was the unconference session with [Mirabai Knight](http://stenoknight.com/bio.html) who talked about [Steno](https://en.wikipedia.org/wiki/Stenotype) (and [Plover](http://www.openstenoproject.org/)); it was so fascinating. Check out some of her talks [on YouTube](https://www.youtube.com/results?search_query=mirabai+knight).
+
+Oh, yeah, [I also did a talk: Little Printing for Everyone!!1](https://youtu.be/QEZ0N0rrbL0).
+
+---
+
+Overall, !!Con 2020 was a very positive experience, and I hope to be there (and possibly give a talk!) next year as well, one way or another.
+
+-------------------------------------------------------------------------------
+
+Wednesday, 10 Jun 2020
+By KTamas
+https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/
+
+More about...
+
+* bangbangcon:    https://blog.ktamas.com/tags/bangbangcon/
+* conference:     https://blog.ktamas.com/tags/conference/
+* publicspeaking: https://blog.ktamas.com/tags/publicspeaking/

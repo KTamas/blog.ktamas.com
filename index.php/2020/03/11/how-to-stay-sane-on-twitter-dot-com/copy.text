@@ -1,0 +1,67 @@
+How to Stay Sane on Twitter
+===========================
+
+If you're like me, you probably spend a lot of time on Twitter. I don't blame nor judge you for that — it's a simple fact of life. You are also aware that it can be overwhelming and anxiety-inducing more often than not, what with everyone being on edge for, ah, many reasons these days.
+
+Sure, you could just spend less time on the hellsite, but we both know that's not going to happen. Instead, let's take a few steps to improve our experience and lessen the impact it has on our mental health.
+
+You already know how to unfollow, mute and block people, and that's definitely the first line of defense. But there are a lot of people whom you enjoy following and reading, but perhaps they are passionate about specific topics you'd rather not be bombarded with 24/7 on your timeline?
+
+That's where our weapon of choice comes in: Twitter's ["Muted words" feature](https://twitter.com/settings/muted_keywords). Whatever words you put there, any tweet with them will magically disappear from your timeline. You can find this option under `Settings -> Content preferences -> Muted -> Muted words`. I highly recommend bookmarking it.
+
+This feature is far from perfect as it comes with several limitations, but it does the job:
+
+* It matches exact words and that's it. It does not know about conjugation, plurals or the possessive `'s` — which is yes, technically, is part of the word — so if you want to mute the word `Trump`, you'll also have to mute `Trump's`; if you're going to mute the word `senator` you'll also have to mute `senators` and so on. It is also [case insensitive](https://en.wikipedia.org/wiki/Case_sensitivity), which is (mostly) a good thing for us.
+* You can only mute up to 200 words. That sounds like a lot at first, but trust me, it's far too easy to run into that limit. There isn't much you can do about it; I try to curate my muted word list and regularly remove things that are not in the ~discourse~ anymore. You can specify how long you want to mute a given word; use this wisely. They expire automatically, but you do have to remove them by hand to free up the space.
+
+On the web, muted words are listed in reverse chronological order; on mobile, however, it's sorted alphabetically, which can be useful at times.
+
+*(A note: You can also use [Tweetbot](https://tapbots.com/tweetbot/), which can use [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) and other things; I, however, mostly use twitter.com on desktop and the official app on iOS.)*
+
+I use muted words for a couple of things:
+
+* Permanently filter out 90% of American politics and activism (disclosure: I'm not American)
+* Cut down the noise on random things that annoys me that comes out in the daily ~discourse~. For these, I usually mute something for, say, seven days, because by then (hopefully) everyone moved on to some other thing
+* I'm also filtering most of the COVID-19 stuff because I have enough anxiety thank you very much
+
+To give an example, here are the words I filter right now to cut down on all things coronavirus: `quarantine`, `COVID19`, `#COVID19`, `expose`, `virus`, `pandemic`, `coronavirus`, `covid-19`.
+
+![muted words screenshot](https://i.imgur.com/N4Kdono.jpg)
+
+Muted words is not a perfect solution: you'll never be able to filter something out completely. But I find that to be, in a way, an advantage: my American Politics filter, for example, lets just enough stuff through that I still know what's going on most of the time.
+
+---
+
+
+So, great, you've cleaned up your timeline and now it's 50% less anxiety-inducing. But Tamas, you ask me, what if, from time to time, I do want to see what everyone's tweeting, without any filters? 
+
+For that, we'll employ another Twitter feature: Lists. More importantly, the fact that *muted words do not affect lists*. So all you need to do is put everyone you follow on a private list; you can even pin that to your timeline on iOS (and maybe Android too?).
+
+![pinned list](https://i.imgur.com/IjMEFqY.jpg)
+*Here's the list I use, pinned on my timeline and I can just swipe right to read it. On Desktop, you'll find it under Lists but of course you can bookmark that as well.* 
+
+Now, you can, of course, go through each and every person you follow and manually add them to your "Unfiltered" list, but that's going to be very time-consuming, so we're going to use some command-line magic to do this in one big swoop.
+
+What you need: [Ruby](https://www.ruby-lang.org/en/) 2.4+ installed on your computer and having a Developer account at Twitter. For the latter, if you haven't done so yet, go to [developer.twitter.com](developer.twitter.com) and apply for one; unfortunately, it can sometimes take days for them to approve you. Once that's done, create a new, dummy app you'll use for this.
+
+Next, install the [`t`](https://github.com/sferik/t) gem: `gem install t`, and because it's a bit old, downgrade the `twitter` gem: `gem install twitter -v 6.1.0 && gem uninstall twitter -v 6.2.0`.
+
+Now you're almost ready to go, but first, you'll have to log in and authorize your command-line client. Run `t authorize` and follow the instructions; it'll ask for the API key and API secret key, then gives you a URL where you can log into the dummy app you just created.
+
+Now you're ready. Create a new list on the Twitter web UI, name it whatever you want; I'm using "Unfiltered". Then get a list of the people you follow and pipe it into a text file: `t followings > ~/my_followings.txt`, which you'll use to add everyone to your list: `cat ~/my_followings.txt|xargs t list add Unfiltered`. You can also do this with just one command, as you might have deducted.
+
+And that's it! You now have both a heavily filtered timeline that keeps you mostly sane, but also the ability to check it out without any of those filters, if you wish to.
+
+The only thing you have to keep in mind now is **whenever you follow or unfollow someone, you'll have to add or remove them to/from your Unfiltered Twitter list as well**. I find that to be a small price to pay, personally.
+
+-------------------------------------------------------------------------------
+
+Wednesday, 11 Mar 2020
+By KTamas
+https://blog.ktamas.com/index.php/2020/03/11/how-to-stay-sane-on-twitter-dot-com/
+
+More about...
+
+* twitter:      https://blog.ktamas.com/tags/twitter/
+* sanity:       https://blog.ktamas.com/tags/sanity/
+* mentalhealth: https://blog.ktamas.com/tags/mentalhealth/

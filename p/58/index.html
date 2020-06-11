@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>KTamas&#39; Blog</title>
+	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000" />
+	<meta name="msapplication-TileColor" content="#000" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://blog.ktamas.com/" />
+	<meta property="og:title" content="KTamas’ Blog" />
+	<meta property="og:site_name" content="KTamas&#39; Blog"/>
+	<meta property="og:description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.72.0" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				<h1><a href="/">KTamas&#39; Blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/">Miért fogunk a jövőben excelt is Rubyban programozni?</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-27T12:53:36Z">Friday, March 27, 2009</time> · 72 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Ruby:</p>
+<blockquote>
+<p>require ‘win32ole’</p>
+</blockquote>
+<blockquote>
+<p>excel = Win32ole.new(“Excel.Application”)</p>
+</blockquote>
+<blockquote>
+<p>excel.visible = true</p>
+</blockquote>
+<blockquote>
+<p>wb = excel.workbooks.add</p>
+</blockquote>
+<blockquote>
+<p>ws = wb.activesheet</p>
+</blockquote>
+<blockquote>
+<p>ws.range(‘A1:B5’).each do |cell|</p>
+</blockquote>
+<blockquote>
+<p>cell.value = “Hello, World”</p>
+</blockquote>
+<blockquote>
+<p>end</p>
+</blockquote>
+<p>versus</p>
+<blockquote>
+<p>using Microsoft.Office.Interop.Excel;</p>
+</blockquote>
+<blockquote>
+<p>[…]</p>
+</blockquote>
+<blockquote>
+<p>var excel = new ApplicationClass();</p>
+</blockquote>
+<blockquote>
+<p>excel.Visible = true;</p>
+</blockquote>
+<blockquote>
+<p>object missing = System.Reflection.Missing.Value;</p>
+</blockquote>
+<blockquote>
+<p>var workbook = excel.Workbooks.Add(missing);</p>
+</blockquote>
+<blockquote>
+<p>var range = excel.get_Range((object)”A1″, (object)”B5″);</p>
+</blockquote>
+<blockquote>
+<p>foreach (Range r in range.Cells) {</p>
+</blockquote>
+<blockquote>
+<p>r.Activate();</p>
+</blockquote>
+<blockquote>
+<p>excel.ActiveCell.Value2 = “Alma”;</p>
+</blockquote>
+<blockquote>
+<p>}</p>
+</blockquote>
+<p>Na, melik a kevésbé gány megoldás?</p>
+<p>(A szerkesztőségbe várjuk a jobb C#-os megoldásokat.)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/programoz%C3%A1s/'>programozás</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/26/wolf3d_for_iphone_nyalanksagok/">Wolf3D for iPhone nyalánkságok</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/26/wolf3d_for_iphone_nyalanksagok/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-26T19:18:43Z">Thursday, March 26, 2009</time> · 41 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Azt mindig is tudtuk, hogy John Carmack nagy arc, igazából <a href="http://www.idsoftware.com/wolfenstein3dclassic/wolfdevelopment.htm">ez az iromány</a> csak megerősít ebben. Ettől függetlenül erősen ajánlott olvasmány, mert tele van mindenféle <em>fascinating</em> dologgal a Wolf3D iphone-ra való portolásáról.</p>
+<p>És nagyon érek egy iPhone vásárlása.</p>
+<p>(a <a href="http://plastik.hu/2009/03/26/mein-leben/">Plastikon</a> olvastuk)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/25/es_most_zene/">Es most zene</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/25/es_most_zene/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-25T22:14:04Z">Wednesday, March 25, 2009</time> · 33 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="http://turulcsirip.hu/user/tzniuswarrior/">Tzinuswarrior</a> alias prezzey rakott ossze egy nagyon kellemes mixet mindenfele izraeli rockzenebol, tessek hallgatni, nagyon ott van gyakorlatilag az osszes.</p>
+<p>[Itt egy 8-Tracks embed volt. RIP.]</p>
+<p>(Edit: ez megy már fél napja. megunhatatlan.)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/zene/'>zene</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/24/and_now_for_something_completely_different_5/">And now for something completely different</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/24/and_now_for_something_completely_different_5/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-24T21:29:45Z">Tuesday, March 24, 2009</time> · 40 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Akciozik a <a href="http://www.sanmarzano.hu/">Pizza Marzano</a>, konkretan 12-tol 3-ig minden kaja felaron van naluk, ugyhogy mi mostantol oda fogunk jarni ebedelni, amikor csak lehet, mert ennyi penzert — 700-900 forint per pizza — nagyon megeri. Ja es kb. a legjobb pizza pesten.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/gasztro/'>gasztro</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/24/ssd_krol/">SSD-kről</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/24/ssd_krol/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-24T20:46:58Z">Tuesday, March 24, 2009</time> · 26 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>…írt Anand bácsi egy kötelezően olvasandó <a href="http://www.anandtech.com/printarticle.aspx?i=3531">cikket</a> mindazoknak, akik ilyen háttértárolóban gondolkoznak esetleg. A helyzet siralmas, de van fény az alagút végén.</p>
+<p>(amúgy <a href="http://www.joelonsoftware.com/">Spolsky</a> bácsi twittelte)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/it/'>it</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">A Battlestar Galactica a vilag legjobb Sci-Fi sorozata</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-24T10:00:39Z">Tuesday, March 24, 2009</time> · 8 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Ennyi.</p>
+<p>Es Ron Moore nevet aranyba foglaljuk, ketszer.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bsg/'>bsg</a>, <a href='/tags/sorozat/'>sorozat</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/23/jo_tudni_10/">Jó tudni&#8230;</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/23/jo_tudni_10/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-23T10:39:39Z">Monday, March 23, 2009</time> · 31 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>…hogy a Huawei nagyszerű E220-as háromgés modeme nem csak az OSX-et tudja 15 kihúzásból egyszer kernel pánikba taszítani: eme hasznos feature jelentkezik windows alatt is, kékhalál formájában.</p>
+<p>(igen, legfrissebb verzió, miegymás)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/">Hogyan tartsunk egyben egy csapat kiscsoportos ovodast az utcan?</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-18T13:14:16Z">Wednesday, March 18, 2009</time> · 24 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Lesznek majd sok kep, most csak egy teaser amit veletlen ISO800-al lottem, na mindegy. Ilyet meg nem lattam otthon, kicsit bizarr, de tulajdonkepp kreativ…</p>
+<p><img class="aligncenter size-full wp-image-274" title="Szerintem ehhez nem kell title :)" src="http://ktamas.blog.hu/media/image/200903/_3182693.jpg" alt="Szerintem ehhez nem kell title :)" width="500" height="600" /></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/szlovenia/'>szlovenia</a>, <a href='/tags/wtf/'>wtf</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/17/and_now_1/">And now&#8230;</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/17/and_now_1/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-17T07:14:09Z">Tuesday, March 17, 2009</time> · 3 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>…3 nap Szlovenia.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/16/napi_karomkodas/">Napi káromkodás</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-16T15:03:57Z">Monday, March 16, 2009</time> · 44 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<pre>Windows has made corrections to the file system.<br />
+  204,748,960 KB total disk space.<br />
+      101,600 KB in 3,059 hidden files.<br />
+      215,104 KB in 6,701 folders.<br />
+  120,296,800 KB in 37,286 files.<br />
+           32 KB in bad sectors.<br />
+   84,135,392 KB are available.</pre>
+<p>Kb. 2-3 hetes Samsung notebook winchi…</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/windows/'>windows</a>
+        </div>
+    </article>
+
+		
+		
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/p/57/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/57/">57</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/p/58/">58</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/59/">59</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/63/">63</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/p/59/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/p/63/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2020. All Rights Reserved.</p>
+		</footer>
+		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-19057096-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	</div>
+</body>
+</html>
+

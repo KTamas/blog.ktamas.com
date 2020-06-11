@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>KTamas&#39; Blog</title>
+	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000" />
+	<meta name="msapplication-TileColor" content="#000" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://blog.ktamas.com/" />
+	<meta property="og:title" content="KTamas’ Blog" />
+	<meta property="og:site_name" content="KTamas&#39; Blog"/>
+	<meta property="og:description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.72.0" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				<h1><a href="/">KTamas&#39; Blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/26/zene-kiszedese-youtubevideokbol-gyorsan-es-hatekonyan-nix-alatt/">Zene kiszedése youtubevideókból gyorsan és hatékonyan *nix alatt</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/26/zene-kiszedese-youtubevideokbol-gyorsan-es-hatekonyan-nix-alatt/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-26T13:35:42Z">Saturday, January 26, 2013</time> · 121 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>(Még mindig kósza posztok a draft mappámból)</p>
+<p>Két dolog kell ahhoz, hogy gyorsan és hatékonyan zenét szedjünk ki youtubevideókból: <a href="http://www.jwz.org">jwz</a> <a href="http://www.jwz.org/hacks/youtubedown">youtubedown scriptje</a> és egy ffmpeg.</p>
+<p>Az elsőt letöltjük, elrakjuk valahova, beállítjuk executablenek (<code>chmod +x</code>), berakjuk a <code>PATH</code>-ba és onnantól kezdve csak az URL-t kell hozzávágni, és szépen letölti az embernek az adott videóból a legjobb minőségű verziót. Aminek általában még így is szarrá van tömörítve a dynamic range-e, dehát mindent nem lehet.</p>
+<p>Utána pedig <em>kimásoljuk</em> a letöltött fájlból a hangsávot ffmpeg segítségével:</p>
+<p><code>ffmpeg -i youtubevideo.mp4 -acodec copy -vn zene.m4a</code></p>
+<p>A hang legtöbbször aac-ben van a videókban, ezért ad meg az ember m4a kiterjesztést a kimenetnek. Néha azonban nem, ekkor érdemes megnézni, hogy mi is van benne az <code>ffmpeg -i youtubevideo.mp4</code> segítségével.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/26/bagaboo/">Bagaboo</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/26/bagaboo/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-26T13:23:21Z">Saturday, January 26, 2013</time> · 168 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>(Ez a poszt még több hónapja íródott, aztán szomorkodott a draft mappámban. Most azonban került, mert egyrészt pár napja egy kedves lány a metróban leszólított csillogó szemekkel, hogy hol vettem a táskámat, előtte pár héttel meg egy néni szólt rám a Móriczon, hogy el van írva a táskámon a felirat)</p>
+<p>Többhetes szenvedés, vacilálás, élőben kipróbálás, még sokat vacilálás és szenvedés után megrendeltem az új táskámat <a href="http://bagaboo.hu/hu/messenger-bag/">a Bagaboonál</a>, három hét alatt el is készült, ahogy kellett. Méreteit tekintve M-es, kívül sötétzöld, belül piros, és még bele lett pakolva pár hasznos extra is. Így néz ki:</p>
+<p><a href="/wp-content/uploads/2013/01/2012-08-23-15.49.13.jpg"><img src="/wp-content/uploads/2013/01/2012-08-23-15.49.13-1024x768.jpg" alt="Bagaboo" width="640" height="480" class="aligncenter size-large wp-image-2363490" srcset="/wp-content/uploads/2013/01/2012-08-23-15.49.13-1024x768.jpg 1024w, /wp-content/uploads/2013/01/2012-08-23-15.49.13-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>A táska mockupját <a href="https://www.facebook.com/photo.php?fbid=10150949105815146&amp;set=a.10150170236165146.304379.722715145&amp;type=1&amp;theater">kiraktam anno facebookra</a>, akkor derült ki tulajdonképpen, hogy a Magyar Népdaleket, amiből két pólóm is van egyébként, senki sem ismeri a magyar interneten azon a kb. 80 emberen kívül, aki benne volt ebben az igen kiterjedt injoke-ban, úgyhogy a kép valóságos lájk- és share-cunamit indított el. Sem az ötletért, sem a dizájnért nem engem illetnek a kreditek, mindenesetre egy harmadik menet pólórendelés lehet, hogy van még a dologban. Ha valaki megszervezi.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/26/bucsuk-ajandekok/">Búcsú(k), ajándékok</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/26/bucsuk-ajandekok/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-26T10:33:24Z">Saturday, January 26, 2013</time> · 66 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Egész héten emberektől búcsúzkodom, tegnap a céges búcsúsörözés volt, és azonkívül, hogy baromi jó volt, ilyen menő ajándékokat kaptam, innen is köszönöm mégegyszer:</p>
+<p><a href="/wp-content/uploads/2013/01/espellgoodbye.jpg"><img src="/wp-content/uploads/2013/01/espellgoodbye-1024x768.jpg" alt="espellgoodbye" width="640" height="480" class="aligncenter size-large wp-image-2363485" srcset="/wp-content/uploads/2013/01/espellgoodbye-1024x768.jpg 1024w, /wp-content/uploads/2013/01/espellgoodbye-300x225.jpg 300w, /wp-content/uploads/2013/01/espellgoodbye.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>(Ha nem értesz belőle semmit, nem benned van a hiba, a póló az évek során felgyűlt injoke-okkal van tele nagyrészt, a giftcardon lévő bögre-wordcloud a csetüzeneteimből jött össze, a lekvárt pedig <a href="http://agnus.freeblog.hu/archives/2011/03/10/5823102/">ez az agnus poszt</a> ihlette, ami egy jóideig bent volt skype-on státuszüzenetként)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/25/last-day-at-espell/">Last day at espell</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/25/last-day-at-espell/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-25T15:26:24Z">Friday, January 25, 2013</time> · 6 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Nem csak a kilátás fog hiányozni.</p>
+<p><a href="/wp-content/uploads/2013/01/02d6254866d311e2855922000a9e0723_7.jpg"><img src="/wp-content/uploads/2013/01/02d6254866d311e2855922000a9e0723_7.jpg" alt="02d6254866d311e2855922000a9e0723_7" width="612" height="612" class="aligncenter size-full wp-image-2363480" srcset="/wp-content/uploads/2013/01/02d6254866d311e2855922000a9e0723_7.jpg 612w, /wp-content/uploads/2013/01/02d6254866d311e2855922000a9e0723_7-150x150.jpg 150w, /wp-content/uploads/2013/01/02d6254866d311e2855922000a9e0723_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/25/zene-reggeli-kavehoz-carry-on-wayward-son-maniacal-4-trombone-quartet/">Zene reggeli kávéhoz: Carry On Wayward Son &#8211; Maniacal 4 Trombone Quartet</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/25/zene-reggeli-kavehoz-carry-on-wayward-son-maniacal-4-trombone-quartet/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-25T11:10:47Z">Friday, January 25, 2013</time> · 10 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Már nem tudom, hol találtam, de szóval ez így kurvajó.</p>
+<p><iframe src="//www.youtube.com/embed/mJaX4ZpfULM?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/zene/'>zene</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/">Már nem aktuális! &#8211; Kiadó lakás a II. kerületben</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-19T18:54:21Z">Saturday, January 19, 2013</time> · 185 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Az a helyzet, hogy mivel én elköltözök Svédországba, és <a href="http://bergengocia.net">Gazs</a> is továbbáll, felszabadul viszonylag hamar (február eleje-közepe) az a remek albérlet, amiben lakunk, és mivel ez a lakás jó ideje barátról barátra jár (mi <a href="http://lackac.hu">LacKac</a>tól örököltük), meghirdetjük itt és a szóslmédiába, hátha sikerül most is továbbadni.</p>
+<p><strong>A lakás ki lett adva.</strong></p>
+<p>A lakás A II. kerületben, a <a href="https://maps.google.com/maps?oi=map&amp;q=T%C3%B6lgyfa+utca,+Budapest">Tölgyfa utcában</a> található, a Margit híd budai hidfőjétől két percre. 50nm-es, 1+2 félszobás, cirkós, bútorozatlan de gépesített (mosógép, mikró, villanytűzhely, porszívó). Különösen ideális két különálló embernek, mert a két félszoba a lakás két végében található, a kettő között van a nappali meg az amerikai konyha.</p>
+<p>Költségek:</p>
+<ul>
+<li>78000 Ft maga az albi</li>
+<li>11500 Ft közös költség (benne a víz)</li>
+<li>2000 Ft biztosítás (bérlő ingóságai is benne vannak).</li>
+<li>Gáz, áram egyedi mérés szerint</li>
+<li>UPC net van a házban</li>
+</ul>
+<p>További extrák: csendes, nyugis ház, ami előtti utcaszakaszon ráadásul ingyenes a parkolás is.</p>
+<p>Itt pedig egy képgalléria róla alább. Érdeklődni lehet emailben <a href="mailto:ktamas@ktamas.com">nálam</a> vagy <a href="mailto:gazs@bergengocia.net">Gazsnál</a>.</del></p>
+<div id='gallery-2' class='gallery galleryid-2363458 gallery-columns-3 gallery-size-thumbnail'>
+  <figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04348/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04348-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363459" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363459'> Nappali </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04349/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04349-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363460" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363460'> Másik szoba </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04350/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04350-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363461" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363461'> Amerikai konyha </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04351/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04351-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363462" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363462'> Amerikai konyha </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04352/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04352-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363463" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363463'> Nappali </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04357/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04357-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363464" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363464'> A lakás az egyik szobából </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04358/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04358-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363465" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363465'> Fürdőszoba </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon portrait'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/dsc04362/'><img width="150" height="150" src="/wp-content/uploads/2013/01/DSC04362-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363466" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363466'> WC </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon portrait'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/tolgyfa_0001/'><img width="150" height="150" src="/wp-content/uploads/2013/01/tolgyfa_0001-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363467" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363467'> egyik szoba, még berendezve </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/tolgyfa_0018/'><img width="150" height="150" src="/wp-content/uploads/2013/01/tolgyfa_0018-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363468" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363468'> nappali, még berendezve </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/tolgyfa_0021/'><img width="150" height="150" src="/wp-content/uploads/2013/01/tolgyfa_0021-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363469" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363469'> nappali, még berendezve </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon portrait'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/tolgyfa_0033/'><img width="150" height="150" src="/wp-content/uploads/2013/01/tolgyfa_0033-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363470" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363470'> udvar </figcaption></figure><figure class='gallery-item'> 
+  <div class='gallery-icon landscape'>
+    <a href='https://blog.ktamas.com/index.php/2013/01/19/kiado-lakas-a-ii-keruletben/tolgyfa_0035/'><img width="150" height="150" src="/wp-content/uploads/2013/01/tolgyfa_0035-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-2363471" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-2363471'> udvar </figcaption></figure>
+</div>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/18/ktamas-svedorszagba-megy-interlude-foleg-magyarorszag/">KTamas Svédországba megy, interlude (főleg Magyarország)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/18/ktamas-svedorszagba-megy-interlude-foleg-magyarorszag/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-18T13:29:41Z">Friday, January 18, 2013</time> · 129 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Igazából a -2. poszttal kellett volna kezdenem, merthát ha a sziget is tud ilyen napot tartani, akkor én miért ne?</p>
+<p><em>(Gyors matekfeladat: ha a sziget 2005-ben tartott először 0. napot, 2008-ban mínusz egyediket, és 2012-ben mínusz kettediket, akkor melik évben lesz az utolsó 0 feletti szigetes nap?)</em></p>
+<p>Szóval ma reggel fél órán belül kaptam az OEP-ben új TAJ kártyát ÉS EU TB kártyát. Hol élnek ezek? Mi lesz így a bürökráciával?</p>
+<p>Ezek után átmentem a T-be, és ott negyed óra alatt átkonvertálták a számomat dominósra. A művelet annyira jól sikerült, hogy a végén valahogy 1000 forinttal több lett a számlámon, mint amennyinek kelett volna lennie, a csaj meg is jegyezte, hogy ő ilyet még nem látott.</p>
+<p><del datetime="2013-01-18T12:20:40+00:00">Ezért tart itt ez az ország.</del></p>
+<p>(P.S. elkezdhetném nem plagizálni <a href="http://isolde.hu/">Isoldét</a> a posztcímekben)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/16/ktamas-svedorszagba-megy-0-resz-foleg-penz-meg-random-dolgok/">KTamas Svédországba megy, 0. rész (főleg pénz, meg random dolgok)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/16/ktamas-svedorszagba-megy-0-resz-foleg-penz-meg-random-dolgok/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-16T22:33:10Z">Wednesday, January 16, 2013</time> · 393 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Nem tudok még értelmes gondolatokban blogolni, szóval kicsit összevissza lesz. De, és szóval.</p>
+<p>Egészen kicsit beparáztam a random netes posztoktól, hogy Svédország mennyire eszeveszett drága, úgyhogy ma bementem a sarki szupermarketbe, amire azt mondta a kolléga, hogy <em>kicsit drágább, mint a másik, de nagyobb a választék</em> és elkezdtem tételesen felírni, hogy mi mennyi, azokból a dolgokból, amiket a) amúgyis fogok vásárolni vagy b) jó viszonyítási alapnak gondolom. Annyira elkapott a lendület, hogy itthon felvittem egy gugli táblázatba, és még az árakat is mellédobtam forintban. Ha valakit érdekel, <a href="https://docs.google.com/spreadsheet/ccc?key=0AshiQmUpkOLgdGRYekFINk93Tlo5YWUxZmFJQXMwTkE">itt megtalálhatja, böngészgetheti</a>. Mellé kéne írnom valami magyar árakat, hogy kapjak egy átlagszázalékot, mennyivel drágábbak a dolgok — erre vagy lesz lelkesedésem, vagy nem –, de nagyon nagy átlagban aszondom, kétszer, szóval nem vészes, bár a csirkemell kilója három rugóért kicsit azért fáj.</p>
+<p>Ezenfelül ebédelni, azt mondják kollégák, olyan 60-80 koronáért lehet, a sarki <em>svédasztalos</em> étteremben 79 korona — nyolcalkalmas bérlettel kicsit olcsóbb –, random kebab-pizza azt mondták 60 körül van. Maeste pedig a sarki indiaiba ettem 114 koronáért, és ilyen minőségben speciel ez drágább lett volna otthon.</p>
+<p>A mai nap további szocializációval és munkamegbeszélésekkel telt, újabb kollégákkal haverkodtam össze, és már most elkezdtem őket szép lassan becserkészni arra, hogy IM-ezzünk, mert az, hogy csak beszélünk vagy emailezünk egymással, és sehol egy groupskype, az azért nem állapot. A céges gépem egy bitangerős legújabbgen Mac Pro lesz, két forgatható 24″-es HP IPS monitorral (1920×1200), ami, szóval, faszaság.</p>
+<p>A tömegközlekedés remek, van egy rakat villamos meg busz, metró az nincs mert nem elég nagy hozzá a város valamint azt mondták, szopás agyagot fúrni, amin a város nyugszik. Jegyek helyett menő Oyster-szerű NFC-s rendszer van, a város zónákra van osztva, de az egyes zóna maga a város, a többi az az agglomeráció, szóval.</p>
+<p>Az albérletem nagyon menő, kb fél óra gyalog az iroda, ugyanennyi a belváros, mindenki megjegyezte, hogy milyen menő környéken van. A cég szerezte, illetve fizeti nekem (a fizum is ennek megfelelően van kialakítva), és keményen megdolgoztak érte, az albérletkeresés Svédországban össznemzeti extrémsport, majd leírom, miért. Mindenesetre egy szép nagy szoba, konyha, fürdőszoba káddal, erkély (!!!) az utcára nézve, a harmadikon egy négyemeletes lakóparki lakásban.</p>
+<p>Most hirtelen ennyi. Holnap reggel utazok haza, lesz másfél hetem mindent elintézni, lezárni, és elbúcsúzni mindenkitől, mert az a terv, hogy február elsején kezdek itten.</p>
+<p><em>(folytatjuk…)</em></p>
+<p>P.S.: ja igen, asszem ez az egész az egyik legmenőbb születésnapi ajándékom. Merthogy ma lettem 24.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/15/ktamas-svedorszagba-megy-1-resz/">KTamas Svédországba megy, -1. rész</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/15/ktamas-svedorszagba-megy-1-resz/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-15T23:35:19Z">Tuesday, January 15, 2013</time> · 55 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Szóval január 15-én késő délután aláírtam a munkaszerződésemet, egyelőre fix hat hónapra, Svédországba, Göteborgba, a Kommunicera nevű fordítóirodához, majd nem sokkal ezután hazamentem az új albérletembe. Most még csak két napra vagyok itt, aztán jövök vissza nagyonhamar elkezdeni úgy igazán a dolgot.</p>
+<p>A lakáskulcsomon egy viking van, biztos azért, hogy tudjam, hol is vagyok.</p>
+<p><em>(folytatjuk…)</em></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/01/14/coffee-oclock/">Coffee o&#8217;clock</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/01/14/coffee-oclock/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-01-14T15:40:23Z">Monday, January 14, 2013</time> · 0 words · 0 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="/wp-content/uploads/2013/01/kavehocrop.jpg"><img class="aligncenter size-large wp-image-2363438" alt="Coffee o'clock" src="/wp-content/uploads/2013/01/kavehocrop-818x1024.jpg" width="409" height="512" srcset="/wp-content/uploads/2013/01/kavehocrop-818x1024.jpg 818w, /wp-content/uploads/2013/01/kavehocrop-239x300.jpg 239w, /wp-content/uploads/2013/01/kavehocrop.jpg 1554w" sizes="(max-width: 409px) 100vw, 409px" /></a></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
+        </div>
+    </article>
+
+		
+		
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/p/29/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/29/">29</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/p/30/">30</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/31/">31</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/63/">63</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/p/31/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/p/63/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2020. All Rights Reserved.</p>
+		</footer>
+		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-19057096-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	</div>
+</body>
+</html>
+

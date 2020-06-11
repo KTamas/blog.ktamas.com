@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>KTamas&#39; Blog</title>
+	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000" />
+	<meta name="msapplication-TileColor" content="#000" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://blog.ktamas.com/" />
+	<meta property="og:title" content="KTamas’ Blog" />
+	<meta property="og:site_name" content="KTamas&#39; Blog"/>
+	<meta property="og:description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.72.0" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				<h1><a href="/">KTamas&#39; Blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo/">Hogyan mentunk le egyszeruen RTMP streameket (streamelt flashvideo)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-06-18T21:49:39Z">Friday, June 18, 2010</time> · 100 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Amolyan jegyzet magamnak, meg hatha megtalalja egyszer valaki guglibol. Hozzavalok egy linux, amin van iptables es sudo, meg az rtmpdump leforditasahoz szukseges dolgok (ubuntun ez a build-essential csomag).</p>
+<ul>
+<li><a href="http://rtmpdump.mplayerhq.hu/download/">Leszedjuk az internetrol</a> az rtmpdumpot, kicsomagol, configure script nincs, make, sudo make install.</li>
+<li>Hozzaadunk egy tetszoleges felhasznalot <code>sudo adduser rtmpsuck</code></li>
+<li>Atiranyitjuk az rtmp forgalmat az iptables-szel: <code>sudo iptables -t nat -A OUTPUT -p tcp --dport 1935 -m owner &amp;nbsp;\! --uid-owner rtmpsuck -j REDIRECT</code></li>
+<li>Atlepunk a felhasznaloba <code>sudo su rtmpsuck</code></li>
+<li>elinditjuk az rtmpsrv-t egy olyan konyvtarbol, amihez van irasi joga</li>
+<li>elinditjuk a bongeszot, abban pedig a lejatszast, es mar menti is le szepen.</li>
+</ul>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/06/14/london_2082/">Ha mar a dicseretnel tartunk (London, Day One)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/06/14/london_2082/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-06-14T23:28:52Z">Monday, June 14, 2010</time> · 67 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Es annal, hogy jo, mikor a dolgok mukodnek, nos, London <em>mukodik</em>, egeszen durvan. Azon meg nem tettem tul magam, hogy van egy mindent behalozo metro, amivel barmikor barhonnan barhova eljutok, gyakran jar, ja es persze az Oyster card, ami pedig tenyleg a tokeletes jegyrendszer, igazabol <a href="http://twitter.com/sycko">@sycko</a> <a href="http://twitter.com/sycko/status/16155765219">fogalmazta meg jol</a> twitteren, jo erzes, mikor egy varos mukodik, es ugy mukodik, ahogy azt kene neki. Elkapott a varos, na.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/">Endorsement (My name is KTamas and I approve this message)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-06-12T11:00:00Z">Saturday, June 12, 2010</time> · 289 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Mivel mostmar tobb, mint egy eve hasznalom aktivan a harom legnepszerubb operacios rendszert, — Windows 7, Mac OSX, Ubuntu –, sikeresen akviraltam azt a kepesseget, hogy barmelyiket, barmikor tudom szidni is, dicserni is, persze kulonbozo mertekben. Most az utobbi kovetkezik, konkretan annak a kifejtese, hogy a Windows 7 a jelenlegi legjobban osszerakott operacios rendszer <em>out there</em>.</p>
+<h3 id="it-just-works">It Just Works</h3>
+<p>A telepito CD/Pendrive berakasa utan legkesobb harminc perccel mukodo rendszert kapunk, a gepek jo reszen egyaltalan, vagy csak alig kell driverekkel barmit csinalni, mert elintezi a Windows Update — gondolom mindenkiben meg elenken el az XP, a kotelezo egyoras jatek a driverekkel.</p>
+<p>Ezek utan nyitunk egy IE-t, ami, zarojelben jegyezendo meg, a 8-as verzio ota egeszen hasznalhato, ellatogatunk a <a href="http://ninite.com">www.ninite.com</a>-ra, osszekattintgatjuk a szukseges szoftvereket, es ujabb fel ora utan van egy legalabb 90%-osan kesz rendszerunk, alterbongeszovel, video- es zenelejatszoval, virusirtoval, pdf-olvasoval, es meg sorolhatnam — mindezt teljesen ingyen.</p>
+<p>Egy rendszerunk, ami kegyetlen gyors, pedig mar annyira bennunk van, hogy ami uj verzio, az torvenyszeruleg lassabb lesz, de nem, a Windows 7 sebessegben gyakorlatilag egyezik az elodjevel, az XP-vel, milyen kar, hogy a Microsoftnak 8 evbe telt egy uj oprendszert osszehoznia, ami amugy meg atomstabil is, a kekhalalok ideje a multe, talan ha kettot kaptam az elmult evben, ebbol az egyik pedig egy igen pocsek driver hibaja volt.</p>
+<p>Ja, es az Aero szep, nem ugy nez ki, mintha ovodasok rajzoltak volna zsirkretaval, a la Luna of XP. <em>Defaults matter.</em></p>
+<p>Es most elkezdhetnek panaszkodni, hogy de nincs rendes parancssor vagy epp posix, es kulonben is, de nem, ez nem arra van, amit kapunk, az egy gyors, stabil, hasznalhato operacios rendszer, se tobb, se kevesebb, es pont ennyi kell a legtobb embernek (es sokszor nekem is), es vegre megkapjak, es ez annyira jo.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/geekdom/'>geekdom</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/mac/'>mac</a>, <a href='/tags/random/'>random</a>, <a href='/tags/windows/'>windows</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/05/12/zene_vacsorahoz/">Zene vacsorához</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/05/12/zene_vacsorahoz/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-05-12T20:46:00Z">Wednesday, May 12, 2010</time> · 6 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<iframe src="https://open.spotify.com/embed/track/5XRHGXut00SrJUFmcn2lQF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p>OneRepublic – All The Right Moves</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/05/10/adhd/">ADHD</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/05/10/adhd/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-05-10T19:27:00Z">Monday, May 10, 2010</time> · 233 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Nem egyszer szoktam viccelni azzal, hogy papírom van arról, hogy hiperaktív vagyok: ez valójában igaz is, viszont mikor megkérdezik, hogy &ldquo;na jó-jó, de ez mit is jelent pontosan?&rdquo;, akkor elég nehezen tudom megmagyarázni. Most viszont végre megtaláltam az eddigi legeslegjobb definíciót rá, ami tényleg a lényeget ragadja meg, ide is írom, el ne felejtsem, és ezentúl kb. szószerint fogom idézni.</p>
+<meta charset="utf-8" />
+<blockquote>
+<p><strong>ADHD Is Not About Attention Deficiency</strong></p>
+<p>For anyone who has browsed through the basics of ADHD if there is one thing qualified doctors often tell you, it is that ADHD is not about deficiency of the ability to gather attention. As a matter of fact, folks with ADHD tend to be much more attentive than their normal counter parts when they are paying attention. <strong>Having said that, ADHD is about the deficiency to ‘voluntarily’ focus your attention on something.</strong></p>
+<p>Put simply, <strong>your mind silently-and-quietly almost sub-consciously decides the things that it wants to pay attention to and the things it wants to ignore.</strong> Once it does that, no amount of convincing usually tends to work.</p>
+<p>Of course you know exercising is good for your body, of-course you know that reading classics is a great way to improve your writing skills but if your brain has flipped the switch on the side of not doing it, chances are you wont be able to give enough attention to the thing to get it done.</p>
+<p style="text-align: right; ">
+  <a href="http://www.thousandtyone.com/blog/CopingWithADHDOrAvoidingATruckloadOfMultitaskingPart2.aspx">(forrás)</a>
+</p>
+</blockquote>
+<p> </p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/04/26/hardy_progressive_world/">Hardy &#8211; Progressive World</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/04/26/hardy_progressive_world/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-04-26T19:30:00Z">Monday, April 26, 2010</time> · 64 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Az úgy volt, hogy még anno a kedvenc IRC-csatornámban egyszercsak feltűnt egy ismerős ismerőse és valahogy eljutottunk oda, hogy készített egy progressive trance mixet, belinkelte, meghallgattuk, éshát, keményen odavág. Az ember azóta eltűnt, meg volt egyszer tracklistem is, ami aztán elveszett azóta, na mindegy. Szóval itt a mix, a soundcloudról le is lehet tölteni, kattintsatok alul, ha tetszett.</p>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2614857&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<p><span><a href="http://soundcloud.com/ktamasenty/hardy-progressive-world">Hardy – Progressive World</a> by <a href="http://soundcloud.com/ktamasenty">KTamasEnty</a></span></p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/04/18/universal_troubleshooting_for_windows_7/">Universal troubleshooting for Windows 7</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/04/18/universal_troubleshooting_for_windows_7/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-04-18T10:29:00Z">Sunday, April 18, 2010</time> · 15 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p><code>10 PRINT &quot;Check if running it as Administrator solves the problem.&quot;&lt;br /&gt; 20 GOTO 10</code></p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/04/18/padlizsan_4/">En blogoltam ki hamarabb!</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/04/18/padlizsan_4/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-04-18T01:19:00Z">Sunday, April 18, 2010</time> · 43 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="http://kardigan.freeblog.hu">Kardigan</a>: és azt szeretném mondani, hogy a párbeszéd utolsó két mondata<br>
+Kardigan: ANNYIRA GYÖNYÖRŰ<br>
+me: meliknek?<br>
+Kardigan: póló kéne belőle</p>
+<blockquote>
+<p>Kardigan: padlizsán!<br>
+me: oh that’s just low.</p>
+</blockquote>
+<p>Kardigan: és tökre hipszter lenne<br>
+me: igen :D<br>
+Kardigan: mert SENKI nem értené, h ez mi</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/chat/'>chat</a>, <a href='/tags/random/'>random</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/03/25/blackberry_bold_es_az_os5/">Blackberry Bold (9000) és az OS5</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/03/25/blackberry_bold_es_az_os5/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-03-25T20:00:00Z">Thursday, March 25, 2010</time> · 584 words · 3 min read</div>
+        </header>
+        <div class="text">
+
+<p>Már egy jó ideje <strike>szivárogtatja a RIM</strike> szivárognak ki az újabbnál újabb OS5 buildeket mindenféle Berryhez, köztük az én 9000-emhez is, sőt, egy-egy szolgáltató már hivatalos verziókat is kiad, így egyszercsak meguntam a várakozást, hogy majd fél év múlva megjön a magyar T-hez (jó esetben), utánaolvastam a <a href="http://forums.crackberry.com/f3/how-wipe-jl_cmder-53502/">megfelelő</a> <a href="http://forums.crackberry.com/f83/newest-official-os-5-0-0-509-blackberry-bold-9000-wind-hellas-431443/">threadekben</a> a crackberryn, letöltöttem a legújabb Desktop Managert, és a frissítést, és nekiláttam a mellékelt instrukciók szerint, ami egyébként a következő:</p>
+<ol>
+<li><strong>Kijelentkezünk mindenből</strong> a Berryn, különösen a Google Syncből és a Facebookból.</li>
+<li>Letöltöd az új DM-et és frissítést <a href="https://www.blackberry.com/Downloads/entry.do?code=3210DDBEAA16948A702B6049B8D9A202">innét</a>. Ha a rendszer személyes adatokat kérdez tőled, élsz állampolgári jogaiddal, és megadod neki Steve Jobsot és az 1 Infinite Loopot. El fogja fogadni.</li>
+<li>Miután mindkettőt feltelepítetted, a c:\Program Files\Common Files\Research In Motion\AppLoader\ mappából törlöd a vendor.xml fájlt. Esetleg átnevezed, a lényeg, hogy ne legyen ott.</li>
+<li>Letöltöd és felrakod a JL_Cmder nevű segédeszközt <a href="http://forums.crackberry.com/f3/how-wipe-jl_cmder-53502/">innét</a>. Feldugod a gépre a Szedret, backupot készítesz a Desktop Managerrel, biztos helyre elrakod három példányban.</li>
+<li>Elindítod a JL_Cmdert, kiválasztod a 4-es opciót (wipe), végigköveted az utasításokat. Ez letakarít <strong>minden</strong> adatot a szederről, és körülbelül fél percet vesz igénybe</li>
+<li>Ezen a ponton a Bold kijelzője töksötét, csak a piros LED világít. Elindítod az AppLoadert (c:\Program Files\Common Files\Research In Motion\AppLoader\Loader.exe), nyomogatod a Next-eket, ha minden jól megy, eljutsz arra a kijelzőre, ahol kiválaszthatod, mit akarsz még felrakni a szederre, az alaprendszeren kívül. Érdemes tényleg csak azt felrakni, amire szükség van, jótékony hatással van a rendszerre és az elérhető memóriára.</li>
+<li>A Wizard végén a Finish gombra kattintva elindul a frissítés, amely négy lépésből áll. Az elsőben felrakja az alaprendszert, ennél nem kell problémának lennie. Ezután újraindul a Berry, majd egy szép fehér képernyőre jut, ekkor kell(ene) detektálnia újra az AppLoadernek, hogy folytassa a hármas és négyes ponttal, az alkalmazások felrakásával. Ha sokáig próbálkozik felismerni, de a végén, csak egy hibát dob, hogy nem találja (Retry/Cancel), akkor nem esünk pánikba, hanem lehúzzuk a Szedret, majd pár másodperc után feldugjuk, várunk egy kicsit majd nyomunk neki egy Retryt, ekkor azonnal fel kell ismernie, és végigcsinálnia a procedúrát, aminek a végén megintcsak újraindul.</li>
+<li>Ezután úgy 5 percig egy Blackberry feliratú képernyő tölt, a végén meg már az ismert elsőindításos képernyő fogad, amin gyorsan végig lehet menni.</li>
+<li>Hurrá, van OS5 a Szedrünkön!</li>
+</ol>
+<p>Ezen a ponton el lehet kezdeni újratelepítgetni mindenféle thirdparty programot, majd miután ezzel megvagyunk, elindítjuk a Desktop Managert, a Backup and Restore -&gt; Advanced ponton betöltjük (File &gt; Open) a hármas pontban elkíszített backupunkat, és <strong>csak a szükséges adatbázisokat</strong> visszatöltjük (az én esetemben ez nem is volt sok, csa az Address Book, a Phone History és az SMS-ek, meg esetleg az e-mailek). A full restore nem ajánlott, netes fórumokon legalábbis sok problémát ahhoz társítanak.</p>
+<p><strong>So what’s new?</strong></p>
+<p>Szebb rendszer, threaded SMS support, sokkal gyorsabb böngésző, sok-sok egyébb apróság, egyelőre még felfedezés alatt van, meg fogom írni, amiket találok. Egyéb random gondolatok:</p>
+<ul>
+<li>Google Talkot desktopról kell telepíteni, mert valamiért az m.google.com/talk-nak nem tetszik az ötös böngésző.</li>
+<li>A Keyboard Lock úgy tűnhet, hogy eltűnt, valójában azonban átalakult: ha beállítunk jelszót, akkor visszakapjuk a 4.x-os módot, ikonnal-mindennel, ha nem, akkor a * (A) gomb kb. 1 másodpercig való nyomásával lehet lezárni a billentyűzetet, illetve az egész rendszert standbyba rakni. Ebből a Mute gombbal lehet felébreszteni.</li>
+<li>T-n a böngésző neve Web’n’Walk…</li>
+<li>A rendszer <strong>sokkal</strong> gyorsabban indul újra: kb. egy perc a megszokott 4-5 helyett</li>
+<li>Okosabb Bedside Mode! (lásd 1. kép)</li>
+</ul>
+<p>Első ránézésre tehát szép és jó az új rendszer, akksiidőről, stabilitásról, ilyesmiről több tapasztat szerzése után írok majd. <br>
+**<br>
+(Disclaimer: mindenki saját felelősségére frissít, ha valahol valami elromlik, azért felelősséget nem vállalok etc.)**</p>
+<p><img src="http://ktamas.blog.hu/media/image/BBScreenShot_3.png" alt=""></p>
+<p><img src="http://ktamas.blog.hu/media/image/BBScreenShot.png" alt=""></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/blackberry/'>blackberry</a>, <a href='/tags/szeder/'>szeder</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/03/09/when_in_doubt_run_process_monitor/">When in doubt, run Process Monitor</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/03/09/when_in_doubt_run_process_monitor/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-03-09T10:30:00Z">Tuesday, March 9, 2010</time> · 80 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<blockquote>
+<p><a href="http://blogs.technet.com/markrussinovich/archive/2010/01/13/3305263.aspx">“When in doubt, run Process Monitor!” (I follow this advice religiously, even having my daughter run Process Monitor when she comes to me with a homework question)</a></p>
+</blockquote>
+<p>Felvésem ide is, mert örök értékű szabály ez. Tegnap az SQL Express 2008 SP1 telepítője dobott furcsa hibákat, amire a <a href="http://support.microsoft.com/kb/300956/en-us">megadott Microsoft KB</a> adott mégfurcsább és méghomályosabb nemválaszokat. <a href="http://www.symantec.com/connect/articles/install-and-configure-sql-server-2008-express#comment-2751821">Kis guglizás után</a> pedig– a <a href="http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx">Process Explorer</a>en keresztül — eljutottunk a <a href="http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx">Process Monitor</a>ig, ami megmondta, melik registry bejegyzést kell hova klónozni, hogy működjön a telepítés.</p>
+<p> </p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/random/'>random</a>, <a href='/tags/windows/'>windows</a>
+        </div>
+    </article>
+
+		
+		
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/p/45/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/45/">45</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/p/46/">46</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/47/">47</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/63/">63</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/p/47/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/p/63/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2020. All Rights Reserved.</p>
+		</footer>
+		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-19057096-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	</div>
+</body>
+</html>
+

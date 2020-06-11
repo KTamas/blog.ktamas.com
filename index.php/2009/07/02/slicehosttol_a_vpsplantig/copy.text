@@ -1,0 +1,26 @@
+Slicehosttól a VPSPlantig
+=========================
+
+
+Szóval az egész úgy kezdődött még kb. egy éve, hogy ismerős ismerőse osztogatott ingyen VPS-eket. Persze az egész nem tartott sokáig, de addigra gyorsan rájöttem ezeknek a hasznosságára: IRC bouncer / bot, wordpress, egyéb random hülyeségek hosztolására kiváló platform, úgyhogy körülnéztünk, és ráakadtunk a Slicehostra, akkor az tűnt a legjobbnak. Tény, hogy minőségi szolgáltatást nyújtanak, csilivili kontrolpanellel, saját DNS szerverrel, ajaxos konzollal, miegymással. Csakhát: egyrészt csak 64-bites disztrók voltak (programfüggő, de átlagban jelentősen magasabb memóriahasználat), másrészt nem is volt olcsó, az utóbbi 1-2 hónapban sokkal jobb dealeket találtam. Úgyhogy nemrég megléptük a váltást a magyar VPSPlantre: duplannyi memória, 32-bites disztró, végre nincs ssh lag és kb. egy ezressel olcsóbb, mint amit eddig fizettem. Ezek voltak a pozitívumok, szóval alapjába véve jól megy, de.
+
+  * Nincs swap. Ez egyelőre nem zavar, mert van még egy rakat kihasználatlan szabad memóriám, és ha swappolásra kerülne a sor, akkor ott már más gondok vannak ugye. De ha majd nagyon kell, vannak trükkök ennek kikerülésére tudtommal
+  * Sajnos egyelőre fix 2.6.18-as kernel, amivel sajna nem megy még pl. az iotop
+  * Bizonyos TCP paramétereket nem tud piszkálni a tűzfalscriptem (ami igazából nem is enyém, egy sokkal tapasztaltabb [dutow](http://mentalstatic.info/) rakta össze. still.)
+  * RDNS-t nem lehet webes felületen állítani, kérni kell a szupporttól
+  * A szupport válaszideje egyelőre változó, volt már szűk másfél nap is, amit kicsit sokallok.
+  * PayPal a megrendelőform ellenére egyelőre nincs.
+
+Egyik se dealbreaker, szerintem jól elleszek ezzel, de remélem ezek előbb-utóbb javulni fognak.
+
+-------------------------------------------------------------------------------
+
+Thursday, 2 Jul 2009
+By KTamas
+https://blog.ktamas.com/index.php/2009/07/02/slicehosttol_a_vpsplantig/
+
+More about...
+
+* geekdom:   https://blog.ktamas.com/tags/geekdom/
+* linux:     https://blog.ktamas.com/tags/linux/
+* szerverek: https://blog.ktamas.com/tags/szerverek/

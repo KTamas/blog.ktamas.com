@@ -1,0 +1,19 @@
+Bibliaolvasó
+============
+
+
+Papírformában már régóta léteznek az ún. Biblaolvasó kalauzok, amelyek általában arra szolgálnak, hogy egy adott rendszer szerint végigvezesse az embert egy év alatt a Biblián. Most azonban LacKac megcsinálta ugyanezt [online formában](http://bibliaolvaso.hu) is, egyelőre a Károli-féle fordítással és nem utolsó sorban új, izgalmas és _bleeding edge_ technológiákkal, kulcsszavakban: Edge Rails, HAML, SAAS, Compass, CouchDB. Bővebb infó [erre](http://lackac.hu/2009/01/19/bibliaolvaso). 
+
+P.S: természetesen van RSS feed is :)
+
+-------------------------------------------------------------------------------
+
+Monday, 19 Jan 2009
+By KTamas
+https://blog.ktamas.com/index.php/2009/01/19/bibliaolvaso/
+
+More about...
+
+* hit:         https://blog.ktamas.com/tags/hit/
+* programozás: https://blog.ktamas.com/tags/programoz%C3%A1s/
+* rails:       https://blog.ktamas.com/tags/rails/

@@ -1,0 +1,34 @@
+Addendum a desktoplinuxos temahoz
+=================================
+
+
+> The most irritating example in GNOME 3.0 is the deliberate decision to leave the reboot and shutdown options off of the system menu by default.
+> 
+> [&#8230;]
+> 
+> Fortunately, there is an **easy** fix. You simply have to install the `gnome-shell-extensions-alternative-status-menu` package from the Fedora repository.
+> 
+> [&#8230;]
+> 
+> In the default configuration, users can no longer see files and folders on their desktop.
+> 
+> [&#8230;]
+> 
+> One of the most controversial design decisions in GNOME 3.0 leading up to the desktop&#8217;s launch was the removal of the minimize and maximize buttons from window titlebars.
+> 
+> [&#8230;]
+
+Az [egesz cikk tanulsagos](http://arstechnica.com/open-source/news/2011/06/howto-four-tweaks-to-bring-back-missing-functionality-in-gnome-30.ars), mindenkepp erdemes elolvasni. Fel fogok valamire rakni egy Fedora 15-ot mostmar es megnezni, milyen meglepetesek vannak meg ezen felul&#8230;
+
+(az &#8216;easy&#8217; kiemelese tolem. yum install nagyon-hosszu-pekizsnev, easy fix, mi?)
+
+-------------------------------------------------------------------------------
+
+Wednesday, 1 Jun 2011
+By KTamas
+https://blog.ktamas.com/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/
+
+More about...
+
+* ajánló: https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/
+* linux:  https://blog.ktamas.com/tags/linux/

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Converting My Blog To Hugo and Getting Rid of My VPS</title>
+	<meta name="description" content="I have a blog (you’re reading it!). It’s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still up in the Wayback Machine, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000" />
+	<meta name="msapplication-TileColor" content="#000" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/" />
+	<meta property="og:title" content="Converting My Blog To Hugo and Getting Rid of My VPS" />
+	<meta property="og:site_name" content="KTamas&#39; Blog"/>
+	<meta property="og:description" content="I have a blog (you’re reading it!). It’s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still up in the Wayback Machine, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.72.0" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				<h1><a href="/">KTamas&#39; Blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main>
+    <article class="post">
+        <header>
+            <h1 class="title">Converting My Blog To Hugo and Getting Rid of My VPS</h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2019-02-01T11:46:09Z">Friday, February 1, 2019</time> · 955 words · 5 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="https://blog.ktamas.com">I have a blog</a> (you&rsquo;re reading it!). It&rsquo;s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still <a href="http://web.archive.org/web/20070208165650/http://blog.ktamas.com/">up in the Wayback Machine</a>, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</p>
+<h3 id="from-wordpress-to-jekyll-to-hugo">From Wordpress to Jekyll to Hugo</h3>
+<p>About a week ago I decided it was time to migrate it to <a href="https://jekyllrb.com/">Jekyll</a>. I was bored, and it gave me a good excuse to play with a static site generator. Plus, doing this kind of conversion became a rite of passage for people working in tech these days.</p>
+<p><em>This is not a complete guide; you can find hundreds of them with a <a href="https://www.google.com/search?q=convert+wordpress+to+jekyll">quick google</a>. I will, however, provide a general overview of the process with some helpful pointers and links.</em></p>
+<p>I started by migrating all the comments to Disqus with their <a href="https://wordpress.org/plugins/disqus-comment-system/">official Wordpress plugin</a>. After that, I used a <a href="https://wordpress.org/plugins/jekyll-exporter/">Jekyll exporter plugin</a> that converted all my posts into markdown&hellip; except it stripped all the embeds.</p>
+<p>I used to blog a lot about music, so I had a lot of embeds, mostly from Youtube. In retrospect, I could have saved myself some time by patching the exporter or finding another one. In the end, however, I ended up fixing every single post by hand. I replaced old, pre-iframe flash embed codes with updated ones and changed the newer, but still http ones to https. In most places, if the video was not necessary or wasn&rsquo;t available anymore, I added the song to the post via Spotify. The chances of a given song being up on Spotify in a few years feels <em>marginally</em> higher than on Youtube right now. I had a few other embeds that I could fix with newer code (Soundcloud) and others that I couldn&rsquo;t (Deezer), but most of the time I could find the given song or playlist within Spotify. All of this had the benefit of walking down on memory lane, reading 10-year old blog posts and cringing a lot. <em>I was so young.</em></p>
+<hr>
+<p>I&rsquo;ve found a <a href="https://github.com/vinitkumar/white-paper">reasonably decent theme</a> for Jekyll, which felt like a good starting point, though it didn&rsquo;t have built-in support for tags or archives. I started googling how to implement that, and around the same time I was venting about my embed issues on the XOXO slack. That was when <a href="https://twitter.com/theory">David</a> chimed in about his experiences on doing this exact same process, except he ended up using <a href="https://gohugo.io">Hugo</a>, another popular static site generator that&rsquo;s kind of like Jekyll except faster. <a href="https://github.com/theory/justatheory/tree/master/themes/justatheory">The theme</a> of <a href="https://justatheory.com">his blog</a> had everything I wanted: a fancy archives page and proper support for tags. So I figured I might as well continue my journey: switch to Hugo and use his theme as a basis.</p>
+<p>Jekyll is written in Ruby and uses a simple templating language. Hugo&rsquo;s code is in Go, and it uses Go&rsquo;s own templates; they definitely have a learning curve, even if you have coded in Go before. With some help, googling and a lot of trial and error, I got the hang of it and managed to change things to my liking as well as the look and the color scheme of the site. I converted most of my posts&rsquo; <a href="https://gohugo.io/content-management/front-matter/">front matter</a> <a href="https://github.com/coderzh/ConvertToHugo">with a script</a> and fixed the rest with a few search-and-replaces. With 8-10 hours of work behind me — half of that was fixing those embeds — I had my new blog ready to be <a href="https://pages.github.com/">hosted on Github Pages for free</a>. I use a modified version of the <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script-1">sample deploy script</a> they have in Hugo&rsquo;s documentation.</p>
+<h3 id="getting-rid-of-my-vps">Getting Rid of My VPS</h3>
+<p>I had a small VPS at Linode for years now, hosting my pet projects, my blog and a bunch of static sites (like my <a href="https://ktamas.com">home page</a>) over the years. It also had OpenVPN installed so I could watch iPlayer for free until BBC started cracking down on that. By now it only had my blog and those static sites; I figured if I could find something for the latter, I could ditch the VPS entirely.</p>
+<p>I don&rsquo;t remember how, but I came across <a href="https://netlify.com">Netlify</a>. They give you free static hosting with extremely generous soft limits (100 gigs of storage, 100 GB/month transfer). You just point them to a Github repository, and about 30 seconds later you have your site ready, with support for multiple custom domains and SSL.</p>
+<p>I spent an hour or two moving everything to Netlify, changing the necessary DNS entries and in the end, I was ready to say goodbye to my VPS and save a grand total of $7 a month in the future. I made backups of everything and then, somewhat emotionally pressed the &ldquo;Delete&rdquo; button on Linode&rsquo;s control panel. I wouldn&rsquo;t be surprised if I would get another one eventually for a side project or something, but for now, I&rsquo;m happy with my all my stuff hosted around the internet for free and stored in git repos.</p>
+<h3 id="on-the-future-of-my-blog">On the Future of My Blog</h3>
+<p>There is a lot more content to come as I started writing regularly. Feel free to <a href="http://feeds.feedburner.com/KTamasBlog">subscribe to this blog</a> in your favorite RSS reader.</p>
+<p>Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.</p>
+<p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>
+        </div>
+    </article>
+
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ktamas" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2020. All Rights Reserved.</p>
+		</footer>
+		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-19057096-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	</div>
+</body>
+</html>
+
