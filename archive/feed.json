@@ -12,6 +12,15 @@
 	},
 	"items": [
 		{
+			"id": "https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/",
+			"url": "https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/",
+			"title": "The Story of My Avatar",
+			"summary": "The year is 2016. It was a Monday, starting my second week of my first trip to New York in August, and I was sitting on the subway. I think I was just looking at my phone, not paying much attention to anything when suddenly, approaching a station, someone hands me a drawing. Of me.\nI was flabbergasted; this guy just gave me a sketch of me, and an amazing one of that.",
+			"date_published": "2020-08-22T14:37:25Z",
+			"content_html": "\u003cp\u003eThe year is 2016. It was a Monday, starting my second week of my first trip to New York in August, and I was sitting on the subway. I think I was just looking at my phone, not paying much attention to anything when suddenly, approaching a station, someone hands me a drawing. Of me.\nI was flabbergasted; this guy just gave me a sketch of me, and an amazing one of that.\u003c/p\u003e",
+			"content_text": "The year is 2016. It was a Monday, starting my second week of my first trip to New York in August, and I was sitting on the subway. I think I was just looking at my phone, not paying much attention to anything when suddenly, approaching a station, someone hands me a drawing. Of me.\nI was flabbergasted; this guy just gave me a sketch of me, and an amazing one of that."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/",
 			"url": "https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/",
 			"title": "My !!Con 2020 experience as a speaker",

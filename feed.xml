@@ -3,16 +3,57 @@
 	<id>https://blog.ktamas.com/</id>
 	<title>KTamas&#39; Blog</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
-	<updated>2020-06-10T12:32:44Z</updated>
+	<updated>2020-08-22T14:37:25Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
 	</author>
-	<generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
+	<generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2020. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/</id>
+		<title>The Story of My Avatar</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/"/>
+		<updated>2020-08-22T14:37:25Z</updated>
+		<published>2020-08-22T14:37:25Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="newyork" label="newyork"/>
+		<summary>The year is 2016. It was a Monday, starting my second week of my first trip to New York in August, and I was sitting on the subway. I think I was just looking at my phone, not paying much attention to anything when suddenly, approaching a station, someone hands me a drawing. Of me.
+I was flabbergasted; this guy just gave me a sketch of me, and an amazing one of that.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>The year is 2016. It was a Monday, starting my second week of my first trip to New York in August, and I was sitting on the subway. I think I was just looking at my phone, not paying much attention to anything when suddenly, approaching a station, someone hands me a drawing. Of me.</p>
+<p>I was flabbergasted; this guy just gave me a sketch of me, and an amazing one of that. I may have given him a dollar or two, then he got off the train.</p>
+<p>I loved it so much that I took a picture of it; you may recognize it since it&rsquo;s the avatar I use everywhere on the internet for the past 4 years:</p>
+<p><img src="https://i.imgur.com/41qnsTl.jpg" alt="Orin"></p>
+<p>It was one of the coolest &ldquo;this is a <em>very</em> New York thing&rdquo; moments I had.</p>
+<p>I didn&rsquo;t know who this person was, and although he signed the image, it&rsquo;s hard to read and I didn&rsquo;t think much of it, so that was that.</p>
+<hr>
+<p>Three years later, <a href="https://writetogether.space/posts/ktamas/day-7-park-slope-and-beyond">I&rsquo;m in New York again, at the XOXO meetup</a> at the Lavender Lake bar, and somehow I was telling the story of how I got my avatar to my friend <a href="https://twitter.com/notdetails">Joel</a>. He looks at the picture, notices the signature, starts googling and lo and behold, he finds this article: <a href="https://news.artnet.com/art-world/orin-subway-sketch-artist-339991">Meeting This Artist Could Be the Best Thing to Happen to You on the Subway</a>. I encourage you to read it, but here are the first two paragraphs:</p>
+<blockquote>
+<p>For most New Yorkers, performers on the subway must be endured as part of our daily commutes. However, imagine my surprise this past weekend as I looked up from a conversation with my Tetris-engrossed boyfriend to see that there was a man with a sketchbook across from us, quietly drawing our portrait in broad strokes with a black marker.</p>
+</blockquote>
+<blockquote>
+<p>That man is <a href="https://orinstudio.wordpress.com/">Orin</a>, and maybe you&rsquo;ve seen him, too. He told me he&rsquo;s drawn over 500,000 portraits of people on the subway, as part of a daily project he&rsquo;s been doing for the last 15 years.</p>
+</blockquote>
+<p>Incidentally, the article was written just two weeks before Orin drew my picture. This is not the only one about him, though: <a href="https://www.mirror.co.uk/news/world-news/watch-subway-artist-draw-incredible-3986561">here&rsquo;s one in the Mirror in 2014</a> and <a href="https://www.nytimes.com/2004/07/06/nyregion/faster-than-a-speeding-train-artist-man.html">one in the New York Times way back from 2004</a>.</p>
+<p>You can find more of his work on <a href="https://orinstudio.wordpress.com/">his website</a>. It was recently updated, and according to a <a href="https://twitter.com/tonyc592/status/1060580399359901696">tweet from 2018</a>, he&rsquo;s still around, still drawing sketches of random New Yorkers. I hope he&rsquo;s well.</p>
+
+<footer>
+    <a title="Permanent link to “The Story of My Avatar”" href="https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/">The Story of My Avatar</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/newyork/'>newyork</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/</id>
 		<title>My !!Con 2020 experience as a speaker</title>
@@ -1540,43 +1581,6 @@ This was a cool car close to the Outpost.</p>
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/travel/'>travel</a>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/</id>
-		<title>My Recent Media Diet (February, 2019)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/"/>
-		<updated>2019-02-16T08:26:17Z</updated>
-		<published>2019-02-16T08:26:17Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
-		<category scheme="https://blog.ktamas.com/tags" term="mediadiet" label="mediadiet"/>
-		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
-		<summary>Here’s a bunch of television I’ve been enjoying recently.
-Russian Doll: This was the highlight of recent times: 8 episodes of pure fun, with a proper ending. It’s best watched not knowing anything about it but here are the first five minutes: Nadia leaves her birthday party, and on the way home gets hit by a taxi, and dies. The next moment Nadia is back where the episode started, alive and well, on her own birthday party.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>Here&rsquo;s a bunch of television I&rsquo;ve been enjoying recently.</p>
-<p><strong><a href="https://www.netflix.com/title/80211627">Russian Doll</a>:</strong> This was the highlight of recent times: 8 episodes of pure fun, with a proper ending. It&rsquo;s best watched not knowing anything about it but here are the first five minutes: Nadia leaves her birthday party, and on the way home gets hit by a taxi, and dies. The next moment Nadia is back where the episode started, alive and well, on her own birthday party. It&rsquo;s up on Netflix.</p>
-<p><strong><a href="https://en.wikipedia.org/wiki/File:Star_Trek_Discovery_title_card.jpg">Star Trek: Discovery (Season 2)</a>:</strong> I&rsquo;ve only seen three episodes of the new season so far but all of them have been great and I very much like this new take on Star Trek. The fact that it&rsquo;s a prequel to The Original Series bothers me, though, because they could have had a lot more creative freedom and do less retconning if it would be set in another universe. It&rsquo;s also up on Netflix or CBS All Access if you&rsquo;re in the US.</p>
-<p><strong><a href="https://en.wikipedia.org/wiki/Hanna_(TV_series)">Hanna (pilot)</a></strong>: This is based on the excellent <a href="https://www.imdb.com/title/tt0993842/">movie of the same name</a>. Hanna is raised in the forest by his father in isolation, training her to be self-sufficient and strong, because someone in the CIA is hunting them for Reasons we don&rsquo;t know yet. The pilot shows a lot of promise, but we&rsquo;ll have to wait until March to see the rest. It&rsquo;s up on Amazon Prime Video.</p>
-<p><strong><a href="https://en.wikipedia.org/wiki/Strike_Back_(TV_series)">Strike Back (Season 5)</a></strong>: A big, dumb action series about Section 20, a black ops group of MI6, saving the world, or at least parts of it. The writers&rsquo; contract mandated at least two machine-gun fights per episode. It&rsquo;s&hellip; okay at best, I won&rsquo;t be watching Season 6.</p>
-<p><strong><a href="https://en.wikipedia.org/wiki/Counterpart_(TV_series)">Counterpart (Season 2)</a></strong>: Just before the end of the Cold War, scientists in East Germany discovered a parallel universe, a clone of theirs. In present day, Howard is working as a low-level bureucrat at the UN, overseeing the connection between those worlds, too low on the food chain to know what his actual work is about. Until one day, his &ldquo;other&rdquo; shows up, demanding to speak with him&hellip;<br>
-Season 2 has one episode left but so far the series shows no signs of getting boring or tired. Highly recommended.</p>
-<p><strong><a href="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place (Season 3)</a></strong>: This has been quite a ride, huh? The first part of the season is a bit disorganized but it gets better as they go along and boy did they put on hell of a season finale. Can&rsquo;t wait for Season 4. If you haven&rsquo;t seen this series, check it out and don&rsquo;t read anything about it, because spoilers can ruin at least half the fun. Should be up on Netflix in Europe.</p>
-<p><strong><a href="https://en.wikipedia.org/wiki/The_Punisher_(TV_series)">The Punisher (Season 2)</a></strong>: I loved the first season, but I quit this season after four episodes. The antagonist of Season 2 is just really, really bad. If you can get past that, it&rsquo;s on Netflix.</p>
-<p>What have you been watching lately?</p>
-
-<footer>
-    <a title="Permanent link to “My Recent Media Diet (February, 2019)”" href="https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/">My Recent Media Diet (February, 2019)</a>
-    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-    Tagged
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/recommendations/'>recommendations</a>
         </div>
 </footer>]]></content>
 	</entry>

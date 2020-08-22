@@ -11,9 +11,18 @@
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
 	</author>
-	<generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
+	<generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2020. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/</id>
+		<title>The Story of My Avatar</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/"/>
+		<updated>2020-08-22T14:37:25Z</updated>
+		<published>2020-08-22T14:37:25Z</published>
+		<summary>The year is 2016. It was a Monday, starting my second week of my first trip to New York in August, and I was sitting on the subway. I think I was just looking at my phone, not paying much attention to anything when suddenly, approaching a station, someone hands me a drawing. Of me.
+I was flabbergasted; this guy just gave me a sketch of me, and an amazing one of that.</summary>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/</id>
 		<title>My !!Con 2020 experience as a speaker</title>
@@ -249,15 +258,6 @@ What is XOXO? Not everyone reading this knows what XOXO is or how it works, so I
 		<updated>2019-02-17T13:14:58Z</updated>
 		<published>2019-02-17T13:14:58Z</published>
 		<summary>My sister came over last night, and we had a good time. We cooked what we pretty much always cook — fajitas — and watched a movie, as well as started planning a short summer trip to Estonia and Finland. I’ve been there, but she hasn’t, and I like both places, so I’m happy to go with her and show my favorite places there, as well as explore new ones. Right now the plan is to spend a day in Tallinn, at least a day and a half in a nearby national park, then take the ferry to Helsinki and visit the woods near Espoo before heading home.</summary>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/</id>
-		<title>My Recent Media Diet (February, 2019)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/"/>
-		<updated>2019-02-16T08:26:17Z</updated>
-		<published>2019-02-16T08:26:17Z</published>
-		<summary>Here’s a bunch of television I’ve been enjoying recently.
-Russian Doll: This was the highlight of recent times: 8 episodes of pure fun, with a proper ending. It’s best watched not knowing anything about it but here are the first five minutes: Nadia leaves her birthday party, and on the way home gets hit by a taxi, and dies. The next moment Nadia is back where the episode started, alive and well, on her own birthday party.</summary>
 	</entry>
 </feed>
 

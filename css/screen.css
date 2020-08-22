@@ -88,7 +88,7 @@ menu, nav, section, summary {
 a {
     color: #3366bb;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 a:visited {
@@ -279,7 +279,7 @@ h1.link a:after {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 800;
+    font-weight: bold;
     text-rendering: optimizelegibility;
     margin-top: 20px;
     margin-bottom: 5px;
@@ -439,7 +439,7 @@ em, dfn {
 }
 
 strong, dfn {
-    font-weight: 800;
+    font-weight: bold;
 }
 
 del, s {

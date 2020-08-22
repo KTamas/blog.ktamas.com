@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.72.0" />
+	<meta name="generator" content="Hugo 0.74.3" />
 </head>
 <body>
 	<div id="container">
@@ -49,6 +49,28 @@
 		</header>
 
 	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/11/15/huje_postgresql/">Hüje PostgreSQL</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/11/15/huje_postgresql/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-11-15T23:33:54Z">Sunday, November 15, 2009</time> · 174 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Akkor most random rendszergazdai puffogás következik, muszáj leírni.</p>
+<p>Szóval az történt hogy kedvenc céges projektkezelonket migráltam 7.4-es Postgresrol 8.1-re, pontosabban új szerverre, de ezzel járt eme váltás is.  Minden rendben ment — kivéve, hogy a timesheet feature (ki mit hol mennyit dolgozott) hirtelen megszunt muködni, ahol ugye napokhoz vannak rendelve projektek és idok. Nézegettem a program kódját, semmi, SVN-bol checkoultoltam, de minden stimmelt, áthoztam a régi szerverrol a program mappáját, hátha mégiscsak változott valami, de nem. Újraimportáltam az adatbázist, hátha valami hiba elkerülte a figyelmem, de nem, minden rendben. Akkor kezdjünk el querykkel játszani mindkét szerveren… hoppá.</p>
+<p>Ami a régi szerveren 2009-01-10 00:00:00+01 az az újon 2009-01-09 23:00:00+00… igen, minden ido szépen GMT-hez lett igazítva, így minden egy napot ugrott vissza, pontosabban az elozo napra ugrott vissza. Túrtam a netet, és a konfig fájlokat, de semmit se találtam. Így <a href="http://serverfault.com/questions/84927/postgresql-7-4-8-1-migration-timezone-issue">megkérdeztem lazywebet (olvasd: megkérdeztem a ServerFaulton)</a>, és meg is lett a megoldás: az új verzióval kell a régi szervert dumpolni!</p>
+<p>Nem baj, úgyis hajat akartam vágni, csak most kicsit furcsák a kopasz foltok a fejemen…</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/random/'>random</a>, <a href='/tags/szerverek/'>szerverek</a>
+        </div>
+    </article>
+
 		
 		    <article class="post">
         <header>
@@ -274,632 +296,47 @@
     </article>
 
 		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2009/09/10/infected_mushroom_koncert/">Infected Mushroom koncert</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/09/10/infected_mushroom_koncert/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-09-10T23:54:58Z">Thursday, September 10, 2009</time> · 48 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Szóval az a helyzet, hogy <a href="http://20y.hu/20090910/mangosbakardia-hutoben.html" target="_blank">most olvastam a 20y-on</a>, hogy sok év után <a href="http://www.last.fm/event/1175667+Infected+Mushroom" target="_blank">hazánkba látogat</a> minden idők legjobb PsyTrance csapata, az Infected Mushroom (akikről <a href="http://ktamas.blog.hu/media/image/200909/?p=9" target="_blank">még a kezdetekben írtam</a>), egyszóval november 20-án ott kell lenni a <a href="http://www.clubplay.hu/" target="_blank">Club Play</a>ben, ráadásul a beugró potom 10 eurónak megfelelő összeg lesz, szóval pláne.</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/koncert/'>koncert</a>, <a href='/tags/zene/'>zene</a>
-        </div>
-    </article>
-
 		
-		
-
 <ul class="pagination">
-    
-    <li class="page-item">
-        <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-    </li>
-    
-    <li class="page-item">
+  <li class="page-item">
+    <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+  </li>
+  <li class="page-item">
     <a href="/p/47/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="/">1</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="/p/2/">2</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="/p/3/">3</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="/p/47/">47</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item active"><a class="page-link" href="/p/48/">48</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="/p/49/">49</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="/p/63/">63</a></li>
-    
-    
-    <li class="page-item">
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/">1</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/p/2/">2</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/p/3/">3</a>
+  </li>
+  <li class="page-item disabled">
+    <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/p/47/">47</a>
+  </li>
+  <li class="page-item active">
+    <a class="page-link" href="/p/48/">48</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/p/49/">49</a>
+  </li>
+  <li class="page-item disabled">
+    <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/p/63/">63</a>
+  </li>
+  <li class="page-item">
     <a href="/p/49/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-    </li>
-    
-    <li class="page-item">
-        <a href="/p/63/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-    </li>
-    
+  </li>
+  <li class="page-item">
+    <a href="/p/63/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+  </li>
 </ul>
 
 

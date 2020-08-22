@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ktamas.com/</loc>
+    <lastmod>2020-08-22T14:37:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/</loc>
+    <lastmod>2020-08-22T14:37:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/newyork/</loc>
+    <lastmod>2020-08-22T14:37:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2020/08/22/the-story-of-my-avatar/</loc>
+    <lastmod>2020-08-22T14:37:25+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/bangbangcon/</loc>
     <lastmod>2020-06-10T12:32:44+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/conference/</loc>
-    <lastmod>2020-06-10T12:32:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/</loc>
-    <lastmod>2020-06-10T12:32:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/</loc>
     <lastmod>2020-06-10T12:32:44+00:00</lastmod>
   </url>
   
