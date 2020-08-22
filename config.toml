@@ -1,7 +1,7 @@
 title = "KTamas' Blog"
 baseURL = "https://blog.ktamas.com/"
 languageCode = "en-us"
-copyright = "© Tamas Kadar, 2009-2019. All Rights Reserved."
+copyright = "© Tamas Kadar, 2009-2020. All Rights Reserved."
 theme = "justatheory"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -14,6 +14,7 @@ enableRobotsTXT = true
 disableKinds = ["section"]
 disqusShortname = "ktamas"
 googleAnalytics = "UA-19057096-1"
+publishDir = "public"
 
 [author]
     name = "KTamas"
